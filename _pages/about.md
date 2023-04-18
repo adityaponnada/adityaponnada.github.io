@@ -78,6 +78,6 @@ Aditya Ponnada*, Seth Cooper*, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh
 
 Qu Tang, Aditya Ponnada, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2020. [Selected for Spotlight Presentation]
 
-Disertation
+Dissertation
 ------
 Aditya Ponnada (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA
