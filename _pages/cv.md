@@ -12,13 +12,13 @@ author_profile: true
 Education
 ------
 **B.Des (Design), Indian Institute of Technology, Guwahati, 2013**
- * Department of Design
+ * Dept: Department of Design
  * Thesis: Trust-inducing interface elements in online shopping
  * Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
 **Ph.D (Personal Health Informatics), Northeastern University, 2021**
- * Khoury College of Computer Sciences
- * Bouve College of Health Sciences
+ * Dept: Khoury College of Computer Sciences
+ * Dept: Bouve College of Health Sciences
  * Thesis: Measuring subjective experiences using wearable microinteractions
  * Advisor: Prof. Stephen Intille
 
@@ -66,6 +66,11 @@ Experience
  * Research areas: Mobile User Experience and Usability Engineering
  * Location: Hyderabad, India
   
+Open-source Contribution
+------
+* **MixWILD:** A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data
+* **Signaligner Pro:** An interactive tool for algorithm-assisted exploration and annotation of raw accelerometer data
+
 Awards and Honors
 ------
 * Special Recognition for Outstanding Reviews, IMWUT 2017 and 2022
@@ -79,34 +84,27 @@ Awards and Honors
 
 Service and Leadership
 ------
-* Vice-chair, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
-* Member, ACM SIGCHI (2021 – present)
-* Member, Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023)
-* Member, Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* Peer-reviewer (Computer Science): ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2023), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023)
-* Peer-reviewer (Health and Behavior Science): Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB)
-* Peer-reviewer (Engineering): IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
-* Open-source core-contribution, MixWILD (2017 – present), Signaligner Pro (2019 – present)
-* Student mentoring:
-  * Northeastern University: Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
-  * Spotify: Yu Liang (PhD TU Eindhiven'2022)
-* Chair, Student Design Consortium, IndiaHCI 2015
-* Representative, DUPC (Department Undergraduate Program Committee), Department of Design, IIT Guwahati (2012-13)
+* **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
+* **Member**, ACM SIGCHI (2021 – present)
+* **Member**, Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023)
+* **Member**, Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
+* **Peer-reviewer** (Computer Science): ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2023), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023)
+* **Peer-reviewer** (Health and Behavior Science): Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB)
+* **Peer-reviewer** (Engineering): IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
+* **Chair**, Student Design Consortium, IndiaHCI 2015
+* **Representative**, Department Undergraduate Program Committee, Department of Design, IIT Guwahati (2012-13)
 
 Presentations and Talks
 ------
-* [TALK] “The very basics of user research” at Indian School of Business — 2021 (The UX Factor talk series)
-* [DEMO] “Signaligner Pro: A tool to explore and annotate multi-day raw accelerometer data” at IEEE PerCom (ARDUOUS Workshop) — 2021.
-* [TALK] “Improving health behavior measurements using mobile technologies” at University of West London (virtually) – 2020. Host- Prof. Jose Abdelnour Nocera
-* [TALK] “Introduction to mobile, wearable, and ubiquitous interaction design” – guest lecture for HCI course at Northeastern University. Host – Stefan Olafsson
-* [TALK] “Health behavior research – A design problem” at GoInvo (formerly Involution Studios), Cambridge, MA — 2019. Host – Juhan Sonin
-* [TALK] “Microinteractions-based ecological momentary assessments (μEMA) using a smartwatch” at Patient-Reported Outcomes, Values, and Experiences (PROVE) center, Brigham and Women’s Health, Harvard Medical, Boston, MA — 2018. Host – Prof. Chris Sidey-Gibbons
-* [TALK] “Longitudinal measurement of self-reported behavior using wearable devices” at MITRE Corporation, Cambridge, MA — 2018. Host – Harry Sleeper
-* [TALK] “Using microinteractions for longitudinal measurement of human behavior”, at Human Factors and Ergonomic Society (HFES), New England Chapter Student Research Symposium, Draper Laboratories, Cambridge, MA –2018.
-* [POSTER] “Using microinteractions for longitudinal measurement of human behavior”, at Data Science in Biomedical Research (Marvin Zelen Memorial Symposium), Dana Farber Cancer Research Institute, Boston, MA — 2018.
-* [POSTER] “Using microinteractions for longitudinal measurement of human behavior”, at Research, Innovation, and Scholarship Expo (RISE 2018), Northeastern University, Boston, MA — 2018.
-* [POSTER] “Can microinteractions improve longitudinal measurement of behavior?” at Annual Boston Area Psychology Grad Student Symposium (April 2017), Northeastern University, Boston, MA — 2017.
-* [TALK] “Can microinteractions improve longitudinal measurement of behavior?”, at PHI Seminar on Health and Technology (Sept 2016), Northeastern University, Boston, MA — 2016.
+* The very basics of user research, Indian School of Business — 2021 (The UX Factor talk series)
+* Improving health behavior measurements using mobile technologies, University of West London (virtually) – 2020. Host- Prof. Jose Abdelnour Nocera
+* Health behavior research – A design problem at GoInvo (formerly Involution Studios), Cambridge, MA — 2019. Host – Juhan Sonin
+* Microinteractions-based ecological momentary assessments (μEMA) using a smartwatch, PROVE center, Harvard Medical, Boston, MA — 2018. Host – Prof. Chris Sidey-Gibbons
+* Longitudinal measurement of self-reported behavior using wearable devices, MITRE Corporation, Cambridge, MA — 2018. Host – Harry Sleeper
+* Using microinteractions for longitudinal measurement of behavior, HFES New England Chapter Student Research Symposium, Draper Laboratories, Cambridge, MA –2018.
+* Using microinteractions for longitudinal measurement of behavior, Data Science in Biomedical Research (Marvin Zelen Memorial Symposium), Dana Farber Cancer Research Institute, Boston, MA — 2018.
+* Can microinteractions improve longitudinal measurement of behavior?, Annual Boston-area Psychology Grad Student Symposium, Northeastern University, Boston, MA — 2017.
+* Can microinteractions improve longitudinal measurement of behavior?, PHI Seminar, Northeastern University, Boston, MA — 2016.
 
 Outreach and Coverage
 ------
@@ -115,14 +113,15 @@ Outreach and Coverage
 * Smart fitness devices like Fitbits could help change your behaviors with this new approach - Northeastern Global News, Mar 2020
 * Northeastern University professor combines computer science with health and measurement with self-reporting to improve accuracy of fitness tracking - Northeastern Global News, Sept 2019
 
+Mentoring and Advising
+------
+* **Northeastern University:** Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
+* **Spotify:** Yu Liang (PhD TU Eindhiven'2022)
+
 Skills
 ------
-* UX & HCI Research: Qualitative, Quantitative, Experiments, Interviews (Users & Experts), Questionnaire Designs, Experience Sampling, Psychophysiological Assessments, Item Response Theory
-* Usability & Design: Hi & Lo-fi Prototyping, Card Sorting, Personas & Scenarios, Participatory Design, Heuristic Evaluation, Wireframing, Information Architecture, A/B Testing, Think Aloud Protocols, Eye-Movement Recording and physiological assessments, Hierarchical Task Analysis
-* Programming: R, JAVA, Python, C#, SQL, SAS, HTML, CSS, C, ActionScript, Processing
-* Software/APIs: Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
-* Data Analysis: Univariate & Multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling & Processing
-
-Languages
-------
-English (Working Proficiency), Hindi (Working Proficiency), Telugu (Working Proficiency), Sanskrit (Limited Working Proficiency)
+* **HCI Research:** Qualitative, Quantitative, Experiments, Interviews (Users & Experts), Questionnaire Designs, Experience Sampling, Psychophysiological Assessments, Item Response Theory
+* **Usability & Design:** Hi & Lo-fi Prototyping, Card Sorting, Personas & Scenarios, Participatory Design, Heuristic Evaluation, Wireframing, Information Architecture, A/B Testing, Think Aloud Protocols, Eye-Movement Recording and physiological assessments, Hierarchical Task Analysis
+* **Programming:** R, JAVA, Python, C#, SQL, SAS, HTML, CSS, C, ActionScript, Processing
+* **Software/APIs:** Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
+* **Data Analysis:** Univariate & Multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling & Processing
