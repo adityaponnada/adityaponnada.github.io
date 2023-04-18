@@ -16,6 +16,7 @@ Publications
 **2022**
 
 Aditya Ponnada, Shirlene Wang, Daniel Chu, Bridgette Do, Genevieve Dunton, and Stephen Intille. Intensive Longitudinal Data Collection using Microinteraction Ecological Momentary Assessment (μEMA): Pilot and Preliminary Results. JMIR Formative Research, 2022 (to appear)
+
 Dunton, G.F., Wang, W., Intille, S.S., Dzubur, E., Ponnada, A., Hedeker, D. Acute Affect dynamics and longitudinal changes in physical activity among children. Journal of Behavioral Medicine, 2022 (to appear)
 
 **2021**
