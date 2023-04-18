@@ -123,6 +123,6 @@ Skills
 * Software/APIs: Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
 * Data Analysis: Univariate & Multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling & Processing
 
-Skills
+Languages
 ------
 English (Working Proficiency), Hindi (Working Proficiency), Telugu (Working Proficiency), Sanskrit (Limited Working Proficiency)
