@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Des (Design), Indian Institute of Technology, Guwahati, 2013
+* Ph.D in Personal Health Informatics, Khoury College of Computer Science and Bouve College of Health Sciences, Northeastern University, Boston, MA, 2021
 
-Work experience
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
