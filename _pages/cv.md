@@ -11,7 +11,7 @@ author_profile: true
 
 Education
 ------
-* **B.Des (Design), Indian Institute of Technology, Guwahati, 2013**
+**B.Des (Design), Indian Institute of Technology, Guwahati, 2013**
  * Dept: Department of Design
  * Thesis: Trust-inducing interface elements in online shopping
  * Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
