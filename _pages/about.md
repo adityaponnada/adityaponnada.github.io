@@ -60,7 +60,7 @@ Sanjay Ghosh, Sarita Seshagiri, and **Aditya Ponnada**. 2016. Exploring Regional
 
 **2013**
 
-Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital chameleons: The effect of mimicry by a virtual social agent on user trust. **PERSUASIVE'13** \[:trophy: Best Paper Award\]
+Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital chameleons: The effect of mimicry by a virtual social agent on user trust. **PERSUASIVE'13** \[ :trophy: Best Paper Award \]
 
 **2012**
 
@@ -73,7 +73,7 @@ Peer-reviewed workshops
 
 **Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom (Workshops)**
 
-Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. \[:trophy: Selected for spotlight presentation\]
+Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. \[ :trophy: Selected for spotlight presentation \]
 
 Dissertation
 ------
