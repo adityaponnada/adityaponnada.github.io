@@ -24,7 +24,7 @@ Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enablin
 
 Rithika Lakshminarayanan, Alexandra Canori, **Aditya Ponnada**, Melissa Nunn, Mary Schmidt Read, Shivayogi V. Hiremath, and Stephen Intille. 2022. Exploring Opportunities to Improve Physical Activity in Individuals with Spinal Cord Injury Using Context-Aware Messaging. **ACM CSCW'22**
 
-Yi, L., Wang, S. D., Chu, D., **Ponnada, A.**, Intille, S. S., & Dunton, G. F. (2022). Examining whether physical activity location choices were associated with weekly physical activity maintenance across 13 months of the COVID-19 pandemic in emerging adults. **Journal of Physical Activity and Health**
+Yi, L., Wang, S. D., Chu, D., **Ponnada, A.**, Intille, S. S., & Dunton, G. F. (2022). Examining whether physical activity location choices were associated with weekly physical activity maintenance across 13 months of the COVID-19 pandemic in emerging adults. **Journal of Physical Activity and Health'22**
 
 Wang S, Intille S, **Ponnada A**, Do B, Rothman A, Dunton G. Investigating Microtemporal Processes Underlying Health Behavior Adoption and Maintenance: Protocol for an Intensive Longitudinal Observational Study. **JMIR Research Protocols'22**
 
@@ -71,10 +71,10 @@ Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital 
 Peer-reviewed workshops
 ------
 
-**Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom (Workshops)**
+**Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom'21 (Workshops)**
 
 Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. \[ :trophy: Selected for spotlight presentation \]
 
 Dissertation
 ------
-Aditya Ponnada (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA
+**Aditya Ponnada** (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA
