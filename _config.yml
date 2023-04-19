@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aditya Ponnada"
   avatar           : "portrait_image.jpg"
-  bio              : "Your biography for the left-hand sidebar test"
+  bio              : "Research Scientist, Spotify"
   location         : "Greater Boston"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Ponnada+A"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/adityaponnada/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0072-1089"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "&AdityaPonnada"
+  twitter          : "https://twitter.com/AdityaPonnada"
   vine             :
   weibo            :
   xing             :
