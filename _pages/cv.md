@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: ""
+title: "Resume"
 permalink: /cv/
 author_profile: true
 <!-- redirect_from:
@@ -11,60 +11,46 @@ author_profile: true
 
 Education
 ------
-**B.Des (Design), Indian Institute of Technology, Guwahati, 2013**
- * Dept: Department of Design
- * Thesis: Trust-inducing interface elements in online shopping
- * Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
+**B.Des (Design)**, Department of Design, Indian Institute of Technology (IIT), Guwahati, 2013
+* Thesis: Trust-inducing interface elements in online shopping
+* Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
-**Ph.D (Personal Health Informatics), Northeastern University, 2021**
- * Dept: Khoury College of Computer Sciences
- * Dept: Bouve College of Health Sciences
+**Ph.D (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021**
  * Thesis: Measuring subjective experiences using wearable microinteractions
  * Advisor: Prof. Stephen Intille
 
 Experience
 ------
-**Research Scientist, Spotify, Jan 2022 - *present***
- * Group: Human-in-the-AI Lab
- * Group Lead: Sam F Way
+**Research Scientist**, Spotify, Jan 2022 - *present*
+ * Group: Human-in-the-AI Lab led by Sam F Way
  * Research areas: Human Computer Interaction and Personalization
  * Location: Boston, MA
 
-**Graduate Research Assistant, Northeastern University, Sep 2015 - Dec 2021**
- * Group: mHealth Research Group
- * Group Lead: Stephen S Intille
+**Graduate Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
+ * Group: mHealth Research Group led by Stephen S Intille
  * Dept: Khoury College of Computer Science and Bouve College of Health Sciences
  * Research areas: Experience sampling and Mobile Computing
  * Location: Boston, MA
  
-**Research Intern, Philips, May 2019 - Aug 2019**
- * Group: Philips Design and Innovation
- * Group Lead: Leontien de Roode
+**Research Intern**, Philips, May 2019 - Aug 2019
+ * Group: Philips Design and Innovation led by Leontine de Roode
  * Research areas: Wearable Computing and Human-AI Interactions
  * Location: Boston, MA
  
-**UX Researcher, Samsung R&D Institute, Jul 2013 - Jul 2015**
- * Group: Next eXperiences with Technology (NXT) Group
- * Group Lead: Sarita Seshairi
+**UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015
+ * Group: Next eXperiences with Technology (NXT) Group led by Sarita Seshagiri
  * Research areas: Mobile Health, Input Methods, and Accessibility
  * Location: Bengaluru, India
 
-**Research Assistant, TU Eindhoven (TU/e), May 2012 - Jul 2012**
- * Group: Human Technology Interaction (HTI) Group
- * Group Lead(s): Jaap Ham and Cees Midden
+**Research Assistant**, TU Eindhoven (TU/e), May 2012 - Jul 2012
+ * Group: Human Technology Interaction (HTI) Group led by Jaap Ham and Cees Midden
  * Research areas: Human-AI Interactions and Virtual Agents
  * Location: Eindhoven, The Netherlands
 
-**Research Assistant, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011**
- * Group: UE + HCI Group
- * Group Lead(s): Pradeep Yammiyavar and Debayan Dhar
+**Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011
+ * Group: UE + HCI Group led by Pradeep Yammiyavar and Debayan Dhar
  * Research areas: Human Computer Interaction and Usability Engineering
  * Location: Guwahati, India
-
-**UX Intern, Iridium Interactive Pvt. Ltd., May 2011 - Jul 2011**
- * Group Lead(s): Sriram Bharatam
- * Research areas: Mobile User Experience and Usability Engineering
- * Location: Hyderabad, India
   
 Open-source Contribution
 ------
