@@ -82,22 +82,21 @@ Service and Leadership
 
 Presentations and Talks
 ------
-* The very basics of user research, Indian School of Business — 2021 (The UX Factor talk series)
-* Improving health behavior measurements using mobile technologies, University of West London (virtually) – 2020. Host- Prof. Jose Abdelnour Nocera
-* Health behavior research – A design problem at GoInvo (formerly Involution Studios), Cambridge, MA — 2019. Host – Juhan Sonin
-* Microinteractions-based ecological momentary assessments (μEMA) using a smartwatch, PROVE center, Harvard Medical, Boston, MA — 2018. Host – Prof. Chris Sidey-Gibbons
-* Longitudinal measurement of self-reported behavior using wearable devices, MITRE Corporation, Cambridge, MA — 2018. Host – Harry Sleeper
-* Using microinteractions for longitudinal measurement of behavior, HFES New England Chapter Student Research Symposium, Draper Laboratories, Cambridge, MA –2018.
-* Using microinteractions for longitudinal measurement of behavior, Data Science in Biomedical Research (Marvin Zelen Memorial Symposium), Dana Farber Cancer Research Institute, Boston, MA — 2018.
-* Can microinteractions improve longitudinal measurement of behavior?, Annual Boston-area Psychology Grad Student Symposium, Northeastern University, Boston, MA — 2017.
-* Can microinteractions improve longitudinal measurement of behavior?, PHI Seminar, Northeastern University, Boston, MA — 2016.
+* **The very basics of user research**, Indian School of Business — 2021 (The UX Factor talk series)
+* **Health behavior research – A design problem** at GoInvo (formerly Involution Studios), Cambridge, MA — 2019. Host – Juhan Sonin
+* **Microinteractions-based ecological momentary assessments (μEMA) using a smartwatch**, PROVE center, Harvard Medical, Boston, MA — 2018. Host – Prof. Chris Sidey-Gibbons
+* **Longitudinal measurement of self-reported behavior using wearable devices**, MITRE Corporation, Cambridge, MA — 2018. Host – Harry Sleeper
+* **Using microinteractions for longitudinal measurement of behavior**, HFES New England Chapter Student Research Symposium, Draper Laboratories, Cambridge, MA –2018.
+* **Using microinteractions for longitudinal measurement of behavior**, Data Science in Biomedical Research (Marvin Zelen Memorial Symposium), Dana Farber Cancer Research Institute, Boston, MA — 2018.
+* **Can microinteractions improve longitudinal measurement of behavior?**, Annual Boston-area Psychology Grad Student Symposium, Northeastern University, Boston, MA — 2017.
+* **Can microinteractions improve longitudinal measurement of behavior?**, PHI Seminar, Northeastern University, Boston, MA — 2016.
 
 Outreach and Coverage
 ------
-* Exploring Goal-oriented Podcast Recommendations - Spotify R & D Blog, Mar 2023
-* How video games could be used to generate AI training data - VentureBeat, Feb 2022
-* Smart fitness devices like Fitbits could help change your behaviors with this new approach - Northeastern Global News, Mar 2020
-* Northeastern University professor combines computer science with health and measurement with self-reporting to improve accuracy of fitness tracking - Northeastern Global News, Sept 2019
+* Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023
+* How video games could be used to generate AI training data - **VentureBeat**, Feb 2022
+* Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020
+* Northeastern University professor combines computer science with health and measurement with self-reporting to improve accuracy of fitness tracking - **Northeastern Global News**, Sept 2019
 
 Mentoring and Advising
 ------
