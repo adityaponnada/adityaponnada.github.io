@@ -76,7 +76,7 @@ Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital 
 Peer-reviewed workshops
 ------
 
-**Aditya Ponnada**<sup>*</sup>, **Seth Cooper**<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom (Workshops)**
+**Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom (Workshops)**
 
 Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. [Selected for Spotlight Presentation]
 
