@@ -12,7 +12,7 @@ I am a Research Scientist at Spotify, where I am a member of the Human-in-the-AI
 
 Publications
 ------
-Peer-reviewed journal and conference publications. Here, <sup>*</sup> indicates equal contributions by the authors.
+Peer-reviewed journal and conference publications. Here, { <sup>*</sup> } indicates equal contributions by the authors.
 
 **2023**
 
