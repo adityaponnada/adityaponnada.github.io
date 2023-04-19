@@ -12,46 +12,51 @@ I am a Research Scientist at Spotify, where I am a member of the Human-in-the-AI
 
 Publications
 ------
+Peer-reviewed journal and conference publications. Here, <sup>*</sup> indicates equal contributions by the authors.
+
+**2023**
+
+Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enabling Goal-Focused Exploration of Podcasts in Interactive Recommender Systems. **International Conference on Intelligent User Interfaces (IUI '23)**
 
 **2022**
 
-Aditya Ponnada, Shirlene Wang, Daniel Chu, Bridgette Do, Genevieve Dunton, and Stephen Intille. Intensive Longitudinal Data Collection using Microinteraction Ecological Momentary Assessment (μEMA): Pilot and Preliminary Results. JMIR Formative Research, 2022 (to appear)
+**Aditya Ponnada**, Jixin Li<sup>*</sup>, Shirlene Wang, Wei-Lin Wang, Bridgette Do, Genevieve F. Dunton, and Stephen S. Intille. 2022. Contextual Biases in Microinteraction Ecological Momentary Assessment (μEMA) Non-response. **Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)**
 
-Dunton, G.F., Wang, W., Intille, S.S., Dzubur, E., Ponnada, A., Hedeker, D. Acute Affect dynamics and longitudinal changes in physical activity among children. Journal of Behavioral Medicine, 2022 (to appear)
+Rithika Lakshminarayanan, Alexandra Canori, **Aditya Ponnada**, Melissa Nunn, Mary Schmidt Read, Shivayogi V. Hiremath, and Stephen Intille. 2022. Exploring Opportunities to Improve Physical Activity in Individuals with Spinal Cord Injury Using Context-Aware Messaging. **Proc. ACM Hum.-Comput. Interact. 6, CSCW**
+
+Yi, L., Wang, S. D., Chu, D., **Ponnada, A.**, Intille, S. S., & Dunton, G. F. (2022). Examining whether physical activity location choices were associated with weekly physical activity maintenance across 13 months of the COVID-19 pandemic in emerging adults. **Journal of Physical Activity and Health**
+
+Wang S, Intille S, **Ponnada A**, Do B, Rothman A, Dunton G. Investigating Microtemporal Processes Underlying Health Behavior Adoption and Maintenance: Protocol for an Intensive Longitudinal Observational Study. **JMIR Res Protoc 2022**
+
+**Aditya Ponnada**, Shirlene Wang, Daniel Chu, Bridgette Do, Genevieve Dunton, and Stephen Intille. Intensive Longitudinal Data Collection using Microinteraction Ecological Momentary Assessment (μEMA): Pilot and Preliminary Results. **JMIR Formative Research, 2022**
+
+Dunton, G. F., Wang, W. L., Intille, S. S., Dzubur, E., **Ponnada, A.**, & Hedeker, D. (2022). How acute affect dynamics impact longitudinal changes in physical activity among children. **Journal of Behavioral Medicine**
 
 **2021**
 
-Aditya Ponnada, Binod Thapa-Chhetry, Justin Manjourides, and Stephen Intille. Measuring Criterion Validity of Microinteraction Ecological Momentary Assessment (Micro-EMA): Exploratory Pilot Study with Physical Activity Measurement. JMIR Mhealth Uhealth, 2021. doi:10.2196/23391. http://dx.doi.org/10.2196/23391
-[HTML]
+**Aditya Ponnada**, Binod Thapa-Chhetry, Justin Manjourides, and Stephen Intille. Measuring Criterion Validity of Microinteraction Ecological Momentary Assessment (Micro-EMA): Exploratory Pilot Study with Physical Activity Measurement. **JMIR Mhealth Uhealth, 2021**
 
-Chih-Hsiang Yang, Jaclyn P Maher, Aditya Ponnada, Eldin Dzubur, Rachel Nordgren, Stephen Intille, Donald Hedeker, Genevieve F Dunton, An empirical example of analysis using a two-stage modeling approach: within-subject association of outdoor context and physical activity predicts future daily physical activity levels, Translational Behavioral Medicine, 2021, https://doi.org/10.1093/tbm/ibaa107.
-[PDF] [HTML]
+Chih-Hsiang Yang, Jaclyn P Maher, **Aditya Ponnada**, Eldin Dzubur, Rachel Nordgren, Stephen Intille, Donald Hedeker, Genevieve F Dunton. An empirical example of analysis using a two-stage modeling approach: within-subject association of outdoor context and physical activity predicts future daily physical activity levels. **Translational Behavioral Medicine, 2021**
 
 **2020**
 
-Dzubur, E.*, Ponnada, A.*, Nordgren, R.*, Yang, C-H., Intille, S. S., Dunton, G. F., & Hedeker, D., (2020). MixWILD: A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data. Behavior Research Methods, DOI: 10.3758/s13428-019-01322-1.
-[PDF] [HTML]
+Dzubur, E.<sup>*</sup>, **Ponnada, A.**<sup>*</sup>, Nordgren, R.<sup>*</sup>, Yang, C-H., Intille, S. S., Dunton, G. F., & Hedeker, D., (2020). MixWILD: A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data. **Behavior Research Methods**
 
 **2019**
 
-Aditya Ponnada*, Seth Cooper*, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. 2019. Designing Videogames to Crowdsource Accelerometer Data Annotation for Activity Recognition Research. In Proceedings of the Annual Symposium on Computer-Human Interaction in Play (CHI PLAY ’19). ACM, New York, NY, USA, 135-147. DOI: https://doi.org/10.1145/3311350.3347153
-[PDF] [HTML]
+**Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. 2019. Designing Videogames to Crowdsource Accelerometer Data Annotation for Activity Recognition Research. **CHI PLAY’19**
 
 **2017**
 
-Farnaz Irannejad Bisafar, Aditya Ponnada, Ameneh Shamekhi, and Andrea G. Parker. 2017. A Sociotechnical Study of a Community-based Rewards Program: Insights on Building Social, Financial and Human Capital. Proc. ACM Hum.-Comput. Interact. 1, CSCW, Article 55 (November 2017), 21 pages. DOI:https://doi.org/10.1145/3134690
-[PDF] [HTML]
+Farnaz Irannejad Bisafar, **Aditya Ponnada**, Ameneh Shamekhi, and Andrea G. Parker. 2017. A Sociotechnical Study of a Community-based Rewards Program: Insights on Building Social, Financial and Human Capital. Proc. **ACM Hum.-Comput. Interact. 1, CSCW**
 
-Aditya Ponnada, Caitlin Haynes, Dharam Maniar, Justin Manjourides, and Stephen Intille. 2017. Microinteraction ecological momentary assessment response rates: Effect of microinteractions or the smartwatch? PACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, DOI: 10.11.45.
-[PDF] [HTML]
+**Aditya Ponnada**, Caitlin Haynes, Dharam Maniar, Justin Manjourides, and Stephen Intille. 2017. Microinteraction ecological momentary assessment response rates: Effect of microinteractions or the smartwatch? **Interact. Mob. Wearable Ubiquitous Technol. (IMWUT)**
 
 **2016**
 
-Intille, S., Haynes, C., Maniar, D., Ponnada, A., Manjourides, J. (2016, September) μEMA: Microinteraction-based Ecological Momentary Assessment (EMA) Using a Smartwatch. In Proceedings of the 2016 ACM Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016).
-[PDF] [HTML]
+Stephen Intille, Caitlin Haynes, Dharam Maniar, **Aditya Ponnada**, and Justin Manjourides. 2016. μEMA: Microinteraction-based ecological momentary assessment (EMA) using a smartwatch. **UbiComp'16**.
 
-Ghosh, S., Seshagiri, S., & Ponnada, A. (2016, May). Exploring Regional User Experience for Designing Ultra Low-Cost Smartphones. In Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems (pp. 768-776). ACM.
-[PDF] [HTML]
+Sanjay Ghosh, Sarita Seshagiri, and **Aditya Ponnada**. 2016. Exploring Regional User Experience for Designing Ultra Low Cost Smart Phones. **CHI EA'16**
 
 **2015**
 
@@ -60,23 +65,20 @@ Seshagiri, S., & Ponnada, A. (2015). Exploring Smart-Car Space in Urban India. I
 
 **2013**
 
-Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital chameleons: The effect of mimicry by a virtual social agent on user trust. In Persuasive Technology (pp. 234-245). Springer Berlin Heidelberg. [Best Paper Award at PERSUASIVE 2013]
-[PDF]
+Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital chameleons: The effect of mimicry by a virtual social agent on user trust. **PERSUASIVE'13** [Best Paper Award at PERSUASIVE 2013]
 
 **2012**
 
-Ponnada, A.*, Ketan, K. V.*, & Yammiyavar, P. (2012, December). A Persuasive game for the social development of children in Indian cultural context—A Human-Computer Interaction design approach. In Intelligent Human-Computer Interaction (IHCI), 2012 4th International Conference on(pp. 1-6). IEEE.
-[PDF]
+**Ponnada, A.**, Ketan, K. V., & Yammiyavar, P. (2012, December). A Persuasive game for the social development of children in Indian cultural context—A Human-Computer Interaction design approach. **Intelligent HCI'12**
 
-Ponnada, A., & Kannan, A. (2012, August). Evaluation of mobile games using playability heuristics. In Proceedings of the International Conference on Advances in Computing, Communications and Informatics(pp. 244-247). ACM.
-[PDF]
+**Ponnada, A.**, & Kannan, A. (2012, August). Evaluation of mobile games using playability heuristics. **ICACCI'12**
 
 Peer-reviewed workshops
 ------
 
-Aditya Ponnada*, Seth Cooper*, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. In 2021 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, pp. 475-480, doi: 10.1109/PerComWorkshops51409.2021.9431110.
+**Aditya Ponnada**<sup>*</sup>, **Seth Cooper**<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom (Workshops)**
 
-Qu Tang, Aditya Ponnada, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at Conference on Neural Information Processing Systems (NeurIPS) 2020. [Selected for Spotlight Presentation]
+Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. [Selected for Spotlight Presentation]
 
 Dissertation
 ------
