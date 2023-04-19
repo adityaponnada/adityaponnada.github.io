@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Research Scientist at Spotify, where I study how people, cultures, and personaization shape each other to create best tailored user experiences. I am a member of Human in the AI (HAI) lab. I completed my PhD in Personal Health Informatics from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA. The focus of my PhD research was on improving experience sampling methods to gather large-scale temporally dense behavioral information in real-world settings.
+I am a Research Scientist at Spotify, where I am a member of the Human-in-the-AI (HAI) Lab. I study how people, cultures, and personaization shape each other to create best tailored user experiences. I completed my PhD in Personal Health Informatics from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA. My PhD research focused on improving experience sampling methods to gather large-scale temporally dense behavioral information in real-world settings.
 
 Publications
 ------
