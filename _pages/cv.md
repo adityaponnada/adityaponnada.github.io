@@ -15,7 +15,7 @@ Education
 * Thesis: Trust-inducing interface elements in online shopping
 * Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
-**Ph.D (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021**
+**Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021**
  * Thesis: Measuring subjective experiences using wearable microinteractions
  * Advisor: Prof. Stephen Intille
 
@@ -23,13 +23,13 @@ Experience
 ------
 **Research Scientist**, Spotify, Jan 2022 - *present*
  * Group: Human-in-the-AI Lab led by Sam F Way
- * Research areas: Human Computer Interaction and Personalization
+ * Research areas: Human-Computer Interaction and Personalization
  * Location: Boston, MA
 
-**Graduate Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
+**Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
  * Group: mHealth Research Group led by Stephen S Intille
  * Dept: Khoury College of Computer Science and Bouve College of Health Sciences
- * Research areas: Experience sampling Mobile Computing, and human-computation
+ * Research areas: Experience sampling, Mobile Computing, and Human-Computation
  * Location: Boston, MA
  
 **Research Intern**, Philips, May 2019 - Aug 2019
@@ -97,7 +97,7 @@ Outreach and Coverage
 * Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023
 * How video games could be used to generate AI training data - **VentureBeat**, Feb 2022
 * Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020
-* Northeastern University professor combines computer science with health and measurement with self-reporting to improve accuracy of fitness tracking - **Northeastern Global News**, Sept 2019
+* Northeastern University professor combines computer science with health and measurement with self-reporting to improve the accuracy of fitness tracking - **Northeastern Global News**, Sept 2019
 
 Mentoring and Advising
 ------
@@ -110,4 +110,4 @@ Skills
 * **Usability & Design:** Hi & Lo-fi Prototyping, Card Sorting, Personas & Scenarios, Participatory Design, Heuristic Evaluation, Wireframing, Information Architecture, A/B Testing, Think Aloud Protocols, Eye-Movement Recording and physiological assessments, Hierarchical Task Analysis
 * **Programming:** R, JAVA, Python, C#, SQL, BigQuery, SAS, HTML, CSS, C, ActionScript, Processing
 * **Software/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
-* **Data Analysis:** Univariate & Multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling & Processing
+* **Data Analysis:** Univariate and multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling and processing
