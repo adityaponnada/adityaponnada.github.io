@@ -29,7 +29,7 @@ Experience
 **Graduate Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
  * Group: mHealth Research Group led by Stephen S Intille
  * Dept: Khoury College of Computer Science and Bouve College of Health Sciences
- * Research areas: Experience sampling and Mobile Computing
+ * Research areas: Experience sampling Mobile Computing, and human-computation
  * Location: Boston, MA
  
 **Research Intern**, Philips, May 2019 - Aug 2019
@@ -43,13 +43,13 @@ Experience
  * Location: Bengaluru, India
 
 **Research Assistant**, TU Eindhoven (TU/e), May 2012 - Jul 2012
- * Group: Human Technology Interaction (HTI) Group led by Jaap Ham and Cees Midden
+ * Group: Human-Technology Interaction (HTI) Group led by Jaap Ham and Cees Midden
  * Research areas: Human-AI Interactions and Virtual Agents
  * Location: Eindhoven, The Netherlands
 
 **Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011
  * Group: UE + HCI Group led by Pradeep Yammiyavar and Debayan Dhar
- * Research areas: Human Computer Interaction and Usability Engineering
+ * Research areas: Human-Computer Interaction and Usability Engineering
  * Location: Guwahati, India
   
 Open-source Contribution
@@ -59,7 +59,8 @@ Open-source Contribution
 
 Awards and Honors
 ------
-* Special Recognition for Outstanding Reviews, IMWUT 2017 and 2022
+* Distinguished Research Paper Award, PACM IMWUT (vol 6.) 2023  
+* Special Recognition for Outstanding Reviews, IMWUT 2017, 2022 and CHI 2024
 * BostonCHI Lifetime Membership awarded by FutureWei Technologies, 2020.
 * NU-TECH + AWS Award by NEU Center for Entrepreneurship Education, 2018.
 * Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Student Research Symposium, 2018.
@@ -101,12 +102,12 @@ Outreach and Coverage
 Mentoring and Advising
 ------
 * **Northeastern University:** Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
-* **Spotify:** Yu Liang (PhD TU Eindhiven'2022)
+* **Spotify Research:** Yu Liang (PhD TU Eindhiven'2023), Julie Jiang (PhD student, USC. Also, Forbes 30 under 30 in Science category)
 
 Skills
 ------
-* **HCI Research:** Qualitative, Quantitative, Experiments, Interviews (Users & Experts), Questionnaire Designs, Experience Sampling, Psychophysiological Assessments, Item Response Theory
+* **HCI Research:** Qualitative, Quantitative, Experiments, Interviews (Users & Experts), Questionnaire Designs, Experience Sampling, in-situ diary studies, Psychophysiological Assessments, Item Response Theory
 * **Usability & Design:** Hi & Lo-fi Prototyping, Card Sorting, Personas & Scenarios, Participatory Design, Heuristic Evaluation, Wireframing, Information Architecture, A/B Testing, Think Aloud Protocols, Eye-Movement Recording and physiological assessments, Hierarchical Task Analysis
-* **Programming:** R, JAVA, Python, C#, SQL, SAS, HTML, CSS, C, ActionScript, Processing
-* **Software/APIs:** Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
+* **Programming:** R, JAVA, Python, C#, SQL, BigQuery, SAS, HTML, CSS, C, ActionScript, Processing
+* **Software/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
 * **Data Analysis:** Univariate & Multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling & Processing
