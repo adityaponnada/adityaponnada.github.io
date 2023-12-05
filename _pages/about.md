@@ -23,7 +23,7 @@ Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enablin
 **2022**
 
 **Aditya Ponnada**<sup>*</sup>, Jixin Li<sup>*</sup>, Shirlene Wang, Wei-Lin Wang, Bridgette Do, Genevieve F. Dunton, and Stephen S. Intille. 2022. Contextual Biases in Microinteraction Ecological Momentary Assessment (μEMA) Non-response. **ACM IMWUT'22** 
-  \[ :trophy: Distinguished Paper Award \]
+      \[ :trophy: Distinguished Paper Award \]
 
 Rithika Lakshminarayanan, Alexandra Canori, **Aditya Ponnada**, Melissa Nunn, Mary Schmidt Read, Shivayogi V. Hiremath, and Stephen Intille. 2022. Exploring Opportunities to Improve Physical Activity in Individuals with Spinal Cord Injury Using Context-Aware Messaging. **ACM CSCW'22**
 
