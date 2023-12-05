@@ -11,7 +11,7 @@ author_profile: true
 
 Education
 ------
-**Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021**
+**Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021
  * Thesis: Measuring subjective experiences using wearable microinteractions
  * Advisor: Prof. Stephen Intille
 
