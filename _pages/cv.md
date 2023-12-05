@@ -11,13 +11,13 @@ author_profile: true
 
 Education
 ------
-**B.Des (Design)**, Department of Design, Indian Institute of Technology (IIT), Guwahati, 2013
-* Thesis: Trust-inducing interface elements in online shopping
-* Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
-
 **Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021**
  * Thesis: Measuring subjective experiences using wearable microinteractions
  * Advisor: Prof. Stephen Intille
+
+**B.Des (Design)**, Department of Design, Indian Institute of Technology (IIT), Guwahati, 2013
+* Thesis: Trust-inducing interface elements in online shopping
+* Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
 Experience
 ------
