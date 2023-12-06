@@ -102,12 +102,12 @@ Outreach and Coverage
 Mentoring and Advising
 ------
 * **Northeastern University:** Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
-* **Spotify Research:** Yu Liang (PhD TU Eindhiven'2023), Julie Jiang (PhD student, USC. Also, Forbes 30 under 30 in Science category)
+* **Spotify Research:** Yu Liang (PhD TU Eindhoven'2023), Julie Jiang (PhD student, USC. Also, Forbes 30 under 30 in Science category)
 
 Skills
 ------
 * **HCI Research:** Qualitative, Quantitative, Experiments, Interviews (Users & Experts), Questionnaire Designs, Experience Sampling, in-situ diary studies, Psychophysiological Assessments, Item Response Theory
 * **Usability & Design:** Hi & Lo-fi Prototyping, Card Sorting, Personas & Scenarios, Participatory Design, Heuristic Evaluation, Wireframing, Information Architecture, A/B Testing, Think Aloud Protocols, Eye-Movement Recording and physiological assessments, Hierarchical Task Analysis
-* **Programming:** R, JAVA, Python, C#, SQL, BigQuery, SAS, HTML, CSS, C, ActionScript, Processing
+* **Programming:** R, JAVA, Python, C#, SQL, BigQuery, SAS, HTML, CSS, C, Processing
 * **Software/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
 * **Data Analysis:** Univariate and multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling and processing
