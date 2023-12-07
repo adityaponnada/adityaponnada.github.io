@@ -55,13 +55,13 @@ Experience
   
 Open-source Contribution
 ------
-* **MixWILD:** A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data
-* **Signaligner Pro:** An interactive tool for algorithm-assisted exploration and annotation of raw accelerometer data
+* **MixWILD** - an interactive program to conduct multi-level modeling on longitudinal data. Available here[https://reach-lab.github.io/MixWildGUI/] and used in behavioral health workshops for advanced statistical training.
+* **Signaligner Pro** - an interactive tool to visualize and annotate large-scale raw sensor data collected at high frequencies. Available here[https://signaligner.org/] and used in several NIH studies to label sensor data for ML training.
 
 Awards and Honors
 ------
 * Distinguished Research Paper Award, PACM IMWUT (vol 6.) 2023  
-* Special Recognition for Outstanding Reviews, IMWUT 2017, 2022 and CHI 2024
+* Special Recognition for Outstanding Reviews, PACM IMWUT 2017, 2022 and ACM CHI 2024
 * BostonCHI Lifetime Membership awarded by FutureWei Technologies, 2020.
 * NU-TECH + AWS Award by NEU Center for Entrepreneurship Education, 2018.
 * Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Research Symposium, 2018.
@@ -75,9 +75,7 @@ Service and Leadership
 * **Member**, ACM SIGCHI (2021 – present)
 * **Member**, Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023)
 * **Member**, Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* **Peer-reviewer** (Computer Science): ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023)
-* **Peer-reviewer** (Health and Behavior Science): Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB)
-* **Peer-reviewer** (Engineering): IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
+* **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
 
 Presentations and Talks
 ------
