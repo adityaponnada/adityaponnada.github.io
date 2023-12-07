@@ -24,7 +24,7 @@ Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enablin
 
 **2022**
 
-**Aditya Ponnada**<sup>*</sup>, Jixin Li<sup>*</sup>, Shirlene Wang, Wei-Lin Wang, Bridgette Do, Genevieve F. Dunton, and Stephen S. Intille. 2022. Contextual Biases in Microinteraction Ecological Momentary Assessment (μEMA) Non-response. **ACM IMWUT'22** 
+**Aditya Ponnada**, Jixin Li, Shirlene Wang, Wei-Lin Wang, Bridgette Do, Genevieve F. Dunton, and Stephen S. Intille. 2022. Contextual Biases in Microinteraction Ecological Momentary Assessment (μEMA) Non-response. **ACM IMWUT'22** 
       \[ :trophy: Distinguished Paper Award \]
 
 Rithika Lakshminarayanan, Alexandra Canori, **Aditya Ponnada**, Melissa Nunn, Mary Schmidt Read, Shivayogi V. Hiremath, and Stephen Intille. 2022. Exploring Opportunities to Improve Physical Activity in Individuals with Spinal Cord Injury Using Context-Aware Messaging. **ACM CSCW'22**
@@ -45,11 +45,11 @@ Chih-Hsiang Yang, Jaclyn P Maher, **Aditya Ponnada**, Eldin Dzubur, Rachel Nordg
 
 **2020**
 
-Dzubur, E.<sup>*</sup>, **Ponnada, A.**<sup>*</sup>, Nordgren, R.<sup>*</sup>, Yang, C-H., Intille, S. S., Dunton, G. F., & Hedeker, D., (2020). MixWILD: A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data. **Behavior Research Methods'20**
+Dzubur, E., **Ponnada, A.**, Nordgren, R., Yang, C-H., Intille, S. S., Dunton, G. F., & Hedeker, D., (2020). MixWILD: A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data. **Behavior Research Methods'20**
 
 **2019**
 
-**Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. 2019. Designing Videogames to Crowdsource Accelerometer Data Annotation for Activity Recognition Research. **ACM CHI PLAY’19**
+**Aditya Ponnada**, Seth Cooper, Binod Thapa-Chhetry, Josh Aaron Miller, Dinesh John, and Stephen Intille. 2019. Designing Videogames to Crowdsource Accelerometer Data Annotation for Activity Recognition Research. **ACM CHI PLAY’19**
 
 **2017**
 
@@ -76,7 +76,7 @@ Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital 
 Peer-reviewed workshops
 ------
 
-**Aditya Ponnada**<sup>*</sup>, Seth Cooper<sup>*</sup>, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom'21 (Workshops)**
+**Aditya Ponnada**, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom'21 (Workshops)**
 
 Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. \[ :trophy: Selected for spotlight presentation \]
 
