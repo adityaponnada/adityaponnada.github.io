@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher with interests in human-computer interaction (HCI), human-centered AI, and personalization. Until recently, I was a Research Scientist at Spotify, where I was a member of the Human-in-the-AI (HAI) Lab. Broadly at Spotify, I built generative and traditional user experiences informed by human and cultural contexts. I completed my PhD in Personal Health Informatics from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA. My PhD research focused on improving experience sampling methods to gather large-scale temporally dense behavioral information in real-world settings. In addition, I have built open-source tools to conduct multi-level modeling and perform data annotation on high-frequency longitudinal mobile data. 
+I am a researcher with interests in human-computer interaction (HCI), human-centered AI, and personalization. Until recently, I was a Research Scientist at Spotify, where I was a member of the Human-in-the-AI (HAI) Lab. Broadly at Spotify, I developed and studied human evaluation methods for generative AI, interactive recommender systems, and content understanding approaches to help smaller creators (and newer content) grow their audience. I completed my PhD in Personal Health Informatics from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA. My PhD research focused on improving experience sampling methods to gather large-scale temporally dense behavioral information in real-world settings. In addition, I have built open-source tools to conduct multi-level modeling and perform data annotation on high-frequency longitudinal mobile data. 
 
-**I am actively looking for new research and/or data science roles in the field of human-centered AI and human-computer interaction**
+**I am actively looking for new product-oriented research and/or applied data science opportunities.**
 
 Publications
 ------
 Peer-reviewed journal and conference publications. Here, { <sup>*</sup> } indicates equal contributions by the authors.
 
 **2023**
+
+Julie Jiang, **Aditya Ponnada**, Ang Li, Ben Lacker, and Sam F Way. 2023. A Genre-Based Analysis of New Music Streaming at Scale. **ACM WebSci'24** - under review)
 
 Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enabling Goal-Focused Exploration of Podcasts in Interactive Recommender Systems. **ACM IUI'23**
 
@@ -80,4 +82,4 @@ Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygien
 
 Dissertation
 ------
-**Aditya Ponnada** (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA
+**Aditya Ponnada** (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA. Thesis committee: Prof. Stephen Intille (Northeastern University), Prof. Genevieve Dunton (University of Southern California), Prof. Matthew Goodwin (Northeastern University), and Prof. Justin Manjourides (Northeastern University)
