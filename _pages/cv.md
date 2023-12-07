@@ -14,6 +14,7 @@ Education
 **Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021
  * Thesis: Measuring subjective experiences using wearable microinteractions
  * Advisor: Prof. Stephen Intille
+ * Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Matthew Goodwin (Northeastern Univ.), Prof. Justin Manjourides (Northeastern Univ.), and Prof. Genevieve Dunton (Univ. of Southern California)
 
 **B.Des (Design)**, Department of Design, Indian Institute of Technology (IIT), Guwahati, 2013
 * Thesis: Trust-inducing interface elements in online shopping
@@ -22,14 +23,14 @@ Education
 Experience
 ------
 **Research Scientist**, Spotify, Jan 2022 - *present*
- * Group: Human-in-the-AI Lab led by Sam F Way
- * Research areas: Human-Computer Interaction and Personalization
+ * Group: Human-in-the-AI (HAI) Lab led by Dr. Sam F Way
+ * Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization
  * Location: Boston, MA
 
 **Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
- * Group: mHealth Research Group led by Stephen S Intille
+ * Group: mHealth Research Group led by Prof. Stephen S Intille
  * Dept: Khoury College of Computer Science and Bouve College of Health Sciences
- * Research areas: Experience sampling, Mobile Computing, and Human-Computation
+ * Research areas: Experience sampling, Mobile/Wearable Computing, and Human-Computation
  * Location: Boston, MA
  
 **Research Intern**, Philips, May 2019 - Aug 2019
@@ -38,17 +39,17 @@ Experience
  * Location: Boston, MA
  
 **UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015
- * Group: Next eXperiences with Technology (NXT) Group led by Sarita Seshagiri
+ * Group: Next eXperiences with Technology (NXT) Group led by Dr. Sarita Seshagiri
  * Research areas: Mobile Health, Input Methods, and Accessibility
  * Location: Bengaluru, India
 
 **Research Assistant**, TU Eindhoven (TU/e), May 2012 - Jul 2012
- * Group: Human-Technology Interaction (HTI) Group led by Jaap Ham and Cees Midden
+ * Group: Human-Technology Interaction (HTI) Group led by Prof. Jaap Ham and Prof. Cees Midden
  * Research areas: Human-AI Interactions and Virtual Agents
  * Location: Eindhoven, The Netherlands
 
 **Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011
- * Group: UE + HCI Group led by Pradeep Yammiyavar and Debayan Dhar
+ * Group: UE + HCI Group led by Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
  * Research areas: Human-Computer Interaction and Usability Engineering
  * Location: Guwahati, India
   
@@ -63,10 +64,9 @@ Awards and Honors
 * Special Recognition for Outstanding Reviews, IMWUT 2017, 2022 and CHI 2024
 * BostonCHI Lifetime Membership awarded by FutureWei Technologies, 2020.
 * NU-TECH + AWS Award by NEU Center for Entrepreneurship Education, 2018.
-* Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Student Research Symposium, 2018.
+* Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Research Symposium, 2018.
 * Amandus H. Lundqvist Scholarship (ALSP-silver) for masters studies in TU Eindhoven, The Netherlands, 2015.
 * Young Achiever of the Year, Samsung Annual Awards, 2013-14
-* Employee of the Month, Samsung R&D Bangalore, October 2013
 * Best Research Paper Award, PERSUASIVE 2013
 
 Service and Leadership
@@ -75,22 +75,22 @@ Service and Leadership
 * **Member**, ACM SIGCHI (2021 – present)
 * **Member**, Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023)
 * **Member**, Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* **Peer-reviewer** (Computer Science): ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2023), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023)
+* **Peer-reviewer** (Computer Science): ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023)
 * **Peer-reviewer** (Health and Behavior Science): Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB)
 * **Peer-reviewer** (Engineering): IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
-* **Chair**, Student Design Consortium, IndiaHCI 2015
-* **Representative**, Department Undergraduate Program Committee, Department of Design, IIT Guwahati (2012-13)
 
 Presentations and Talks
 ------
-* **The very basics of user research**, Indian School of Business — 2021 (The UX Factor talk series)
-* **Health behavior research – A design problem** at GoInvo (formerly Involution Studios), Cambridge, MA — 2019. Host – Juhan Sonin
-* **Microinteractions-based ecological momentary assessments (μEMA) using a smartwatch**, PROVE center, Harvard Medical, Boston, MA — 2018. Host – Prof. Chris Sidey-Gibbons
-* **Longitudinal measurement of self-reported behavior using wearable devices**, MITRE Corporation, Cambridge, MA — 2018. Host – Harry Sleeper
-* **Using microinteractions for longitudinal measurement of behavior**, HFES New England Chapter Student Research Symposium, Draper Laboratories, Cambridge, MA –2018.
-* **Using microinteractions for longitudinal measurement of behavior**, Data Science in Biomedical Research (Marvin Zelen Memorial Symposium), Dana Farber Cancer Research Institute, Boston, MA — 2018.
-* **Can microinteractions improve longitudinal measurement of behavior?**, Annual Boston-area Psychology Grad Student Symposium, Northeastern University, Boston, MA — 2017.
-* **Can microinteractions improve longitudinal measurement of behavior?**, PHI Seminar, Northeastern University, Boston, MA — 2016.
+[TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:
+* Spotify Research – 2021. Host – Dr. Jenn Thom
+* PROVE center, Brigham and Women’s Health, HarvardMedical – 2019. Host - Prof. Chris Sidey-Gibbons
+* MITRE Corporation – 2018. Host – Harry Sleeper
+* Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018
+* Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018
+  
+[TALK] “The very basics of user research” at Indian School of Business — 2021. Host – Harmanpreet Singh
+
+[TALK] “Health behavior research – A design problem” at GoInvo — 2019. Host – Juhan Sonin
 
 Outreach and Coverage
 ------
@@ -106,8 +106,7 @@ Mentoring and Advising
 
 Skills
 ------
-* **HCI Research:** Qualitative, Quantitative, Experiments, Interviews (Users & Experts), Questionnaire Designs, Experience Sampling, in-situ diary studies, Psychophysiological Assessments, Item Response Theory
-* **Usability & Design:** Hi & Lo-fi Prototyping, Card Sorting, Personas & Scenarios, Participatory Design, Heuristic Evaluation, Wireframing, Information Architecture, A/B Testing, Think Aloud Protocols, Eye-Movement Recording and physiological assessments, Hierarchical Task Analysis
-* **Programming:** R, JAVA, Python, C#, SQL, BigQuery, SAS, HTML, CSS, C, Processing
-* **Software/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, ActiLife (Actigraphy), GPower3, Adobe Creative Suite, InVision, Tableau, Plotly.Js, P5.js, Shiny, Mapbox, and AWS (S3 and DynamoDB)
-* **Data Analysis:** Univariate and multivariate Statistics, Regression Analysis (Linear, Non-linear, and Logistic), Power Analysis, Factor Analysis, Applied Supervised Learning, Time Series Analysis, Multilevel Modeling, Visual Analytics, Data Visualization, Data Wrangling and processing
+* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing and communication
+* **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
+* **Software/Tools/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, and AWS (S3 and DynamoDB)
+* **Design:** Interactive prototyping, heuristic evaluation, A/B testing, hierarchical task analysis, data visualization
