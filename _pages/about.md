@@ -82,4 +82,5 @@ Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygien
 
 Dissertation
 ------
-**Aditya Ponnada** (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA. Thesis committee: Prof. Stephen Intille (Northeastern University), Prof. Genevieve Dunton (University of Southern California), Prof. Matthew Goodwin (Northeastern University), and Prof. Justin Manjourides (Northeastern University)
+**Aditya Ponnada** (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA. 
+Thesis committee: Prof. Stephen Intille (Northeastern University), Prof. Genevieve Dunton (University of Southern California), Prof. Matthew Goodwin (Northeastern University), and Prof. Justin Manjourides (Northeastern University)
