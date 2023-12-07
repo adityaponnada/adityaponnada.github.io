@@ -13,7 +13,7 @@ Education
 ------
 **Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021
  * Thesis: Measuring subjective experiences using wearable microinteractions
- * Advisor: Prof. Stephen Intille
+ * Advisor: Prof. Stephen S Intille
  * Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Matthew Goodwin (Northeastern Univ.), Prof. Justin Manjourides (Northeastern Univ.), and Prof. Genevieve Dunton (Univ. of Southern California)
 
 **B.Des (Design)**, Department of Design, Indian Institute of Technology (IIT), Guwahati, 2013
@@ -23,40 +23,40 @@ Education
 Experience
 ------
 **Research Scientist**, Spotify, Jan 2022 - *present*
- * Group: Human-in-the-AI (HAI) Lab led by Dr. Sam F Way
+ * Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Dr. Sam F Way](http://samfway.com/)
  * Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization
  * Location: Boston, MA
 
 **Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
- * Group: mHealth Research Group led by Prof. Stephen S Intille
+ * Group: [mHealth Research Group](https://www.mhealthgroup.org/) led by [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/)
  * Dept: Khoury College of Computer Science and Bouve College of Health Sciences
  * Research areas: Experience sampling, Mobile/Wearable Computing, and Human-Computation
  * Location: Boston, MA
  
 **Research Intern**, Philips, May 2019 - Aug 2019
- * Group: Philips Design and Innovation led by Leontine de Roode
+ * Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel
  * Research areas: Wearable Computing and Human-AI Interactions
  * Location: Boston, MA
  
 **UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015
- * Group: Next eXperiences with Technology (NXT) Group led by Dr. Sarita Seshagiri
+ * Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri
  * Research areas: Mobile Health, Input Methods, and Accessibility
  * Location: Bengaluru, India
 
 **Research Assistant**, TU Eindhoven (TU/e), May 2012 - Jul 2012
- * Group: Human-Technology Interaction (HTI) Group led by Prof. Jaap Ham and Prof. Cees Midden
+ * Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction) Group led by [Prof. Jaap Ham](https://www.tue.nl/en/research/researchers/jaap-ham)
  * Research areas: Human-AI Interactions and Virtual Agents
  * Location: Eindhoven, The Netherlands
 
 **Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011
- * Group: UE + HCI Group led by Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
+ * Group: [UE + HCI Group](https://iitg.ac.in/uelab/) led by [Prof. Pradeep Yammiyavar](https://www.iitg.ac.in/design/portfolio/py/Prof.%20Pradeep%20Gururaj%20Yammiyavar%20_%20Department%20of%20Design.html) and [Prof. Debayan Dhar](https://www.iitg.ac.in/design/portfolio/DebayanDharWebsite/index.html)
  * Research areas: Human-Computer Interaction and Usability Engineering
  * Location: Guwahati, India
   
 Open-source Contribution
 ------
-* **MixWILD** - an interactive program to conduct multi-level modeling on longitudinal data. Available here[https://reach-lab.github.io/MixWildGUI/] and used in behavioral health workshops for advanced statistical training.
-* **Signaligner Pro** - an interactive tool to visualize and annotate large-scale raw sensor data collected at high frequencies. Available here[https://signaligner.org/] and used in several NIH studies to label sensor data for ML training.
+* **MixWILD** - an interactive program to conduct multi-level modeling on longitudinal data. Available [here](https://reach-lab.github.io/MixWildGUI/) and used in behavioral health workshops for advanced statistical training.
+* **Signaligner Pro** - an interactive tool to visualize and annotate large-scale raw sensor data collected at high frequencies. Available [here](https://signaligner.org/) and used in several NIH studies to label sensor data for ML training.
 
 Awards and Honors
 ------
@@ -92,10 +92,10 @@ Presentations and Talks
 
 Outreach and Coverage
 ------
-* Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023
-* How video games could be used to generate AI training data - **VentureBeat**, Feb 2022
-* Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020
-* Northeastern University professor combines computer science with health and measurement with self-reporting to improve the accuracy of fitness tracking - **Northeastern Global News**, Sept 2019
+* Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023. [Link](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
+* How video games could be used to generate AI training data - **VentureBeat**, Feb 2022. [Link](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
+* Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020. [Link](https://news.northeastern.edu/litmus/smart-fitness-devices-like-fitbits-could-help-change-your-behaviors-with-this-new-approach/)
+* Northeastern University professor combines computer science with health and measurement with self-reporting to improve the accuracy of fitness tracking - **Northeastern Global News**, Sept 2019. [Link](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
 
 Mentoring and Advising
 ------
