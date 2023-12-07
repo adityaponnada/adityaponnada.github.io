@@ -9,6 +9,8 @@ author_profile: true
 
 {% include base_path %}
 
+**You can view and download the PDF versions here:** [CV](https://drive.google.com/file/d/1dUFGWeVWnL4eihhWVzrM4Y4X5K7jkX1B/view?usp=drive_link) - long and detailed and [Resume](https://drive.google.com/file/d/18-VQevIBlJoQgmua9GHbhUw5_sAv0mso/view?usp=drive_link) - short and abridged 2-page version.
+
 Education
 ------
 **Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021
