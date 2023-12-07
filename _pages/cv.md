@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-**You can view and download the PDF versions here:** [CV](https://drive.google.com/file/d/1dUFGWeVWnL4eihhWVzrM4Y4X5K7jkX1B/view?usp=drive_link) - long and detailed, and [Resume](https://drive.google.com/file/d/18-VQevIBlJoQgmua9GHbhUw5_sAv0mso/view?usp=drive_link) - short 2-page version.
+**You can view and download the PDF versions here:** [CV](https://drive.google.com/file/d/12v-_-AVm7t-1-goYe2YFiyZWf6p9l045/view?usp=drive_link) - long and detailed, and [Resume](https://drive.google.com/file/d/18-VQevIBlJoQgmua9GHbhUw5_sAv0mso/view?usp=drive_link) - short 2-page version.
 
 Education
 ------
