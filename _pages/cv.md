@@ -72,9 +72,7 @@ Awards and Honors
 Service and Leadership
 ------
 * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
-* **Member**, ACM SIGCHI (2021 – present)
-* **Member**, Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023)
-* **Member**, Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
+* **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023), Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
 * **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
 
 Presentations and Talks
