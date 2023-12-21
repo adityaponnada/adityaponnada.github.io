@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-**You can view and download the PDF versions here:** [CV](https://drive.google.com/file/d/12v-_-AVm7t-1-goYe2YFiyZWf6p9l045/view?usp=drive_link) - long and detailed, and [Resume](https://drive.google.com/file/d/18-VQevIBlJoQgmua9GHbhUw5_sAv0mso/view?usp=drive_link) - short 2-page version.
+**You can view and download the PDF versions here:** [CV](https://drive.google.com/file/d/1xOCOQZxYtP1I71AyhWVDNaNfC-WCjlyv/view?usp=drive_link) - long and detailed, and [Resume](https://drive.google.com/file/d/1cfWSLJYJeraVWwh9El8bNpDyAMDCXphC/view?usp=drive_link) - short 2-page version.
 
 Education
 ------
@@ -75,7 +75,7 @@ Service and Leadership
 ------
 * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
 * **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023), Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019)
+* **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), IEEE Pervasive Computing
 
 Presentations and Talks
 ------
@@ -100,7 +100,7 @@ Outreach and Coverage
 Mentoring and Advising
 ------
 * **Northeastern University:** Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
-* **Spotify Research:** Yu Liang (PhD TU Eindhoven'2023), Julie Jiang (PhD student, USC. Also, Forbes 30 under 30 in Science category)
+* **Spotify Research:** Yu Liang (PhD TU Eindhoven'23), Julie Jiang (PhD student, USC'24. Also, Forbes 30 under 30 in Science category)
 
 Skills
 ------
