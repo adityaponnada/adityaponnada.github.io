@@ -65,7 +65,7 @@ Sanjay Ghosh, Sarita Seshagiri, and **Aditya Ponnada**. 2016. Exploring Regional
 
 **2013**
 
-Verberne, F. M., Ham, J., Ponnada, A., & Midden, C. J. (2013). Trusting digital chameleons: The effect of mimicry by a virtual social agent on user trust. **PERSUASIVE'13** \[ :trophy: Best Paper Award \]. [link](https://link.springer.com/chapter/10.1007/978-3-642-37157-8_28)
+Verberne, F. M., Ham, J., **Ponnada, A.**, & Midden, C. J. (2013). Trusting digital chameleons: The effect of mimicry by a virtual social agent on user trust. **PERSUASIVE'13** \[ :trophy: Best Paper Award \]. [link](https://link.springer.com/chapter/10.1007/978-3-642-37157-8_28)
 
 **2012**
 
