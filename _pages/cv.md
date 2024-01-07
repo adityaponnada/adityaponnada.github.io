@@ -83,12 +83,12 @@ Service and Leadership
 
 Presentations and Talks
 ------
-[TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:
-* Spotify Research – 2021. Host – Dr. Jenn Thom
-* PROVE center, Brigham and Women’s Health, HarvardMedical – 2019. Host - Prof. Chris Sidey-Gibbons
-* MITRE Corporation – 2018. Host – Harry Sleeper
-* Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018
-* Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018
+[TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:   
+Spotify Research – 2021. Host – Dr. Jenn Thom   
+PROVE center, Brigham and Women’s Health, HarvardMedical – 2019. Host - Prof. Chris Sidey-Gibbons    
+MITRE Corporation – 2018. Host – Harry Sleeper   
+Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
+Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
   
 [TALK] “The very basics of user research” at Indian School of Business — 2021. Host – Harmanpreet Singh
 
@@ -104,7 +104,7 @@ Outreach and Coverage
 Mentoring and Advising
 ------
 * **Northeastern University:** Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
-* **Spotify Research:** Yu Liang (PhD TU Eindhoven'23), Julie Jiang (PhD student, USC'24. Also, Forbes 30 under 30 in Science category)
+* **Spotify Research:** Yu Liang (PhD TU Eindhoven'23), Julie Jiang (PhD student, USC'24. Also, Forbes 30 under 30 in Science)
 
 Skills
 ------
