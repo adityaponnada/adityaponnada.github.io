@@ -28,36 +28,36 @@ Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
 Experience
 ------
-**Research Scientist**, Spotify, Jan 2022 - *present*
- * Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Dr. Sam F Way](http://samfway.com/)
- * Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization
- * Location: Boston, MA
+**Research Scientist**, Spotify, Jan 2022 - *present*   
+Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)   
+Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization   
+Location: Boston, MA   
 
-**Research Assistant**, Northeastern University, Sep 2015 - Dec 2021
- * Group: [mHealth Research Group](https://www.mhealthgroup.org/) led by [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/)
- * Dept: Khoury College of Computer Science and Bouve College of Health Sciences
- * Research areas: Experience sampling, Mobile/Wearable Computing, and Human-Computation
- * Location: Boston, MA
+**Researcher**, Northeastern University, Sep 2015 - Dec 2021   
+Group: [mHealth Research Group](https://www.mhealthgroup.org/) led by [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/)    
+Dept: Khoury College of Computer Science and Bouve College of Health Sciences    
+Research areas: Experience sampling, Mobile/Wearable Computing, health behavior research, and Human-Computation    
+Location: Boston, MA    
  
-**Research Intern**, Philips, May 2019 - Aug 2019
- * Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel
- * Research areas: Wearable Computing and Human-AI Interactions
- * Location: Boston, MA
+**Research Intern**, Philips, May 2019 - Aug 2019   
+Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel    
+Research areas: Wearable Computing and Human-AI Interactions    
+Location: Boston, MA    
  
-**UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015
- * Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri
- * Research areas: Mobile Health, Input Methods, and Accessibility
- * Location: Bengaluru, India
+**UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015    
+Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri   
+Research areas: Mobile Health, Input Methods, and Accessibility   
+Location: Bengaluru, India   
 
-**Research Assistant**, TU Eindhoven (TU/e), May 2012 - Jul 2012
- * Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction) Group led by [Prof. Jaap Ham](https://www.tue.nl/en/research/researchers/jaap-ham)
- * Research areas: Human-AI Interactions and Virtual Agents
- * Location: Eindhoven, The Netherlands
+**Visiting Researcher**, TU Eindhoven (TU/e), May 2012 - Jul 2012    
+Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction) Group led by [Prof. Jaap Ham](https://www.tue.nl/en/research/researchers/jaap-ham)    
+Research areas: Human-AI Interactions and Virtual Agents    
+Location: Eindhoven, The Netherlands    
 
-**Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011
- * Group: [UE + HCI Group](https://iitg.ac.in/uelab/) led by [Prof. Pradeep Yammiyavar](https://www.iitg.ac.in/design/portfolio/py/Prof.%20Pradeep%20Gururaj%20Yammiyavar%20_%20Department%20of%20Design.html) and [Prof. Debayan Dhar](https://www.iitg.ac.in/design/portfolio/DebayanDharWebsite/index.html)
- * Research areas: Human-Computer Interaction and Usability Engineering
- * Location: Guwahati, India
+**Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011    
+Group: [UE + HCI Group](https://iitg.ac.in/uelab/) led by [Prof. Pradeep Yammiyavar](https://www.iitg.ac.in/design/portfolio/py/Prof.%20Pradeep%20Gururaj%20Yammiyavar%20_%20Department%20of%20Design.html) and [Prof. Debayan Dhar](https://www.iitg.ac.in/design/portfolio/DebayanDharWebsite/index.html)    
+Research areas: Human-Computer Interaction and Usability Engineering    
+Location: Guwahati, India    
   
 Open-source Contribution
 ------
@@ -110,5 +110,5 @@ Skills
 ------
 * **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
-* **Software/Tools/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, and AWS (S3 and DynamoDB)
+* **Software/Tools/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, Figma, UserTesting.com, DScout, and AWS (S3 and DynamoDB)
 * **Design:** Interactive prototyping, heuristic evaluation, A/B testing, hierarchical task analysis, data visualization
