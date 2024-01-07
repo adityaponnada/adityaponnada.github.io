@@ -13,14 +13,18 @@ author_profile: true
 
 Education
 ------
-**Ph.D. (Personal Health Informatics)**, Khoury College of Computer Sciences and Bouve College of Health Sciences, Northeastern University, 2021
- * Thesis: Measuring subjective experiences using wearable microinteractions
- * Advisor: Prof. Stephen S Intille
- * Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Matthew Goodwin (Northeastern Univ.), Prof. Justin Manjourides (Northeastern Univ.), and Prof. Genevieve Dunton (Univ. of Southern California)
+**Ph.D. (Personal Health Informatics)** , 2021  
+Khoury College of Computer Sciences and Bouve College of Health Sciences
+Northeastern University  
+Thesis: "Measuring subjective experiences using wearable microinteractions"   
+Advisor: Prof. Stephen S Intille   
+Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Matthew Goodwin (Northeastern Univ.), Prof. Justin Manjourides (Northeastern Univ.), and Prof. Genevieve Dunton (Univ. of Southern California)
 
-**B.Des (Design)**, Department of Design, Indian Institute of Technology (IIT), Guwahati, 2013
-* Thesis: Trust-inducing interface elements in online shopping
-* Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
+**B.Des (Design)**, 2013   
+Department of Design   
+Indian Institute of Technology (IIT), Guwahati   
+Thesis: Trust-inducing interface elements in online shopping   
+Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar   
 
 Experience
 ------
