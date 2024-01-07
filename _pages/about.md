@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher with interests in human-computer interaction (HCI), human-centered AI, and personalization. Until recently, I was a Research Scientist at Spotify, where I was a member of the Human-in-the-AI (HAI) Lab. Broadly at Spotify, I developed and studied human evaluation methods for generative AI, interactive recommender systems, and content understanding approaches to help smaller creators (and newer content) grow their audience. I completed my PhD in Personal Health Informatics from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA. My PhD research focused on improving experience sampling methods to gather large-scale temporally dense behavioral information in real-world settings. In addition, I have built open-source tools to conduct multi-level modeling and perform data annotation on high-frequency longitudinal mobile data. 
+I am an interdisciplinary researcher with interests in human-computer interaction (HCI), human-centered AI, and behavior science. Until recently, I was a Research Scientist at Spotify, where I was a member of the Human-in-the-AI (HAI) Lab. Broadly at Spotify, I developed and studied human evaluation methods for generative AI, interactive recommender systems, and content understanding approaches to help smaller creators (and newer content) succeed on the platform. I completed my PhD in Personal Health Informatics from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA. My PhD research introduced a novel experience sampling method using Smartwatches to gather large-scale temporally dense behavioral information in real-world settings. In addition, I have built open-source tools to conduct multi-level modeling and perform data annotation on high-frequency longitudinal mobile data.
 
-**I am actively looking for new product-oriented research and/or applied data science opportunities.**
+**I am actively looking for new product-oriented research opportunities.**
 
 Publications
 ------
