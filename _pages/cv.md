@@ -23,12 +23,12 @@ Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Matthew Good
 **B.Des (Design)**, 2013   
 Department of Design   
 Indian Institute of Technology (IIT), Guwahati   
-Thesis: Trust-inducing interface elements in online shopping   
+Thesis: "Trust-inducing interface elements in online shopping" 
 Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar   
 
 Experience
 ------
-**Research Scientist**, Spotify, Jan 2022 - *present*   
+**Research Scientist**, Spotify, Jan 2022 - Mar 2024   
 Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)   
 Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization   
 Location: Boston, MA   
@@ -83,6 +83,8 @@ Service and Leadership
 
 Presentations and Talks
 ------
+[TALK] “Human-centered Recommender Systems” at Northeastern University – 2021. Host – Prof. Herman Saksono
+
 [TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:   
 Spotify Research – 2021. Host – Dr. Jenn Thom   
 PROVE center, Brigham and Women’s Health, HarvardMedical – 2019. Host - Prof. Chris Sidey-Gibbons    
@@ -96,6 +98,7 @@ Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018
 
 Outreach and Coverage
 ------
+* How do people stream newly released music? - **Spotify R & D Blog**, May 2024. [Link](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
 * Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023. [Link](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
 * How video games could be used to generate AI training data - **VentureBeat**, Feb 2022. [Link](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
 * Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020. [Link](https://news.northeastern.edu/litmus/smart-fitness-devices-like-fitbits-could-help-change-your-behaviors-with-this-new-approach/)
@@ -108,7 +111,7 @@ Mentoring and Advising
 
 Skills
 ------
-* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing and communication
+* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, supervised and unsupervised machine learning, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
 * **Software/Tools/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, Figma, UserTesting.com, DScout, and AWS (S3 and DynamoDB)
 * **Design:** Interactive prototyping, heuristic evaluation, A/B testing, hierarchical task analysis, data visualization
