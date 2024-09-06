@@ -28,6 +28,11 @@ Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
 Experience
 ------
+**Sr. Quantitative User Researcher**, MongoDB, Jun 2024 - present   
+Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)   
+Research areas: Human-Computer Interaction, User Modeling, and Personalization   
+Location: Boston, MA
+
 **Research Scientist**, Spotify, Jan 2022 - Mar 2024   
 Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)   
 Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization   
@@ -36,7 +41,7 @@ Location: Boston, MA
 **Researcher**, Northeastern University, Sep 2015 - Dec 2021   
 Group: [mHealth Research Group](https://www.mhealthgroup.org/) led by [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/)    
 Dept: Khoury College of Computer Science and Bouve College of Health Sciences    
-Research areas: Experience sampling, Mobile/Wearable Computing, health behavior research, and Human-Computation    
+Research areas: Experience sampling, Mobile/Wearable Computing, and Human-Computation    
 Location: Boston, MA    
  
 **Research Intern**, Philips, May 2019 - Aug 2019   
@@ -79,15 +84,19 @@ Service and Leadership
 ------
 * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
 * **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023), Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI),  Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), IEEE Pervasive Computing
+* **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI), Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), NeurIPS (AI Ethics Review 2024), IEEE Pervasive Computing, Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), BioMed Central (BMC) Research Notes
 
 Presentations and Talks
 ------
+[TALK] “Scaling experience sampling with smartwatch microinteactions" at:
+BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
+QuantUXCon (International Conf. on Quantitative User Experience) - 2024
+
 [TALK] “Human-centered Recommender Systems” at Northeastern University – 2021. Host – Prof. Herman Saksono
 
 [TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:   
 Spotify Research – 2021. Host – Dr. Jenn Thom   
-PROVE center, Brigham and Women’s Health, HarvardMedical – 2019. Host - Prof. Chris Sidey-Gibbons    
+PROVE Center, Brigham and Women’s Health, Harvard Medical – 2019. Host - Prof. Chris Sidey-Gibbons    
 MITRE Corporation – 2018. Host – Harry Sleeper   
 Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
 Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
@@ -98,6 +107,7 @@ Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018
 
 Outreach and Coverage
 ------
+* Interview with Industry Playlist Newsletter on music recommendation systems- **Industry Playlist**, June 2024. [Link]([https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c))
 * How do people stream newly released music? - **Spotify R & D Blog**, May 2024. [Link](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
 * Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023. [Link](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
 * How video games could be used to generate AI training data - **VentureBeat**, Feb 2022. [Link](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
