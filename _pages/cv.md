@@ -28,8 +28,7 @@ Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar
 
 Experience
 ------
-**Sr. Quantitative User Researcher**, MongoDB, Jun 2024 - present   
-Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)   
+**Sr. Quantitative User Researcher**, MongoDB, Jun 2024 - present     
 Research areas: Human-Computer Interaction, User Modeling, and Personalization   
 Location: Boston, MA
 
