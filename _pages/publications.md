@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
@@ -89,6 +89,6 @@ Dissertation
 Thesis committee: Prof. Stephen Intille (Northeastern University), Prof. Genevieve Dunton (University of Southern California), Prof. Matthew Goodwin (Northeastern University), and Prof. Justin Manjourides (Northeastern University). [link](https://www.proquest.com/openview/1273623278c019e781b248b7080dccf0/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
