@@ -13,7 +13,7 @@ author_profile: true
 
 Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates equal contributions by the authors.
 
-**2024**
+###2024
 
 Jixin Li, **Aditya Ponnada**, Wei-Lin Wang, Genevieve Dunton, and Stephen S Intille. 2024. Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain. **PACM IMWUT'24**. [link](https://dl.acm.org/doi/10.1145/3699735)
 
