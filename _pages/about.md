@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher interested in human-computer interaction and behavior science. I work at [MongoDB](https://www.mongodb.com/) as a Quantitative User Researcher to build the best understanding and models of developer experiences. I was a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab. Broadly at Spotify, I developed and evaluated interactive recommender systems and scalable content understanding approaches to help smaller creators (and newer content) succeed on the platform. I completed my PhD in Computer and Behavior Sciences from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). My PhD research introduced a novel experience sampling method using Smartwatches to collect large-scale temporally dense behavioral data in real-world settings. In addition, I have built open-source tools to perform multi-level modeling and annotation on high-frequency longitudinal mobile data.
+I am an interdisciplinary researcher who works at the intersection of human-computer interaction (HCI), behavior science, and AI/ML. Broadly, I am interested in developing tools/methods to understand user behavior in natural settings and develop personalized models of behavior at scale. I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher to build the best understanding and models of developer experiences. I was a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab. At Spotify, I developed and evaluated interactive recommender systems and scalable content understanding approaches to help smaller creators (and newer content) succeed on the platform. I completed my PhD in Computer and Behavior Sciences from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). As part of my PhD research, I introduced a novel experience sampling method using smartwatches to collect large-scale personalized behavioral data in real-world settings. In addition, I have built open-source tools to perform multi-level modeling and annotation on longitudinal user behavior data for pattern recognition tasks.
 
-My research has been published in peer-reviewed competitive venues including ACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, IEEE PerComm, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. In addition, my work is featured in media including [VentureBeat](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/) and [Northeastern Global News](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/).
+My research has been published in peer-reviewed venues including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, IEEE PerComm, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. In addition, my work is featured in media including [VentureBeat](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/) and [Northeastern Global News](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/).
 
 **I am always excited about new product-oriented research opportunities.**
 
 Publications
 ------
-Peer-reviewed journal and conference publications. Here, { <sup>*</sup> } indicates equal contributions by the authors.
+Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates equal contributions by the authors.
 
 **2024**
 
-Jixin Li, **Aditya Ponnada**, Wei-Lin Wang, Genevieve Dunton, and Stephen S Intille. 2024. Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain. **PACM IMWUT'24**. - To appear
+Jixin Li, **Aditya Ponnada**, Wei-Lin Wang, Genevieve Dunton, and Stephen S Intille. 2024. Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain. **PACM IMWUT'24**.
 
 Julie Jiang, **Aditya Ponnada**, Ang Li, Ben Lacker, and Sam F Way. 2024. A Genre-Based Analysis of New Music Streaming at Scale. **ACM WebSci'24**. [link](https://dl.acm.org/doi/abs/10.1145/3614419.3644002)
 
@@ -28,7 +28,7 @@ Julie Jiang, **Aditya Ponnada**, Ang Li, Ben Lacker, and Sam F Way. 2024. A Genr
 
 Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enabling Goal-Focused Exploration of Podcasts in Interactive Recommender Systems. **ACM IUI'23**. [link](https://dl.acm.org/doi/abs/10.1145/3581641.3584032)
 
-Chow, S. M., Nahum-Shani, I., Baker, J. T., Spruijt-Metz, D., Allen, N. B., Auerbach, R. P., ... & Intensive Longitudinal Health Behavior Network (ILHBN) Bodovski Yosef Wang Shirlene Kaslander Jonathan Chu Daniel **Ponnada Aditya** Braga De Braganca Rebecca Schloesser Dana Chi Guanqing Rivera Daniel Liebenthal Einat. (2023). The ILHBN: challenges, opportunities, and solutions from harmonizing data under heterogeneous study designs, target populations, and measurement protocols. **Translational behavioral medicine**. [link](https://academic.oup.com/tbm/article/13/1/7/6843119).
+Chow, S. M., Nahum-Shani, I., Baker, J. T., Spruijt-Metz, D., Allen, N. B., Auerbach, R. P., ... & Intensive Longitudinal Health Behavior Network (ILHBN) Bodovski Yosef Wang Shirlene Kaslander Jonathan Chu Daniel **Ponnada Aditya** Braga De Braganca Rebecca Schloesser Dana Chi Guanqing Rivera Daniel Liebenthal Einat. (2023). The ILHBN: challenges, opportunities, and solutions from harmonizing data under heterogeneous study designs, target populations, and measurement protocols. **Translational Behavioral Medicine**. [link](https://academic.oup.com/tbm/article/13/1/7/6843119).
 
 **2022**
 
