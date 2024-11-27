@@ -16,7 +16,7 @@ My research has been published in peer-reviewed venues including PACM IMWUT (Ubi
 
 Updates
 ------
-<div style="overflow-y: scroll; height: 300px; border: 1px solid #ccc; padding: 10px;">
+<div style="overflow-y: scroll; height: 30px; border: 1px solid #ccc; padding: 10px;">
   
 **Nov, 2024.** Our PACM IMWUT paper on personalized adaptive experience sampling is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3699735)
 
