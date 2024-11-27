@@ -37,7 +37,7 @@ Updates
 
 **Oct, 2023.** Our [PACM IMWUT paper](https://dl.acm.org/doi/abs/10.1145/3517259) on long-term contextual biases in micro-EMA non-response received the [distinguished paper award](https://dl.acm.org/journal/imwut/distinguished-paper-awards) (~1% award rate).
 
-<details>
+<!-- <details>
 
 <summary>Past updates</summary>
 
@@ -58,4 +58,4 @@ Updates
   **Feb, 2022.** Was interviewed by [VentureBeat](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/) magazine on using videogames to generate AI training data at large scale.
   
   
-</details>
+</details>-->
