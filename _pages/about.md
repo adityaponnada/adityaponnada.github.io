@@ -17,11 +17,23 @@ My research has been published in peer-reviewed venues including PACM IMWUT (Ubi
 Updates
 ------
 **Nov, 2024.** Our PACM IMWUT paper on personalized adaptive experience sampling is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3699735)
+
+
 **Oct, 2024.** Had a great giving an invited talk at [BostonCHI](https://www.bostonchi.org/2024/09/scaling-experience-sampling-with-microinteractions/) on "Scaling Experience Sampling with Microinteractions"
+
+
 **Jun, 2024.** Thanks to everyone who attended my QuantUXCon talk on "Scaling Experience Sampling with Smartwatch Interactions." [Here](https://docs.google.com/presentation/d/1dGA-noJDE7PvFH22RcJ91Yp91XU00haEiQW0yLgDZKo/edit?usp=sharing) are the slides for those interested.
 **May, 2024.** Gave an invited lecture on human-centered recommender systems, with a special focus on music and podcast recommendations at Northeastern University.
+
+
 **May, 2024.** Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
+
+
 **April, 2024.** I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
+
+
 **April, 2024.** Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
+
+
 **Oct, 2023.** Our [PACM IMWUT paper](https://dl.acm.org/doi/abs/10.1145/3517259) on long-term contextual biases in micro-EMA non-response received the [distinguished paper award](https://dl.acm.org/journal/imwut/distinguished-paper-awards) (~1% award rate).
 
