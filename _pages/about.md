@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave: Hello!"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher working at the intersection of human-computer interaction (HCI), behavior science, and AI/ML. Broadly, I am interested in developing tools to model user behavior in natural settings at scale. 
+:wave: I am an interdisciplinary researcher who works at the intersection of human-computer interaction (HCI), behavior science, and AI/ML. Broadly, I am interested in developing personalized models of user behavior in natural settings at scale. 
 
 
-I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher to build the best understanding and models of developer experiences. I was a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab, building interactive recommender systems and scalable content understanding methods for long-tail content/creators. 
+I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher to study and model developer experiences/decision-making at a large scale. I was a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab, building interactive recommender systems and scalable content understanding methods for long-tail content/creators. 
 
 
-I completed my PhD in Computer and Behavior Sciences from Khoury College of Computer Sciences and Bouve College of Health Sciences at Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). As part of my dissertation, I introduced a novel experience sampling method using smartwatches to collect large-scale personalized behavioral data in real-world settings. In addition, I built open-source tools to perform multi-level modeling and annotation of longitudinal user behavior data for pattern recognition tasks.
+I completed my PhD in Computer and Behavior Sciences from Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatch microinteractions to collect large-scale personalized behavioral data. In addition, I built open-source tools to perform multi-level modeling and annotation of longitudinal user behavior data for pattern recognition tasks.
 
 
 My research has been published in peer-reviewed venues including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, IEEE PerComm, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. In addition, my work is featured in media including [VentureBeat](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/) and [Northeastern Global News](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/). **I am always excited about new product-oriented research opportunities.**
