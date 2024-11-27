@@ -43,11 +43,15 @@ Updates
   
   **Sept, 2023.** Finally concluded my last organized talk at BostonCHI as a chair. This is a special one by [Gregory Abowd](https://www.bostonchi.org/2023/05/gregory-abowd-ignorance-is-bliss-a-career-retrospective-hybrid-event/) on the CHI Lifetime Achievement award.
 
+
   **Jun, 2023.** Our intensive longitudinal data collection in [TIME study](https://reach.usc.edu/research/studies/microt/) is now complete. Stay tuned for the year-long longitudinal data on behaviors and decision-making to go live!
+
   
   **April, 2023.** Our Spotify R&D [blogpost](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/) on goal-based podcast recommendations from our IUI'23 paper is now live.
 
+
   **Sept, 2022.** Presented our [PACM IMWUT paper](https://dl.acm.org/doi/abs/10.1145/3517259) on contextual biases with micro-EMA non-response at UbiComp 2022. Was great to meet a lot of old collaborators and friends.
+
 
   **Feb, 2022.** Was interviewed by [VentureBeat](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/) magazine on using videogames to generate AI training data at large scale.
   
