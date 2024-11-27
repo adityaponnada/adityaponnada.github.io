@@ -16,6 +16,7 @@ My research has been published in peer-reviewed venues including PACM IMWUT (Ubi
 
 Updates
 ------
+<div style="overflow-y: scroll; height: 300px; border: 1px solid #ccc; padding: 10px;">
 **Nov, 2024.** Our PACM IMWUT paper on personalized adaptive experience sampling is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3699735)
 
 
@@ -37,3 +38,4 @@ Updates
 
 **Oct, 2023.** Our [PACM IMWUT paper](https://dl.acm.org/doi/abs/10.1145/3517259) on long-term contextual biases in micro-EMA non-response received the [distinguished paper award](https://dl.acm.org/journal/imwut/distinguished-paper-awards) (~1% award rate).
 
+</div>
