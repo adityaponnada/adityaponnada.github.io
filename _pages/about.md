@@ -35,5 +35,10 @@ Updates
 
 **April, 2024.** Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
 
+<details>
 
-**Oct, 2023.** Our [PACM IMWUT paper](https://dl.acm.org/doi/abs/10.1145/3517259) on long-term contextual biases in micro-EMA non-response received the [distinguished paper award](https://dl.acm.org/journal/imwut/distinguished-paper-awards) (~1% award rate).
+<summary>Read more</summary>
+  
+  **Oct, 2023.** Our [PACM IMWUT paper](https://dl.acm.org/doi/abs/10.1145/3517259) on long-term contextual biases in micro-EMA non-response received the [distinguished paper award](https://dl.acm.org/journal/imwut/distinguished-paper-awards) (~1% award rate).
+  
+</details>
