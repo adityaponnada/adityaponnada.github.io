@@ -40,6 +40,8 @@ Updates
 <details>
 
 <summary>Past updates</summary>
+
+
   
   **Sept, 2023.** Finally concluded my last organized talk at BostonCHI as a chair. This is a special one by [Gregory Abowd](https://www.bostonchi.org/2023/05/gregory-abowd-ignorance-is-bliss-a-career-retrospective-hybrid-event/) on the CHI Lifetime Achievement award.
 
