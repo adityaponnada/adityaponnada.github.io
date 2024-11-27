@@ -24,6 +24,8 @@ Updates
 
 
 **Jun, 2024.** Thanks to everyone who attended my QuantUXCon talk on "Scaling Experience Sampling with Smartwatch Interactions." [Here](https://docs.google.com/presentation/d/1dGA-noJDE7PvFH22RcJ91Yp91XU00haEiQW0yLgDZKo/edit?usp=sharing) are the slides for those interested.
+
+
 **May, 2024.** Gave an invited lecture on human-centered recommender systems, with a special focus on music and podcast recommendations at Northeastern University.
 
 
@@ -43,6 +45,7 @@ Updates
 
 {% capture my_markdown_content %}
   
+ 
   **Sept, 2023.** Finally concluded my last organized talk at BostonCHI as a chair. This is a special one by [Gregory Abowd](https://www.bostonchi.org/2023/05/gregory-abowd-ignorance-is-bliss-a-career-retrospective-hybrid-event/) on the CHI Lifetime Achievement award.
 
 
