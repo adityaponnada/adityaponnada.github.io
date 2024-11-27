@@ -91,7 +91,6 @@ Presentations and Talks
 [TALK] “Scaling experience sampling with smartwatch microinteactions" at:
 
 * BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
-
 * QuantUXCon (International Conf. on Quantitative User Experience) - 2024
 
 [TALK] “Human-centered Recommender Systems” at Northeastern University – 2021. Host – Prof. Herman Saksono
@@ -99,13 +98,9 @@ Presentations and Talks
 [TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:   
 
 * Spotify Research – 2021. Host – Dr. Jenn Thom   
-
 * PROVE Center, Brigham and Women’s Health, Harvard Medical – 2019. Host - Prof. Chris Sidey-Gibbons    
-
 * MITRE Corporation – 2018. Host – Harry Sleeper   
-
 * Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
-
 * Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
   
 [TALK] “The very basics of user research” at Indian School of Business — 2021. Host – Harmanpreet Singh
