@@ -18,12 +18,12 @@ Khoury College of Computer Sciences and Bouve College of Health Sciences
 Northeastern University  
 Thesis: "Measuring subjective experiences using wearable microinteractions"   
 Advisor: Prof. Stephen S Intille   
-Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Matthew Goodwin (Northeastern Univ.), Prof. Justin Manjourides (Northeastern Univ.), and Prof. Genevieve Dunton (Univ. of Southern California)
+
 
 **B.Des (Design)**, 2013   
 Department of Design   
 Indian Institute of Technology (IIT), Guwahati   
-Thesis: "Trust-inducing interface elements in online shopping" 
+Thesis: "Trust-inducing interface elements in online shopping"     
 Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar   
 
 Experience
@@ -90,23 +90,23 @@ Presentations and Talks
 ------
 [TALK] “Scaling experience sampling with smartwatch microinteactions" at:
 
-BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
+* BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
 
-QuantUXCon (International Conf. on Quantitative User Experience) - 2024
+* QuantUXCon (International Conf. on Quantitative User Experience) - 2024
 
 [TALK] “Human-centered Recommender Systems” at Northeastern University – 2021. Host – Prof. Herman Saksono
 
 [TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:   
 
-Spotify Research – 2021. Host – Dr. Jenn Thom   
+* Spotify Research – 2021. Host – Dr. Jenn Thom   
 
-PROVE Center, Brigham and Women’s Health, Harvard Medical – 2019. Host - Prof. Chris Sidey-Gibbons    
+* PROVE Center, Brigham and Women’s Health, Harvard Medical – 2019. Host - Prof. Chris Sidey-Gibbons    
 
-MITRE Corporation – 2018. Host – Harry Sleeper   
+* MITRE Corporation – 2018. Host – Harry Sleeper   
 
-Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
+* Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
 
-Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
+* Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
   
 [TALK] “The very basics of user research” at Indian School of Business — 2021. Host – Harmanpreet Singh
 
