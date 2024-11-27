@@ -13,7 +13,7 @@ author_profile: true
 
 Education
 ------
-**Ph.D. (Personal Health Informatics)** , 2021  
+**Ph.D. (Computer and Behavior Sciences)** , 2021  
 Khoury College of Computer Sciences and Bouve College of Health Sciences
 Northeastern University  
 Thesis: "Measuring subjective experiences using wearable microinteractions"   
@@ -46,7 +46,7 @@ Location: Boston, MA
 **Research Intern**, Philips, May 2019 - Aug 2019   
 Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel    
 Research areas: Wearable Computing and Human-AI Interactions    
-Location: Boston, MA    
+Location: Cambridge, MA    
  
 **UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015    
 Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri   
@@ -89,23 +89,30 @@ Service and Leadership
 Presentations and Talks
 ------
 [TALK] “Scaling experience sampling with smartwatch microinteactions" at:
+
 BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
+
 QuantUXCon (International Conf. on Quantitative User Experience) - 2024
 
 [TALK] “Human-centered Recommender Systems” at Northeastern University – 2021. Host – Prof. Herman Saksono
 
 [TALK + POSTERS] “Measuring subjective experiences using wearable microinteractions” at:   
+
 Spotify Research – 2021. Host – Dr. Jenn Thom   
+
 PROVE Center, Brigham and Women’s Health, Harvard Medical – 2019. Host - Prof. Chris Sidey-Gibbons    
+
 MITRE Corporation – 2018. Host – Harry Sleeper   
+
 Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
+
 Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
   
 [TALK] “The very basics of user research” at Indian School of Business — 2021. Host – Harmanpreet Singh
 
 [TALK] “Health behavior research – A design problem” at GoInvo — 2019. Host – Juhan Sonin
 
-Outreach and Coverage
+Media Coverage
 ------
 * Interview with Industry Playlist Newsletter on music recommendation systems- **Industry Playlist**, June 2024. [Link]([https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c))
 * How do people stream newly released music? - **Spotify R & D Blog**, May 2024. [Link](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
@@ -114,14 +121,14 @@ Outreach and Coverage
 * Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020. [Link](https://news.northeastern.edu/litmus/smart-fitness-devices-like-fitbits-could-help-change-your-behaviors-with-this-new-approach/)
 * Northeastern University professor combines computer science with health and measurement with self-reporting to improve the accuracy of fitness tracking - **Northeastern Global News**, Sept 2019. [Link](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
 
-Mentoring and Advising
+Mentoring
 ------
 * **Northeastern University:** Stephanie Santana (MPH’17), Krystal Huey (PharmD’18), Clarence Hann (MS Game Science’19), Krit Goyal (MS Comp Science’20), Adeeb Arif (MS Cybersecurity’20), Pranav Sharma (MS Comp Science’21), Spencer Franklin (BS Comp Science + Game Design’19)
 * **Spotify Research:** Yu Liang (PhD TU Eindhoven'23), Julie Jiang (PhD student, USC'24. Also, Forbes 30 under 30 in Science)
 
 Skills
 ------
-* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, supervised and unsupervised machine learning, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing and communication
+* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, discrete choice modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, supervised and unsupervised machine learning, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
 * **Software/Tools/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, Figma, UserTesting.com, DScout, and AWS (S3 and DynamoDB)
 * **Design:** Interactive prototyping, heuristic evaluation, A/B testing, hierarchical task analysis, data visualization
