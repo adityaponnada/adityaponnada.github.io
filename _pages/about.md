@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher who works at the intersection of HCI, behavior science, and AI/ML. Broadly, I am interested in developing personalized models of user behavior in natural settings at scale. 
+I am an interdisciplinary researcher who works at the intersection of HCI, behavior science, and AI/ML. Broadly, I am interested in quantifying  and personalizing user experiences in natural settings at scale. 
 
 
-I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher to study and model developer experiences/decision-making. I was a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab, building interactive recommender systems and scalable content understanding methods for long-tail content/creators. 
+I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, analyzing and modeling developer experiences. I was also a Research Scientist at [Spotify](https://research.atspotify.com/), where I was a member of the Human-in-the-AI (HAI) Lab, evaluating interactive recommender systems and scalable content understanding methods for long-tail recommendations. 
 
 
-I completed my PhD in Computer and Behavior Sciences from Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatches to collect large-scale personalized behavioral data. In addition, I built open-source tools to perform [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [annotation](https://signaligner.org/) of longitudinal user behavior data for pattern recognition tasks.
+I completed my PhD in Computer and Behavior Sciences from Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatches to collect large-scale personalized self-report data in real-world settings. In addition, I built open-source tools to perform [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [annotation](https://signaligner.org/) of longitudinal user behavior data for pattern recognition tasks.
 
 
 I regularly publish my work in peer-reviewed venues including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research opportunities.**
