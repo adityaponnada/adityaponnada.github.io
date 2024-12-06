@@ -66,7 +66,7 @@ Location: Guwahati, India
 Open-source Contribution
 ------
 * **MixWILD** - an interactive program to conduct multi-level modeling on longitudinal data. Available [here](https://reach-lab.github.io/MixWildGUI/) and used in behavioral health workshops for advanced statistical training.
-* **Signaligner Pro** - an interactive tool to visualize and annotate large-scale raw sensor data collected at high frequencies. Available [here](https://signaligner.org/) and used in several NIH studies to label sensor data for ML training.
+* **Signaligner Pro** - an AI-assisted interactive tool to visualize and annotate large-scale raw sensor data collected at high frequencies. Available [here](https://signaligner.org/) and used in several NIH studies to label sensor data for AI training.
 
 Awards and Honors
 ------
