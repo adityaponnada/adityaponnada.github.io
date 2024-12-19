@@ -44,9 +44,13 @@ Dunton, G. F., Wang, W. L., Intille, S. S., Dzubur, E., **Ponnada, A.**, & Hedek
 
 **Aditya Ponnada**, Binod Thapa-Chhetry, Justin Manjourides, and Stephen Intille. Measuring Criterion Validity of Microinteraction Ecological Momentary Assessment (Micro-EMA): Exploratory Pilot Study with Physical Activity Measurement. **JMIR Mhealth Uhealth'21**. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7991987/)
 
+**Aditya Ponnada**, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom'21 (Workshops)**. [link](https://ieeexplore.ieee.org/document/9431110)
+
 Chih-Hsiang Yang, Jaclyn P Maher, **Aditya Ponnada**, Eldin Dzubur, Rachel Nordgren, Stephen Intille, Donald Hedeker, Genevieve F Dunton. An empirical example of analysis using a two-stage modeling approach: within-subject association of outdoor context and physical activity predicts future daily physical activity levels. **Translational Behavioral Medicine'21**. [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8521720/)
 
 ### 2020
+
+Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. \[ :trophy: Selected for spotlight presentation \]. [link](https://neurips.cc/virtual/2020/protected/workshop_16135.html)
 
 Dzubur, E., **Ponnada, A.**, Nordgren, R., Yang, C-H., Intille, S. S., Dunton, G. F., & Hedeker, D., (2020). MixWILD: A program for examining the effects of variance and slope of time-varying variables in intensive longitudinal data. **Behavior Research Methods'20**. [link](https://pubmed.ncbi.nlm.nih.gov/31898295/)
 
@@ -76,12 +80,7 @@ Verberne, F. M., Ham, J., **Ponnada, A.**, & Midden, C. J. (2013). Trusting digi
 
 **Ponnada, A.**, & Kannan, A. (2012, August). Evaluation of mobile games using playability heuristics. **ICACCI'12**. [link](https://link.springer.com/chapter/10.1007/978-3-319-02958-0_25)
 
-Peer-reviewed workshops
-------
 
-**Aditya Ponnada**, Seth Cooper, Qu Tang, Binod Thapa-Chhetry, Josh Miller, Dinesh John, and Stephen Intille. (2021, March). Signaligner Pro: A Tool to Explore and Annotate Multi-day Raw Accelerometer Data. **IEEE PerCom'21 (Workshops)**. [link](https://ieeexplore.ieee.org/document/9431110)
-
-Qu Tang, **Aditya Ponnada**, Stephen Intille. 2020. Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices. Machine Learning for Mobile Health Workshop at **NeurIPS'20**. \[ :trophy: Selected for spotlight presentation \]. [link](https://neurips.cc/virtual/2020/protected/workshop_16135.html)
 
 Dissertation
 ------
