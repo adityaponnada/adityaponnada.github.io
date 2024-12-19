@@ -115,7 +115,7 @@ In Proc. ACM CHI Conf. Extended Abstracts on Human Factors in Computing Systems 
 
 **Trusting Digital Chameleons: The Effect of Mimicry by a Virtual Social Agent on User Trust.**
 Frank Verberne, Jaap Ham, **Aditya Ponnada**, and Cees Midden.\
-In 8th Intl. Conf. on Persuasive Technology (PERSUASIVE) [link](https://link.springer.com/chapter/10.1007/978-3-642-37157-8_28)
+In 8th Intl. Conf. on Persuasive Technology (PERSUASIVE) [link](https://link.springer.com/chapter/10.1007/978-3-642-37157-8_28)\
 :trophy: Best Paper Award
 
 
