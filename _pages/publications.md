@@ -13,13 +13,13 @@ author_profile: true
 
 Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates equal contributions by the authors.
 
-### 2024
+## 2024
 
 Jixin Li, **Aditya Ponnada**, Wei-Lin Wang, Genevieve Dunton, and Stephen S Intille. 2024. Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain. **PACM IMWUT'24**. [link](https://dl.acm.org/doi/10.1145/3699735)
 
 Julie Jiang, **Aditya Ponnada**, Ang Li, Ben Lacker, and Sam F Way. 2024. A Genre-Based Analysis of New Music Streaming at Scale. **ACM WebSci'24**. [link](https://dl.acm.org/doi/abs/10.1145/3614419.3644002)
 
-### 2023
+## 2023
 
 Yu Liang, **Aditya Ponnada**, Paul Lamere, and Nediyana Daskalova. 2023. Enabling Goal-Focused Exploration of Podcasts in Interactive Recommender Systems. **ACM IUI'23**. [link](https://dl.acm.org/doi/abs/10.1145/3581641.3584032)
 
@@ -85,7 +85,7 @@ Verberne, F. M., Ham, J., **Ponnada, A.**, & Midden, C. J. (2013). Trusting digi
 Dissertation
 ------
 **Aditya Ponnada** (2021). Measuring Subjective Experiences using Wearable Microinteractions. Northeastern University, Boston, MA. 
-Thesis committee: Prof. Stephen Intille (Northeastern University), Prof. Genevieve Dunton (University of Southern California), Prof. Matthew Goodwin (Northeastern University), and Prof. Justin Manjourides (Northeastern University). [link](https://www.proquest.com/openview/1273623278c019e781b248b7080dccf0/1?pq-origsite=gscholar&cbl=18750&diss=y)
+Thesis committee: Prof. Stephen Intille (Northeastern Univ.), Prof. Genevieve Dunton (Univ. of Southern California), Prof. Matthew Goodwin (Northeastern Univ.), and Prof. Justin Manjourides (Northeastern Univ.). [link](https://www.proquest.com/openview/1273623278c019e781b248b7080dccf0/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 
 <!-- {% for post in site.publications reversed %}
