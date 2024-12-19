@@ -17,9 +17,11 @@ Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates eq
 
 **Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain**\
 Jixin Li, **Aditya Ponnada**, Wei-Lin Wang, Genevieve Dunton, and Stephen S Intille\
-**PACM IMWUT'24**. [link](https://dl.acm.org/doi/10.1145/3699735)
+In Proc. ACM Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (IMWUT). [link](https://dl.acm.org/doi/10.1145/3699735)
 
-Julie Jiang, **Aditya Ponnada**, Ang Li, Ben Lacker, and Sam F Way. 2024. A Genre-Based Analysis of New Music Streaming at Scale. **ACM WebSci'24**. [link](https://dl.acm.org/doi/abs/10.1145/3614419.3644002)
+**A Genre-Based Analysis of New Music Streaming at Scale**\
+Julie Jiang, **Aditya Ponnada**, Ang Li, Ben Lacker, and Sam F Way.\
+In Proc. of 16th ACM Web Science Conf. (WebSci) [link](https://dl.acm.org/doi/abs/10.1145/3614419.3644002)
 
 ## 2023
 
