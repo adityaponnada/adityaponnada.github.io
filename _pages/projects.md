@@ -15,7 +15,7 @@ author_profile: true
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/bio-photo-2.jpg" alt="Image 1" style="width: 20%; height: auto;">
-    <p style="width: 80%; margin: 0;">Text 1</p>
+    <p markdown="1">Text 1</p>
   </div>
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/bio-photo-2.jpg" alt="Image 2" style="width: 20%; height: auto;">
