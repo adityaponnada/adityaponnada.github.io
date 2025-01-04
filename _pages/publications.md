@@ -74,6 +74,10 @@ Genevieve Dunton, Wei-Lin Wang, Stephen Intille, Eldin Dzubur, **Aditya Ponnada*
 Chih-Hsiang Yang, Jaclyn P Maher, **Aditya Ponnada**, Eldin Dzubur, Rachel Nordgren, Stephen Intille, Donald Hedeker, and Genevieve F Dunton\
 *Translational Behavioral Medicine (TBM)* [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8521720/)
 
+**Engaging social connections to promote physical activity in individuals with spinal cord injury**\
+Alexandra Canori, Rithika Lakshminarayanan, **Aditya Ponnada**, Stephen Intille, and Shivayogi Hiremath.\
+*Archives of Physical Medicine and Rehabilitation* [link](https://www.sciencedirect.com/science/article/pii/S0003999321012454?casa_token=G5Ud1ErQF8AAAAAA:3GBEMfhW8N2_VJDnRBl2YSlrg6oE-KjyZeyMtnea_hMLKwOquGsEZELn5VNh1MkokH-UaFlbTA)
+
 ## 2020
 
 **Towards Personal Hand Hygiene Detection in Free-living Using Wearable Devices.**\
