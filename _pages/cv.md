@@ -83,7 +83,8 @@ Service and Leadership
 ------
 * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
 * **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023), Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* **Juror**, ACM Conference on Human Factors in Computing Systems (CHI_ workshops - 2024
+* **Juror**, ACM Conference on Human Factors in Computing Systems (CHI_ workshops - 2025
+* **Associate Chair**, ACM Conference on Human Factors in Computing Systems (CHI - Late Breaking Work(
 * **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2022), ACM Transactions on Computer-Human Interactions (TOCHI), Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), NeurIPS (AI Ethics Review 2024), IEEE Pervasive Computing, Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), BioMed Central (BMC) Research Notes, Scientific Reports, Frontiers in Psychology
 
 Presentations and Talks
@@ -125,5 +126,5 @@ Skills
 ------
 * **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, discrete choice modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, supervised and unsupervised machine learning, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
-* **Software/Tools/APIs:** OpenAI, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, Figma, UserTesting.com, DScout, and AWS (S3 and DynamoDB)
+* **Software/Tools/APIs:** OpenAI, TensorFlow, Keras, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, Figma, UserTesting.com, DScout, and AWS (S3 and DynamoDB)
 * **Design:** Interactive prototyping, heuristic evaluation, A/B testing, hierarchical task analysis, data visualization
