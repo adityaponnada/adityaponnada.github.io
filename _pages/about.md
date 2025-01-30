@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher who works at the intersection of HCI, behavior science, and AI/ML. Broadly, I am interested in improving human data collection for AI development and personalizing user experiences at scale.  
+I am an interdisciplinary researcher who works at the intersection of HCI, behavior science, and AI/ML. I am interested in improving human data collection for AI development and personalizing user experiences at scale.
+
+
+My research contributions have been applied across diverse fields, including behavior sciences, search and recommendation systems, wearable computing, crowdsourcing, and developer tools.
+
 
 
 I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences for the Atlas platform. I was also a Research Scientist at [Spotify](https://research.atspotify.com/), where I was a member of the Human-in-the-AI (HAI) Lab, focused on human evaluation of interactive recommender systems and scalable content understanding methods for long-tail recommendations. 
