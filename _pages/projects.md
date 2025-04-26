@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 50px;">
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/new_music.png" alt="Image 1" style="width: 50%; height: auto;">
     <div style="width: 50%; display: flex; flex-direction: column; gap: 5px;">
