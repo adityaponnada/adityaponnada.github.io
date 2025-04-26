@@ -12,7 +12,7 @@ author_profile: true
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music" alt="Image 1" style="width: 20%; height: auto;">
+    <img src="/images/new_music" alt="Image 1" style="width: 50%; height: auto;">
     <div style="width: 80%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         # Heading 1
