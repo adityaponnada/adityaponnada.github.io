@@ -11,7 +11,7 @@ author_profile: true
 
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
-  <div style="display: flex; align-items: flex-start; gap: 5px;">
+  <div style="display: flex; align-items: flex-start; gap: 10px;">
     <img src="/images/new_music.png" alt="Image 1" style="width: 50%; height: auto;">
     <div style="width: 50%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
@@ -22,7 +22,7 @@ author_profile: true
       </p>
     </div>
   </div>
-  <div style="display: flex; align-items: flex-start; gap: 5px;">
+  <div style="display: flex; align-items: flex-start; gap: 10px;">
     <img src="/images/bio-photo-2.jpg" alt="Image 2" style="width: 20%; height: auto;">
     <div style="width: 80%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
