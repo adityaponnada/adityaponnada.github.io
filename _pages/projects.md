@@ -15,10 +15,10 @@ author_profile: true
     <img src="/images/new_music.png" alt="Image 1" style="width: 50%; height: auto;">
     <div style="width: 50%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        # Heading 1
+        Modeling developer preferences
       </p>
       <p markdown="1" style="margin: 0;">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Developed discrete choice models to analyze developer preferences for the MongoDB Atlas platform, utilizing large-scale MaxDiff surveys across global developer populations to assess trade-offs between mutually exclusive cost and performance optimization features. The study identified distinct preference patterns between novice and experienced developers, revealing key differences in prioritization. These insights informed the prioritization of A/B experiments for personalized user experiences on the Atlas home page, driving measurable improvements in key performance indicators (KPIs), including a ~XX% enhancement in targeted metrics. The findings directly supported feature optimization and user-centric design decisions to better align with developer needs.
       </p>
     </div>
   </div>
