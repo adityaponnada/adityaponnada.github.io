@@ -35,6 +35,18 @@ author_profile: true
       </p>
     </div>
   </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 4" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        User modeling of new music listening
+      </p>
+      <p markdown="1" style="margin: 0;">
+        Developed ML models predicting user interactions with [new music](https://artists.spotify.com/new-releases) recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
+      </p>
+    </div>
+  </div>
   
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/trending_plot_v2.png" alt="Image 3" style="width: 40%; height: auto;">
@@ -47,18 +59,7 @@ author_profile: true
       </p>
     </div>
   </div>
- 
-  <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 4" style="width: 40%; height: auto;">
-    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
-      <p markdown="1" style="margin: 0; font-weight: bold;">
-        User modeling of new music listening
-      </p>
-      <p markdown="1" style="margin: 0;">
-        Developed ML models predicting user interactions with [new music](https://artists.spotify.com/new-releases) recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
-      </p>
-    </div>
-  </div>
+
   
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/goals_screenshot.png" alt="Image 5" style="width: 40%; height: auto;">
