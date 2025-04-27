@@ -12,8 +12,8 @@ author_profile: true
 
 <div style="display: flex; flex-direction: column; gap: 50px;">
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 1" style="width: 30%; height: auto;">
-    <div style="width: 70%; display: flex; flex-direction: column; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 1" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Modeling developer preferences
       </p>
