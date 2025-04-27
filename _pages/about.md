@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher who works at the intersection of HCI, behavior science, and AI/ML. I am interested in improving human data collection for AI development and personalizing user experiences at scale.
+I am an interdisciplinary researcher who works at the intersection of HCI, behavior science, and AI/ML. I am interested in improving human data collection for AI development and personalizing user experiences at scale. My research contributions have been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
 
 
-My research contributions have been applied across diverse fields, including behavior sciences, search and recommendation systems, wearable computing, crowdsourcing, and developer tools.
+I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences for the Atlas platform. I was also a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab, and focused on human evaluation of recommender systems and large-scale analysis of users' streaming behaviors. 
 
 
+I completed my PhD in Human-Computer Interaction from Northeastern University, Boston, MA, working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I was fortunate to collaborate closely with [Seth Cooper](https://www.khoury.northeastern.edu/home/scooper/), [Genevieve Dunton](https://keck.usc.edu/faculty-search/genevieve-dunton/), [Don Hedeker](https://stat.uchicago.edu/people/profile/donald-hedeker/), [Andrea Parker](https://faculty.cc.gatech.edu/~andrea/), [Sam F Way](http://samfway.com/), [Jenn Thom](https://www.jennthom.com/), and Alice Wang. 
 
-I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences for the Atlas platform. I was also a Research Scientist at [Spotify](https://research.atspotify.com/), where I was a member of the Human-in-the-AI (HAI) Lab, focused on human evaluation of interactive recommender systems and scalable content understanding methods for long-tail recommendations. 
-
-
-I completed my PhD in Computer and Behavior Sciences from Northeastern University, Boston, MA working with [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatches to collect large-scale personalized self-report data in real-world settings. In addition, I built open-source tools to perform [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data for pattern recognition tasks.
+For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatches to collect large-scale personalized self-report data in real-world settings. In addition, I built open-source tools to perform [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data for pattern recognition tasks.
 
 
 I regularly publish my work in peer-reviewed venues including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research or applied science opportunities.**
@@ -26,6 +24,9 @@ I regularly publish my work in peer-reviewed venues including PACM IMWUT (UbiCom
 Updates
 ------
   
+**April, 2025** 🤗 TIME study data codebook is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
+
+
 **Jan, 2025** 🔎 Excited to be the Associate Chair of CHI 2025, [Late Breaking Work (LBW)](https://chi2025.acm.org/for-authors/late-breaking-work/) track. Send in your most exciting work!
 
 
@@ -47,7 +48,6 @@ Updates
 **April, 2024.** 🎹 I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
 
 
-**April, 2024.** 👨‍🎤 Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
 
 
 <details>
@@ -58,6 +58,8 @@ Updates
 
 
 
+
+**April, 2024.** 👨‍🎤 Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
 
   
  
