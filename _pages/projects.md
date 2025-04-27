@@ -43,7 +43,7 @@ author_profile: true
         Trending topics for podcast growth
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify searches and Wikipedia page views to amplify long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in achieving higher speed, accuracy, and cost-efficiency when finding the most relevant podcast episodes for trending topics. Observational analysis confirmed that trending topics drove podcasters' growth and user engagement.
+        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify searches and Wikipedia page views to amplify long-tail [podcasts](https://podcastcharts.byspotify.com/us). Demonstrated LLM text-embeddings' superiority over zero-shot prompting in achieving higher speed, accuracy, and cost-efficiency when finding the most relevant podcast episodes for trending topics. Observational analysis confirmed that trending topics drove podcasters' growth and user engagement.
       </p>
     </div>
   </div>
@@ -55,13 +55,13 @@ author_profile: true
         User modeling of new music listening
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed ML models predicting user interactions with new music recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
+        Developed ML models predicting user interactions with [new music](https://artists.spotify.com/new-releases) recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
       </p>
     </div>
   </div>
   
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/goals_screenshot.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Podcast discovery via goal-setting
@@ -73,13 +73,13 @@ author_profile: true
   </div>
 
 <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/search_frust" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Measuring search user frustration
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed a novel UX metric for Spotify search frustration by collecting large-scale session-level labels via event-triggered surveys. Built an ML model predicting frustration using search interactions, revealing two key insights: frustration is session-dependent rather than user-history-based, and query edit distance is the strongest predictor. These findings enabled real-time frustration measurement in online experiments to improve the search experience.
+        Developed a novel UX metric for Spotify search frustration by collecting large-scale session-level labels via event-triggered surveys. Built an ML model predicting frustration using search interactions, revealing two key insights: frustration is session-dependent rather than user-history-based, and query edit distance is the strongest predictor. These findings enabled real-time frustration measurement in online experiments to improve the [search experience](https://research.atspotify.com/2023/05/improving-retrievability-in-search-with-query-generation/).
       </p>
     </div>
   </div>
