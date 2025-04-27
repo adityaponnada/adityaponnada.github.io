@@ -18,7 +18,7 @@ author_profile: true
         Modeling developer preferences
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed discrete choice models to understand developer preferences for the MongoDB Atlas platform by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized Atlas home page experiences, resulting in a ~XX% improvement in key performance indicators. This work enhanced feature optimization and aligned the platform with developer needs.
+        Developed discrete choice models to understand developer preferences for the MongoDB Atlas platform by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized Atlas home page experiences, resulting in a ~XX% improvement in key performance indicators.
       </p>
     </div>
   </div>
@@ -40,7 +40,7 @@ author_profile: true
         Trending topics for long-tail podcasts
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify podcast searches and Wikipedia page views to amplify long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in mapping topics to episodes, achieving higher speed, accuracy, and cost-efficiency. Observational analysis confirmed trending topics drove podcasters' growth and user engagement.
+        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify podcast searches and Wikipedia page views to amplify long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in mapping topics to episodes, achieving higher speed, accuracy, and cost-efficiency. Observational analysis confirmed that trending topics drove podcasters' growth and user engagement.
       </p>
     </div>
   </div>
@@ -56,16 +56,29 @@ author_profile: true
     </div>
   </div>
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/bio-photo-2.jpg" alt="Image 5" style="width: 20%; height: auto;">
-    <div style="width: 80%; display: flex; flex-direction: column; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        # Heading 5
+        Podcast discovery via goal-setting
       </p>
       <p markdown="1" style="margin: 0;">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Created an interactive podcast recommender (inspired by Strava/Duolingo) where users set goals to receive personalized podcast recommendations. Used large-scale event-triggered surveys and search queries to identify user needs, revealing a disconnect between long-term goals (e.g., learning) and short-term entertainment needs. Testing the interactive system showed that goal-setting helped users discover new podcasts beyond their usual preferences. [Read more](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
       </p>
     </div>
   </div>
+
+<div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        Measuring search user frustration
+      </p>
+      <p markdown="1" style="margin: 0;">
+        Developed a novel UX metric for Spotify search frustration by collecting large-scale session-level labels via event-triggered surveys. Built an ML model predicting frustration using search interactions, revealing two key insights: frustration is session-dependent rather than user-history-based, and query edit distance is the strongest predictor. These findings enabled real-time frustration measurement in online experiments to improve the search experience.
+      </p>
+    </div>
+  </div>
+  
 </div>
 
 
