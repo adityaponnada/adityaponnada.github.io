@@ -18,7 +18,7 @@ author_profile: true
         Modeling developer preferences
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed discrete choice models to understand developer preferences for the MongoDB Atlas platform by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized Atlas home page experiences, resulting in approximately a ~XX% improvement in key performance indicators. This work enhanced feature optimization and aligned the platform with developer needs.
+        Developed discrete choice models to understand developer preferences for the MongoDB Atlas platform by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized Atlas home page experiences, resulting in a ~XX% improvement in key performance indicators. This work enhanced feature optimization and aligned the platform with developer needs.
       </p>
     </div>
   </div>
