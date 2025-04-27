@@ -98,7 +98,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/uema_image.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         MicroEMA: Surveys with smartwatch microinteractions
@@ -110,7 +110,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/signaligner.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Signaligner Pro: AI-assisted sensor data labeling
@@ -122,7 +122,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/mixwild_logo-red_large.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         MixWILD: Interactive mixed-effects modeling
@@ -134,7 +134,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/mobots.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Video games for human data labeling
