@@ -18,7 +18,7 @@ author_profile: true
         Modeling developer preferences
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed discrete choice models to understand developer preferences for the MongoDB Atlas platform by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized Atlas home page experiences, resulting in a ~XX% improvement in key performance indicators.
+        Developed discrete choice models to understand developer preferences for the MongoDB Atlas by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized user experiences, resulting in a ~XX% improvement in key performance indicators.
       </p>
     </div>
   </div>
@@ -40,7 +40,7 @@ author_profile: true
         Trending topics for podcast growth
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify podcast searches and Wikipedia page views to amplify long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in mapping topics to episodes, achieving higher speed, accuracy, and cost-efficiency. Observational analysis confirmed that trending topics drove podcasters' growth and user engagement.
+        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify searches and Wikipedia page views to amplify long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in achieving higher speed, accuracy, and cost-efficiency when finding the most relevant podcast episodes for trending topics. Observational analysis confirmed that trending topics drove podcasters' growth and user engagement.
       </p>
     </div>
   </div>
@@ -51,7 +51,7 @@ author_profile: true
         User modeling of new music listening
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed ML models predicting user interactions with new music recommendations at scale, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
+        Developed ML models predicting user interactions with new music recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
       </p>
     </div>
   </div>
@@ -62,7 +62,7 @@ author_profile: true
         Podcast discovery via goal-setting
       </p>
       <p markdown="1" style="margin: 0;">
-        Created an interactive podcast recommender (inspired by Strava/Duolingo) where users set goals to receive personalized podcast recommendations. Used large-scale event-triggered surveys and search queries to identify user needs, revealing a disconnect between long-term goals (e.g., learning) and short-term entertainment needs. Testing the interactive system showed that goal-setting helped users discover new podcasts. [Read more](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
+        Created an interactive podcast recommender (inspired by Strava/Duolingo) where users set goals to receive personalized podcast recommendations. Used large-scale event-triggered surveys and search queries to identify user needs, revealing a disconnect between long-term goals (e.g., learning) and short-term entertainment needs. Real-world evaluation showed that goal-setting helped users discover new podcasts. [Read more](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
       </p>
     </div>
   </div>
@@ -87,7 +87,7 @@ author_profile: true
         Personalized surveys and experience sampling
       </p>
       <p markdown="1" style="margin: 0;">
-        Personalized user behavior models require high-quality human data from real-world surveys. I developed AI-driven algorithms to optimize longitudinal data collection, enhancing accuracy while minimizing user burden. Two large-scale studies were conducted: first, using mixed-effects models to predict non-response biases in experience sampling; second, deploying Bayesian networks and ML to dynamically adapt questions in real-time, personalizing surveys for each user to balance data quality and user experience.
+        Personalized user models require high-quality human data from real-world surveys. I developed AI-driven algorithms to optimize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Two large-scale studies were conducted: first, using mixed-effects models to predict non-response biases in experience sampling; second, deploying Bayesian networks and ML to dynamically adapt questions in real-time, personalizing surveys for each user.
       </p>
     </div>
   </div>
@@ -99,7 +99,7 @@ author_profile: true
         MicroEMA: Surveys with smartwatch microinteractions
       </p>
       <p markdown="1" style="margin: 0;">
-        Pioneered MicroEMA, a smartwatch-based experience sampling method replacing traditional surveys with microinteractions (e.g., glance-like responses with a single question and a binary response set) to collect high-frequency, real-world survey data. Unlike burdensome multi-question surveys, MicroEMA’s quick interactions achieved 2X response rates in longitudinal field experiments while reducing user fatigue, proving its effectiveness in large-scale human data collection to train pattern recognition algorithms. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
+        Built a smartwatch-based experience sampling method replacing traditional surveys with microinteractions (e.g., glance-like responses with a single question and a binary response set) to collect high-frequency, real-world survey data. Unlike burdensome multi-question surveys, MicroEMA’s quick interactions achieved 2X response rates in longitudinal field experiments while reducing user fatigue, proving its effectiveness in large-scale human data collection to train pattern recognition algorithms. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
       </p>
     </div>
   </div>
@@ -123,7 +123,7 @@ author_profile: true
         MixWILD: Interactive mixed-effects modeling
       </p>
       <p markdown="1" style="margin: 0;">
-        Created an open-source tool for mixed-effects modeling of intensive longitudinal data (e.g., real-world experience sampling surveys). It provides a no-code interface, enabling researchers without programming expertise to perform complex multilevel analyses. Now adopted in conferences and workshops, MixWILD makes advanced statistical modeling more accessible by eliminating the need for complex programming in R/Python. [Try it here](https://reach-lab.github.io/MixWildGUI/)
+        Created an open-source tool for mixed-effects modeling of intensive longitudinal data (e.g., real-world experience sampling surveys). It provides a no-code interface, enabling researchers without programming expertise to perform complex multilevel analyses. Now adopted in conferences and workshops, MixWILD makes advanced statistical modeling more accessible by eliminating the need for complex programming in R / Python. [Try it here](https://reach-lab.github.io/MixWildGUI/)
       </p>
     </div>
   </div>
