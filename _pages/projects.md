@@ -99,7 +99,7 @@ author_profile: true
         MicroEMA: Surveys with smartwatch microinteractions
       </p>
       <p markdown="1" style="margin: 0;">
-        Pioneered MicroEMA, a smartwatch-based experience sampling method replacing traditional surveys with microinteractions (e.g., glance-like responses with a single question and a binary response set) to collect high-frequency, real-world survey data. Unlike burdensome multi-question surveys, MicroEMA’s quick interactions achieved 2X response rates in longitudinal field experiments while reducing user fatigue, proving its effectiveness in large-scale human data collection to train pattern recognition algorithms.
+        Pioneered MicroEMA, a smartwatch-based experience sampling method replacing traditional surveys with microinteractions (e.g., glance-like responses with a single question and a binary response set) to collect high-frequency, real-world survey data. Unlike burdensome multi-question surveys, MicroEMA’s quick interactions achieved 2X response rates in longitudinal field experiments while reducing user fatigue, proving its effectiveness in large-scale human data collection to train pattern recognition algorithms. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
       </p>
     </div>
   </div>
