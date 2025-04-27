@@ -24,7 +24,7 @@ I regularly publish my work in peer-reviewed venues including PACM IMWUT (UbiCom
 Updates
 ------
   
-**April, 2025** 🤗 TIME study data codebook is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
+**April, 2025** 🤗 TIME study data [codebook](https://timestudydocumentation.github.io/docs/build/html/index.html) is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
 
 
 **Jan, 2025** 🔎 Excited to be the Associate Chair of CHI 2025, [Late Breaking Work (LBW)](https://chi2025.acm.org/for-authors/late-breaking-work/) track. Send in your most exciting work!
