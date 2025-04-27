@@ -28,7 +28,7 @@ author_profile: true
     <img src="/images/csat_sample_v2.png" alt="Image 2" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        UX metrics for data development
+        UX metrics for developer experiences
       </p>
       <p markdown="1" style="margin: 0;">
         Created original metrics to assess [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) user experience at scale, including developer sentiment, engagement, and task success rates. These metrics evaluated design changes across [observability](https://www.mongodb.com/products/capabilities/observability), [identity & access management](https://www.mongodb.com/resources/products/capabilities/mongodb-atlas-security), and billing interfaces, establishing a scalable framework for cross-functional teams. The system enabled data-driven optimization of platform experience and user satisfaction.
@@ -110,7 +110,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/signaligner.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/signaligner_pro.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Signaligner Pro: AI-assisted sensor data labeling
