@@ -19,7 +19,7 @@ author_profile: true
         Modeling developer preferences
       </p>
       <p markdown="1" style="margin: 0;">
-        Developed discrete choice models to understand developer preferences for the MongoDB Atlas by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized user experiences, resulting in a ~XX% improvement in key performance indicators.
+        Developed discrete choice models to understand developer preferences for the [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) by conducting large-scale MaxDiff surveys globally. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized user experiences, resulting in a ~XX% improvement in key performance indicators.
       </p>
     </div>
   </div>
@@ -31,13 +31,13 @@ author_profile: true
         UX metrics for data development
       </p>
       <p markdown="1" style="margin: 0;">
-        Created original metrics to assess MongoDB Atlas user experience at scale, including developer sentiment, engagement, and task success rates. These metrics evaluated design changes across observability, identity & access management, and billing interfaces, establishing a scalable framework for cross-functional teams. The system enabled data-driven optimization of platform experience and user satisfaction.
+        Created original metrics to assess [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) user experience at scale, including developer sentiment, engagement, and task success rates. These metrics evaluated design changes across [observability](https://www.mongodb.com/products/capabilities/observability), [identity & access management](https://www.mongodb.com/resources/products/capabilities/mongodb-atlas-security), and billing interfaces, establishing a scalable framework for cross-functional teams. The system enabled data-driven optimization of platform experience and user satisfaction.
       </p>
     </div>
   </div>
   
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/new_music.png" alt="Image 3" style="width: 40%; height: auto;">
+    <img src="/images/trending_plot_v2.png" alt="Image 3" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Trending topics for podcast growth
