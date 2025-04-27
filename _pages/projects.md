@@ -23,35 +23,35 @@ author_profile: true
     </div>
   </div>
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/bio-photo-2.jpg" alt="Image 2" style="width: 20%; height: auto;">
-    <div style="width: 80%; display: flex; flex-direction: column; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 2" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        # Heading 2
+        UX metrics for data development
       </p>
       <p markdown="1" style="margin: 0;">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Created original metrics to assess MongoDB Atlas user experience at scale, including developer sentiment, engagement, and task success rates. These metrics evaluated design changes across observability, identity & access management, and billing interfaces, establishing a scalable framework for cross-functional teams. The system enabled data-driven optimization of platform experience and user satisfaction.
       </p>
     </div>
   </div>
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/bio-photo-2.jpg" alt="Image 3" style="width: 20%; height: auto;">
-    <div style="width: 80%; display: flex; flex-direction: column; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 3" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        # Heading 3
+        Trending topics for long-tail podcasts
       </p>
       <p markdown="1" style="margin: 0;">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Developed a novel algorithm identifying trending topics via user behavior logs from Spotify podcast searches and Wikipedia page views to amplify long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in mapping topics to episodes, achieving higher speed, accuracy, and cost-efficiency. Observational analysis confirmed trending topics drove podcasters' growth and user engagement.
       </p>
     </div>
   </div>
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/bio-photo-2.jpg" alt="Image 4" style="width: 20%; height: auto;">
-    <div style="width: 80%; display: flex; flex-direction: column; gap: 5px;">
+    <img src="/images/new_music.png" alt="Image 4" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        # Heading 4
+        Behavioral modeling of new music listening
       </p>
       <p markdown="1" style="margin: 0;">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        Developed ML models predicting user interactions with new music recommendations at scale, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct preferences for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% KPI improvements through optimized music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
       </p>
     </div>
   </div>
