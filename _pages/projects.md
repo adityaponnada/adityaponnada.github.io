@@ -135,7 +135,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/mobots_v4.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/mobits_v4.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Video games for human data labeling
