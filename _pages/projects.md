@@ -13,6 +13,18 @@ author_profile: true
 <div style="display: flex; flex-direction: column; gap: 50px;">
  
   <div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/bn_final.png" alt="Image 5" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        Personalized surveys and experience sampling
+      </p>
+      <p markdown="1" style="margin: 0;">
+        How can we personalize survey questions? Personalized user models require high-quality human data from real-world surveys. Built ML-based methods to optimize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Two large-scale studies were conducted: first, using mixed-effects models to predict non-response biases in experience sampling; second, deploying Bayesian networks and ML to dynamically adapt questions, personalizing surveys for each user.
+      </p>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/simple_ridge_v2.png" alt="Image 1" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
@@ -85,18 +97,6 @@ author_profile: true
     </div>
   </div>
 
-
-  <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/bn_final.png" alt="Image 5" style="width: 40%; height: auto;">
-    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
-      <p markdown="1" style="margin: 0; font-weight: bold;">
-        Personalized surveys and experience sampling
-      </p>
-      <p markdown="1" style="margin: 0;">
-        How can we personalize survey questions? Personalized user models require high-quality human data from real-world surveys. Built ML-based methods to optimize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Two large-scale studies were conducted: first, using mixed-effects models to predict non-response biases in experience sampling; second, deploying Bayesian networks and ML to dynamically adapt questions, personalizing surveys for each user.
-      </p>
-    </div>
-  </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/uema_image.png" alt="Image 5" style="width: 40%; height: auto;">
