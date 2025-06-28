@@ -23,45 +23,32 @@ Advisor: Prof. Stephen S Intille
 **B.Des (Design)**, 2013   
 Department of Design   
 Indian Institute of Technology (IIT), Guwahati   
-Thesis: "Trust-inducing interface elements in online shopping"     
-Advisor(s): Prof. Pradeep Yammiyavar and Prof. Debayan Dhar   
 
 Experience
 ------
-**Sr. Quantitative User Researcher**, MongoDB, Jun 2024 - present     
-Research areas: Human-Computer Interaction, User Modeling, and Personalization   
+**Sr. Quantitative User Researcher**, MongoDB, Jun 2024 - present        
 Location: Boston, MA
 
 **Research Scientist**, Spotify, Jan 2022 - Mar 2024   
-Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)   
-Research areas: Human-Computer Interaction, Human-Centered AI, and Personalization   
+Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)      
 Location: Boston, MA   
 
 **Researcher**, Northeastern University, Sep 2015 - Dec 2021   
 Group: [mHealth Research Group](https://www.mhealthgroup.org/) led by [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/)    
-Dept: Khoury College of Computer Science and Bouve College of Health Sciences    
-Research areas: Experience sampling, Mobile/Wearable Computing, and Human-Computation    
+Dept: Khoury College of Computer Science and Bouve College of Health Sciences        
 Location: Boston, MA    
  
 **Research Intern**, Philips, May 2019 - Aug 2019   
-Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel    
-Research areas: Wearable Computing and Human-AI Interactions    
+Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel       
 Location: Cambridge, MA    
  
 **UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015    
-Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri   
-Research areas: Mobile Health, Input Methods, and Accessibility   
+Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri     
 Location: Bengaluru, India   
 
 **Visiting Researcher**, TU Eindhoven (TU/e), May 2012 - Jul 2012    
-Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction) Group led by [Prof. Jaap Ham](https://www.tue.nl/en/research/researchers/jaap-ham)    
-Research areas: Human-AI Interactions and Virtual Agents    
-Location: Eindhoven, The Netherlands    
-
-**Research Assistant**, Indian Institute of Technology (IIT), Guwahati, Jan 2011 - April 2011    
-Group: [UE + HCI Group](https://iitg.ac.in/uelab/) led by [Prof. Pradeep Yammiyavar](https://www.iitg.ac.in/design/portfolio/py/Prof.%20Pradeep%20Gururaj%20Yammiyavar%20_%20Department%20of%20Design.html) and [Prof. Debayan Dhar](https://www.iitg.ac.in/design/portfolio/DebayanDharWebsite/index.html)    
-Research areas: Human-Computer Interaction and Usability Engineering    
-Location: Guwahati, India    
+Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction) Group led by [Prof. Jaap Ham](https://www.tue.nl/en/research/researchers/jaap-ham)       
+Location: Eindhoven, The Netherlands     
   
 Open-source Contribution
 ------
@@ -82,10 +69,10 @@ Awards and Honors
 Service and Leadership
 ------
 * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
-* **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI, Boston area chapter of ACM SIGCHI (2018 – 2023), Healthcare Information and Management Systems Society (HIMSS), New England Chapter (2020 – 2021)
-* **Juror**, ACM Conference on Human Factors in Computing Systems (CHI 2025 workshops)
-* **Associate Chair**, ACM Conference on Human Factors in Computing Systems (CHI 2025 - Late Breaking Work)
-* **Peer-reviewer**, ACM Conference on Human Factors in Computing Systems (CHI 2017 – 2024), ACM Interactive Mobile, Wearable, and Ubiquitous Technologies (IMWUT or UbiComp 2019 – 2025), ACM Transactions on Computer-Human Interactions (TOCHI), Proceedings of the ACM in Human-Computer Interaction (CSCW 2021 - 2023), NeurIPS (AI Ethics Review 2024), IEEE Pervasive Computing, Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), BioMed Central (BMC) Research Notes, Scientific Reports, Frontiers in Psychology
+* **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI (2018 – 2023) 
+* **Juror**, ACM CHI 2025 workshops
+* **Associate Chair**, ACM CHI 2025 - Late Breaking Work, ACM CHI 2026 (Computational Interactions Subcommittee)
+* **Peer-reviewer**, ACM CHI 2017 – 2024, PACM IMWUT/UbiComp 2019 – 2025, ACM TOCHI, PACM HCI/CSCW 2021 - 2023, NeurIPS (AI Ethics Review 2024 - 2025), IEEE Pervasive Computing, Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), BioMed Central (BMC) Research Notes, Scientific Reports, Frontiers in Psychology
 
 Presentations and Talks
 ------
@@ -126,5 +113,4 @@ Skills
 ------
 * **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, discrete choice modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, supervised and unsupervised machine learning, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
-* **Software/Tools/APIs:** OpenAI, TensorFlow, Keras, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, SAS, Git, Adobe Creative Suite, Tableau, P5.js, Figma, UserTesting.com, DScout, and AWS (S3 and DynamoDB)
-* **Design:** Interactive prototyping, heuristic evaluation, A/B testing, hierarchical task analysis, data visualization
+* **Software/Tools/APIs:** OpenAI, TensorFlow, Keras, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics
