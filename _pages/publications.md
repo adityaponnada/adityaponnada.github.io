@@ -117,7 +117,7 @@ Sanjay Ghosh, Sarita Seshagiri, and **Aditya Ponnada**. 2016.\
 
 ## 2013
 
-**Trusting Digital Chameleons: The Effect of Mimicry by a Virtual Social Agent on User Trust.**
+**Trusting Digital Chameleons: The Effect of Mimicry by a Virtual Social Agent on User Trust.**\
 Frank Verberne, Jaap Ham, **Aditya Ponnada**, and Cees Midden.\
 *Proc. Persuasive Technology (PERSUASIVE)* [link](https://link.springer.com/chapter/10.1007/978-3-642-37157-8_28)\
 :trophy: Best Paper Award
