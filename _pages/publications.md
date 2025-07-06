@@ -13,6 +13,12 @@ author_profile: true
 
 Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates equal contributions by the authors.
 
+## 2025
+
+**Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA).**\
+**Aditya Ponnada**, Shirlene D Wang, Jixin Li, Wei-Lin Wang, Genevieve Dunton, Donald Hedeker, and Stephen S Intille\
+*Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (PACM IMWUT)* - To appear
+
 ## 2024
 
 **Ask Less, Learn More: Adapting Ecological Momentary Assessment Survey Length by Modeling Question-Answer Information Gain.**\
