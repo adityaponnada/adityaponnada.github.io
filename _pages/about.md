@@ -24,6 +24,9 @@ I regularly publish my work in peer-reviewed venues including PACM IMWUT (UbiCom
 Updates
 ------
   
+**July, 2025** 🎉 Paper titled "Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA)" accepted at Proceedings of the ACM IMWUT!
+
+
 **April, 2025** 🤗 TIME study data [codebook](https://timestudydocumentation.github.io/docs/build/html/index.html) is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
 
 
@@ -45,9 +48,6 @@ Updates
 **May, 2024.** 🎸 Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
 
 
-**April, 2024.** 🎹 I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
-
-
 
 
 <details>
@@ -57,6 +57,7 @@ Updates
 {% capture my_markdown_content %}
 
 
+**April, 2024.** 🎹 I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
 
 
 **April, 2024.** 👨‍🎤 Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
