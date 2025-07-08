@@ -19,7 +19,7 @@ author_profile: true
         Personalized surveys and experience sampling
       </p>
       <p markdown="1" style="margin: 0;">
-        How can we personalize survey questions? Large user behavior models need high-quality human data from real-world surveys. Built ML-based methods to personalize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Two large-scale studies were conducted: first, using mixed-effects models to predict non-response biases in experience sampling surveys; second, using Bayesian networks and ML to personalize survey question selection for each user based on information gain.
+        How can we personalize survey questions? Large user behavior models need high-quality human data from real-world surveys. Built ML-based methods to personalize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Conducted two large-scale studies: first, using mixed-effects models to predict non-response biases in experience sampling surveys; second, using Bayesian networks and ML to personalize survey question selection for each user based on information gain.
       </p>
     </div>
   </div>
