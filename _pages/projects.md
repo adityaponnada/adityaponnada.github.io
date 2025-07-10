@@ -19,7 +19,7 @@ author_profile: true
         Personalized surveys and experience sampling
       </p>
       <p markdown="1" style="margin: 0;">
-        How can we personalize survey questions? Large user behavior models need high-quality human data from real-world surveys. Built ML-based methods to personalize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Conducted two large-scale studies: first, using mixed-effects models to predict non-response biases in experience sampling surveys; second, using Bayesian networks and ML to personalize survey question selection for each user based on information gain.
+        How can we personalize survey question selection in real-time? Large user behavior models need high-quality human data, including surveys. Built ML-based methods to personalize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Conducted two large-scale studies: First, used mixed-effects models to predict non-response biases in experience sampling surveys; Second, used Bayesian Networks and ML to personalize survey question selection (based on information gain or reduction in entropy) in real-time for each user.
       </p>
     </div>
   </div>
@@ -43,7 +43,7 @@ author_profile: true
         UX metrics for developer experiences
       </p>
       <p markdown="1" style="margin: 0;">
-        How do we measure the success of design changes? Created original metrics to assess [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) experience at scale, including developer sentiment, engagement, and task success. These metrics evaluated design changes across [observability](https://www.mongodb.com/products/capabilities/observability), [identity & access management](https://www.mongodb.com/resources/products/capabilities/mongodb-atlas-security), and billing interfaces, establishing a scalable data-driven framework for cross-functional teams.
+        How do we measure the success of design changes? Created original metrics to assess MongoDB Atlas experience at scale, including developer sentiment, engagement, and task success. These metrics evaluated design changes across [observability](https://www.mongodb.com/products/capabilities/observability), [identity & access management](https://www.mongodb.com/resources/products/capabilities/mongodb-atlas-security), and billing interfaces, establishing a scalable data-driven framework for cross-functional teams.
       </p>
     </div>
   </div>
@@ -55,7 +55,7 @@ author_profile: true
         User modeling of new music listening
       </p>
       <p markdown="1" style="margin: 0;">
-        How do users stream new music? Developed ML models predicting user interactions with [new music](https://artists.spotify.com/new-releases) recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct tastes for new vs. older music, consistent new music listening diet, and user segments receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% improvements in music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
+        How do users stream new music? Developed ML models predicting user interactions with [new music](https://artists.spotify.com/new-releases) recommendations, including genre success forecasting, taste classification, and user segmentation. Key findings revealed genre popularity drives repeat listens, distinct tastes for new vs. older music, consistent new music listening diet, and user segments that are most receptive to new recommendations. These insights informed A/B tests on Spotify Home, achieving ~XX% improvements in music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
       </p>
     </div>
   </div>
@@ -80,7 +80,7 @@ author_profile: true
         Podcast discovery via goal-setting
       </p>
       <p markdown="1" style="margin: 0;">
-        How does user input improve discovery? Created an interactive podcast recommender (inspired by Strava/Duolingo) where users set goals to receive personalized podcast recommendations. Used large-scale event-triggered surveys and search queries to identify user needs, revealing a gap between long-term goals (e.g., learning) and short-term entertainment needs. Real-world evaluation showed that goal-setting helped users discover new podcasts. [Read more](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
+        How does user input improve discovery? Built an interactive AI prototype (inspired by Strava/Duolingo) where users set goals to receive personalized podcast recommendations. Used large-scale event-triggered surveys and search queries to identify user needs, revealing a gap between long-term goals (e.g., learning) and short-term entertainment needs. Real-world evaluation showed that goal-setting helped users discover new podcasts. [Read more](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
       </p>
     </div>
   </div>
@@ -92,7 +92,7 @@ author_profile: true
         Measuring search user frustration
       </p>
       <p markdown="1" style="margin: 0;">
-        Can we measure search user experience beyond success? Developed a novel UX metric for Spotify search frustration by collecting large-scale session-level labels via event-triggered surveys. Built an ML model predicting frustration using search interactions, revealing two key insights: frustration is session-dependent rather than user-history-based, and query edit distance is the strongest predictor. These findings enabled real-time frustration measurement in online experiments to improve the [search experience](https://research.atspotify.com/2023/05/improving-retrievability-in-search-with-query-generation/).
+        Can we predict user frustration with search? Developed a novel UX metric for Spotify search frustration by collecting large-scale session-level labels via event-triggered surveys. Built an ML model predicting frustration using search interactions, revealing two key insights: frustration is session-dependent rather than user-history-based, and query edit distance is the strongest predictor. These findings enabled real-time frustration measurement in online experiments to improve the search experience.
       </p>
     </div>
   </div>
@@ -105,7 +105,7 @@ author_profile: true
         MicroEMA: Surveys with smartwatch microinteractions
       </p>
       <p markdown="1" style="margin: 0;">
-        How can users sustain large-scale repeated surveys? Built a smartwatch-based experience sampling method replacing traditional surveys with microinteractions (e.g., glance-like responses with a single question and a binary response set) to collect high-frequency, real-world  data. Unlike burdensome multi-question surveys, MicroEMA’s quick interactions achieved 2X response rates in longitudinal field experiments while reducing user burden, especially in large-scale human data collection to train pattern recognition algorithms. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
+        How can we enable high-density survey data collection? Developed a smartwatch-based experience sampling method that replaces traditional surveys with microinteractions—such as glance-like responses involving a single question and a binary response set—to collect high-frequency, real-world data. Unlike burdensome multi-question surveys, MicroEMA’s quick interactions achieved twice the response rates in longitudinal field experiments while reducing user burden, particularly in large-scale human data collection for training pattern recognition algorithms. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
       </p>
     </div>
   </div>
@@ -129,7 +129,7 @@ author_profile: true
         MixWILD: Interactive mixed-effects modeling
       </p>
       <p markdown="1" style="margin: 0;">
-        What if we could create models without code? Created an open-source tool for mixed-effects modeling of intensive longitudinal data (e.g., real-world experience sampling surveys). It provides a no-code interface, enabling researchers without programming expertise to perform complex multilevel analyses. Now adopted in conferences and workshops, MixWILD makes advanced statistical modeling more accessible. [Try it here](https://reach-lab.github.io/MixWildGUI/)
+        What if we could create statistical models without code? Created an open-source tool for mixed-effects modeling of intensive longitudinal data (e.g., real-world experience sampling surveys). It provides a no-code interface, enabling researchers without programming expertise to perform complex multilevel analyses. Now adopted in conferences and workshops, MixWILD makes advanced statistical modeling more accessible. [Try it here](https://reach-lab.github.io/MixWildGUI/)
       </p>
     </div>
   </div>
