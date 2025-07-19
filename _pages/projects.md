@@ -141,7 +141,7 @@ author_profile: true
         Video games for human data labeling
       </p>
       <p markdown="1" style="margin: 0;">
-        Can video games help train AI? Created video games to crowdsource sensor data labeling for AI activity recognition, addressing tedious manual annotation. Tested how casual players without AI expertise could generate high-quality labels through gameplay. Experiments revealed that puzzle-based games outperformed endless runner-type games in label accuracy and gamer engagement. [VentureBeat converage](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
+        Can video games help train AI? Created video games to crowdsource sensor data labeling for AI activity recognition, addressing tedious manual annotation. Tested how casual players without AI expertise could generate high-quality labels through gameplay. Experiments revealed that puzzle-based games outperformed endless runner-type games in label accuracy and gamer engagement. [VentureBeat converage](https://web.archive.org/web/20221006042815/https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/))
       </p>
     </div>
   </div>
