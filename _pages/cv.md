@@ -100,7 +100,7 @@ Media Coverage
 * Interview with Industry Playlist Newsletter on music recommendation systems- **Industry Playlist**, June 2024. [Link]([https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c))
 * How do people stream newly released music? - **Spotify R & D Blog**, May 2024. [Link](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
 * Exploring Goal-oriented Podcast Recommendations - **Spotify R & D Blog**, Mar 2023. [Link](https://research.atspotify.com/2023/03/exploring-goal-oriented-podcast-recommendations/)
-* How video games could be used to generate AI training data - **VentureBeat**, Feb 2022. [Link](https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
+* How video games could be used to generate AI training data - **VentureBeat**, Feb 2022. [Link](https://web.archive.org/web/20221006042815/https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
 * Smart fitness devices like Fitbits could help change your behaviors with this new approach - **Northeastern Global News**, Mar 2020. [Link](https://news.northeastern.edu/litmus/smart-fitness-devices-like-fitbits-could-help-change-your-behaviors-with-this-new-approach/)
 * Northeastern University professor combines computer science with health and measurement with self-reporting to improve the accuracy of fitness tracking - **Northeastern Global News**, Sept 2019. [Link](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
 
@@ -111,6 +111,6 @@ Mentoring
 
 Skills
 ------
-* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, discrete choice modeling, regression analysis (linear, non-linear, and logistic), power analysis, factor analysis, time series analysis, supervised and unsupervised machine learning, qualitative interviews, focus group sessions, experience sampling, longitudinal experiment design, scientific writing, and communication
+* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, supervised and unsupervised machine learning, discrete choice modeling, time series analysis, experience sampling, experiment design, qualitative interviews, focus groups, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
-* **Software/Tools/APIs:** OpenAI, TensorFlow, Keras, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics
+* **Software/Tools/APIs:** OpenAI API, TensorFlow, Keras, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics, CoPilot
