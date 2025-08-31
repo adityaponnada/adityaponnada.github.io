@@ -26,7 +26,7 @@ Indian Institute of Technology (IIT), Guwahati
 
 Experience
 ------
-**Sr. Quantitative User Researcher**, MongoDB, Jun 2024 - present        
+**Staff Quantitative User Researcher**, MongoDB, Jun 2024 - present        
 Location: Boston, MA
 
 **Research Scientist**, Spotify, Jan 2022 - Mar 2024   
