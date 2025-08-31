@@ -19,11 +19,13 @@ I completed my PhD in Human-Computer Interaction from Northeastern University, B
 For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatches to collect large-scale personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data to develop pattern recognition algorithms.
 
 
-I regularly publish my work in peer-reviewed venues including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research or applied science opportunities.**
+I regularly publish my work in peer-reviewed venues, including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research or applied science opportunities.**
 
 Updates
 ------
   
+**August, 2025** 📝 Excited to join as an Associate Chair for CHI 2026 Computational Interaction subcommittee. Send in your best work!
+
 **July, 2025** 🎉 Paper titled "Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA)" accepted at Proceedings of the ACM IMWUT!
 
 
@@ -45,8 +47,6 @@ Updates
 **May, 2024.** 🎙️ Gave an invited lecture on human-centered recommender systems, focusing on music and podcast recommendations at Northeastern University.
 
 
-**May, 2024.** 🎸 Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
-
 
 
 
@@ -55,6 +55,9 @@ Updates
 <summary>Past updates</summary>
 
 {% capture my_markdown_content %}
+
+
+**May, 2024.** 🎸 Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
 
 
 **April, 2024.** 🎹 I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
