@@ -17,7 +17,7 @@ Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates eq
 
 **Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA).**\
 **Aditya Ponnada**, Shirlene D Wang, Jixin Li, Wei-Lin Wang, Genevieve Dunton, Donald Hedeker, and Stephen S Intille\
-*Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (PACM IMWUT)* - To appear
+*Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (PACM IMWUT)* [link](https://dl.acm.org/doi/10.1145/3749541)
 
 ## 2024
 
