@@ -24,10 +24,10 @@ I regularly publish my work in peer-reviewed venues, including PACM IMWUT (UbiCo
 Updates
 ------
   
-**October, 2025** 🔬 Our longitudinal evaluation of microinteraction ecological momentary assessment paper is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3749541). We are presenting this work at [ACM UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/), in Espoo, Finland.
+**Oct, 2025** 🔬 Our longitudinal evaluation of microinteraction ecological momentary assessment is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3749541). We are presenting this work, along with [personalized experience sampling](https://dl.acm.org/doi/10.1145/3699735) at [ACM UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/), in Espoo, Finland.
 
 
-**August, 2025** 📝 Excited to join as an Associate Chair for CHI 2026 Computational Interaction subcommittee. Send in your best work!
+**Aug, 2025** 📝 Excited to join as an Associate Chair for CHI 2026 Computational Interaction subcommittee. Send in your best work!
 
 **July, 2025** 🎉 Paper titled "Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA)" accepted at Proceedings of the ACM IMWUT!
 
@@ -50,8 +50,6 @@ Updates
 
 
 
-
-
 <details>
 
 <summary>Past updates</summary>
@@ -59,16 +57,18 @@ Updates
 {% capture my_markdown_content %}
 
 
-**May, 2024.** 🎙️ Gave an invited lecture on human-centered recommender systems, focusing on music and podcast recommendations at Northeastern University.
 
 
-**May, 2024.** 🎸 Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
+  **May, 2024.** 🎙️ Gave an invited lecture on human-centered recommender systems, focusing on music and podcast recommendations at Northeastern University.
 
 
-**April, 2024.** 🎹 I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
+  **May, 2024.** 🎸 Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
 
 
-**April, 2024.** 👨‍🎤 Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
+  **April, 2024.** 🎹 I was interviewed by the [Industry PLaylist](https://theindustryplaylist.substack.com/p/things-im-thinking-about-d1c) newsletter, India's leading source of indie music news on music recommendations and new music streaming behavior.
+
+
+  **April, 2024.** 👨‍🎤 Our ACM WebSci'24 paper on the first large-scale analysis of new music streaming behavior patterns is now available on [ACM DL](https://research.atspotify.com/publications/a-genre-based-analysis-of-new-music-streaming-at-scale/).
 
   
  
