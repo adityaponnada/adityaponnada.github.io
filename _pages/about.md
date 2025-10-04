@@ -11,7 +11,7 @@ redirect_from:
 I am an interdisciplinary researcher working at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. I broadly explore problems related to better human data and feedback collection for AI, as well as personalizing user experiences at scale. My research has been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
 
 
-I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences in the age of AI. I was also a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab, and focused on human evaluation of recommender systems and modeling of users' streaming behaviors. 
+I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences in the age of AI. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/), as a member of the Human-in-the-AI (HAI) Lab, and focused on human evaluation of recommender systems and modeling of users' streaming behaviors. 
 
 
 I completed my PhD in Human-Computer Interaction from Northeastern University, Boston, MA, working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I was fortunate to collaborate closely with [Seth Cooper](https://www.khoury.northeastern.edu/home/scooper/), [Genevieve Dunton](https://keck.usc.edu/faculty-search/genevieve-dunton/), [Don Hedeker](https://stat.uchicago.edu/people/profile/donald-hedeker/), [Sam F Way](http://samfway.com/), [Jenn Thom](https://www.jennthom.com/), and Alice Wang. 
@@ -24,6 +24,9 @@ I regularly publish my work in peer-reviewed venues, including PACM IMWUT (UbiCo
 Updates
 ------
   
+**October, 2025** 🔬 Our longitudinal evaluation of microinteraction ecological momentary assessment paper is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3749541). We are presenting this work at [ACM UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/), in Espoo, Finland.
+
+
 **August, 2025** 📝 Excited to join as an Associate Chair for CHI 2026 Computational Interaction subcommittee. Send in your best work!
 
 **July, 2025** 🎉 Paper titled "Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA)" accepted at Proceedings of the ACM IMWUT!
@@ -44,7 +47,6 @@ Updates
 **Jun, 2024.** 🙏 Thanks to everyone who attended my QuantUXCon talk on "Scaling Experience Sampling with Smartwatch Interactions." [Here](https://docs.google.com/presentation/d/1dGA-noJDE7PvFH22RcJ91Yp91XU00haEiQW0yLgDZKo/edit?usp=sharing) are the slides for those interested.
 
 
-**May, 2024.** 🎙️ Gave an invited lecture on human-centered recommender systems, focusing on music and podcast recommendations at Northeastern University.
 
 
 
@@ -55,6 +57,9 @@ Updates
 <summary>Past updates</summary>
 
 {% capture my_markdown_content %}
+
+
+**May, 2024.** 🎙️ Gave an invited lecture on human-centered recommender systems, focusing on music and podcast recommendations at Northeastern University.
 
 
 **May, 2024.** 🎸 Our [Spotify R&D](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/) blog on large-scale patterns in new music streaming behavior is now live.
