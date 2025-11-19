@@ -76,6 +76,12 @@ Service and Leadership
 
 Presentations and Talks
 ------
+[TALK] “Interfaces for human data collection in AI and pattern recognition" at Bentley University. Host - Darrell Penta, PhD
+
+[TALK] “Personalized experience sampling surveys: Maximizing insights per survey question with information gain modeling " at [QuantUXCon 2025](https://www.quantuxcon.org/quant-ux-con/quant-ux-con-2025) (with Jixin Li)
+
+* BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
+
 [TALK] “Scaling experience sampling with smartwatch microinteactions" at:
 
 * BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
@@ -113,4 +119,5 @@ Skills
 ------
 * **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, supervised and unsupervised machine learning, discrete choice modeling, time series analysis, experience sampling, experiment design, qualitative interviews, focus groups, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
-* **Software/Tools/APIs:** OpenAI API, TensorFlow, Keras, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics, CoPilot
+* **Software/Tools/APIs:** OpenAI API, TensorFlow, Keras, Scikit-learn, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics
+* **AI tools:** Cursor, GitHub CoPilot (for programming), ChatGPT, and Gemini (Deep Research), NotebookLM (Synthesis and paper deep dives)
