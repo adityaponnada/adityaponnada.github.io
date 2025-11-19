@@ -19,11 +19,17 @@ I completed my PhD in Human-Computer Interaction from Northeastern University, B
 For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience sampling method using smartwatches to collect large-scale personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data to develop pattern recognition algorithms.
 
 
-I regularly publish my work in peer-reviewed venues, including PACM IMWUT (UbiComp), CSCW, IUI, WebSci, CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research or applied science opportunities.**
+I regularly publish my work in highly competitive venues, including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, ACM WebSci, ACM CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research or applied science opportunities.**
 
 Updates
 ------
   
+**Nov, 2025** 🥇 Presented our personalized experience sampling approach at [QuantUXCOn 2025](https://www.quantuxcon.org/quant-ux-con/quant-ux-con-2025). Jixin Li led the presentation.
+
+
+**Oct, 2025** 🤖 Gave a seminar talk at Bentley University on "Interfaces for human data collection for AI and pattern recognition", summarizing my research in this area over the past 6 years.
+
+
 **Oct, 2025** 🔬 Our longitudinal evaluation of microinteraction ecological momentary assessment is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3749541). We are presenting this work, along with [personalized experience sampling](https://dl.acm.org/doi/10.1145/3699735) at [ACM UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/), in Espoo, Finland.
 
 
