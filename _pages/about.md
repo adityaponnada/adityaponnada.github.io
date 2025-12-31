@@ -24,6 +24,9 @@ I regularly publish my work in highly competitive venues, including PACM IMWUT (
 Updates
 ------
   
+**Dec, 2025** 💡 Our paper titled "Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places" is accepted at the Journal of Location-based Services.
+
+
 **Nov, 2025** 🥇 Presented our personalized experience sampling approach at [QuantUXCOn 2025](https://www.quantuxcon.org/quant-ux-con/quant-ux-con-2025). Jixin Li led the presentation.
 
 
