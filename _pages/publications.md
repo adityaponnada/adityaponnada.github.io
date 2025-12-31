@@ -15,6 +15,11 @@ Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates eq
 
 ## 2025
 
+**Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places**\
+Jixin Li, Binod Thapa-Chhetry, **Aditya Ponnada**, Shirlene Wang, Michaela Hewus, Genevieve Dunton, and Stephen Intille\
+*Journal of Location-based Services* [To appear]
+
+
 **Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA).**\
 **Aditya Ponnada**, Shirlene D Wang, Jixin Li, Wei-Lin Wang, Genevieve Dunton, Donald Hedeker, and Stephen S Intille\
 *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. (PACM IMWUT)* [link](https://dl.acm.org/doi/10.1145/3749541)
