@@ -13,12 +13,14 @@ author_profile: true
 
 Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates equal contributions by the authors.
 
-## 2025
+## 2026
 
 **Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places**\
 Jixin Li, Binod Thapa-Chhetry, **Aditya Ponnada**, Shirlene Wang, Michaela Hewus, Genevieve Dunton, and Stephen Intille\
 *Journal of Location-based Services* [To appear]
 
+
+## 2025
 
 **Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA).**\
 **Aditya Ponnada**, Shirlene D Wang, Jixin Li, Wei-Lin Wang, Genevieve Dunton, Donald Hedeker, and Stephen S Intille\
