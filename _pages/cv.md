@@ -58,7 +58,7 @@ Open-source Contribution
 Awards and Honors
 ------
 * Distinguished Research Paper Award, PACM IMWUT (vol 6.) 2023  
-* Special Recognition for Outstanding Reviews, PACM IMWUT 2017, 2022 and ACM CHI 2024
+* Special Recognition for Outstanding Reviews, PACM IMWUT 2017, 2022, ACM CHI 2024, ACM CHI 2026
 * BostonCHI Lifetime Membership awarded by FutureWei Technologies, 2020.
 * NU-TECH + AWS Award by NEU Center for Entrepreneurship Education, 2018.
 * Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Research Symposium, 2018.
