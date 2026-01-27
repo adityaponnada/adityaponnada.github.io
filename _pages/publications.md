@@ -17,7 +17,7 @@ Peer-reviewed journal and conference publications. { <sup>*</sup> } indicates eq
 
 **Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places**\
 Jixin Li, Binod Thapa-Chhetry, **Aditya Ponnada**, Shirlene Wang, Michaela Hewus, Genevieve Dunton, and Stephen Intille\
-*Journal of Location-based Services* [To appear]
+*Journal of Location-based Services* [link](https://www.tandfonline.com/doi/full/10.1080/17489725.2025.2609927#abstract)
 
 
 ## 2025
