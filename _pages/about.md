@@ -24,7 +24,7 @@ I regularly publish my work in highly competitive venues, including PACM IMWUT (
 Updates
 ------
   
-**Dec, 2025** 💡 Our paper titled "Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places" is accepted at the Journal of Location-based Services.
+**Jan, 2026** 💡 Our paper titled "Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places" is accepted at the [Journal of Location-based Services](https://www.tandfonline.com/doi/full/10.1080/17489725.2025.2609927#abstract).
 
 
 **Nov, 2025** 🥇 Presented our personalized experience sampling approach at [QuantUXCOn 2025](https://www.quantuxcon.org/quant-ux-con/quant-ux-con-2025). Jixin Li led the presentation.
@@ -53,7 +53,6 @@ Updates
 **Oct, 2024.** ⌚ Had a great time giving an invited talk at [BostonCHI](https://www.bostonchi.org/2024/09/scaling-experience-sampling-with-microinteractions/) on "Scaling Experience Sampling with Microinteractions"
 
 
-**Jun, 2024.** 🙏 Thanks to everyone who attended my QuantUXCon talk on "Scaling Experience Sampling with Smartwatch Interactions." [Here](https://docs.google.com/presentation/d/1dGA-noJDE7PvFH22RcJ91Yp91XU00haEiQW0yLgDZKo/edit?usp=sharing) are the slides for those interested.
 
 
 
@@ -65,6 +64,8 @@ Updates
 
 {% capture my_markdown_content %}
 
+
+**Jun, 2024.** 🙏 Thanks to everyone who attended my QuantUXCon talk on "Scaling Experience Sampling with Smartwatch Interactions." [Here](https://docs.google.com/presentation/d/1dGA-noJDE7PvFH22RcJ91Yp91XU00haEiQW0yLgDZKo/edit?usp=sharing) are the slides for those interested.
 
 
 
