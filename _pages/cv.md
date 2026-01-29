@@ -57,8 +57,8 @@ Open-source Contribution
 
 Awards and Honors
 ------
-* Distinguished Research Paper Award, PACM IMWUT (vol 6.) 2023  
-* Special Recognition for Outstanding Reviews, PACM IMWUT 2017, 2022, ACM CHI 2024, ACM CHI 2026
+* Distinguished Research Paper Award, PACM IMWUT (vol 6.), 2023  
+* Special Recognition for Outstanding Reviews, PACM IMWUT 2017, 2022, ACM CHI 2024, and ACM CHI 2026
 * BostonCHI Lifetime Membership awarded by FutureWei Technologies, 2020.
 * NU-TECH + AWS Award by NEU Center for Entrepreneurship Education, 2018.
 * Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Research Symposium, 2018.
@@ -68,11 +68,12 @@ Awards and Honors
 
 Service and Leadership
 ------
-* **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
-* **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI (2018 – 2023) 
+* **Chair**, Doctoral Consortium, ACM IUI 2027 
 * **Juror**, ACM CHI 2025 workshops
 * **Associate Chair**, ACM CHI 2025 - Late Breaking Work, ACM CHI 2026 (Computational Interactions Subcommittee)
 * **Peer-reviewer**, ACM CHI 2017 – 2024, PACM IMWUT/UbiComp 2019 – 2025, ACM TOCHI, PACM HCI/CSCW 2021 - 2023, NeurIPS (AI Ethics Review 2024 - 2025), IEEE Pervasive Computing, Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), BioMed Central (BMC) Research Notes, Scientific Reports, Frontiers in Psychology
+* * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
+* **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI (2018 – 2023)
 
 Presentations and Talks
 ------
