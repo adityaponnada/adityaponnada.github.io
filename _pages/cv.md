@@ -69,10 +69,10 @@ Awards and Honors
 Service and Leadership
 ------
 * **Chair**, Doctoral Consortium, ACM IUI 2027 
-* **Juror**, ACM CHI 2025 workshops
 * **Associate Chair**, ACM CHI 2025 - Late Breaking Work, ACM CHI 2026 (Computational Interactions Subcommittee)
+* **Juror**, ACM CHI 2025 workshops
 * **Peer-reviewer**, ACM CHI 2017 – 2024, PACM IMWUT/UbiComp 2019 – 2025, ACM TOCHI, PACM HCI/CSCW 2021 - 2023, NeurIPS (AI Ethics Review 2024 - 2025), IEEE Pervasive Computing, Journal of Medical Internet Research (JMIR), Journal for Measurement of Physical Behavior (JMPB), IEEE Conference on Engineering in Medicine and Biology Society (EMBS 2019), BioMed Central (BMC) Research Notes, Scientific Reports, Frontiers in Psychology
-* * **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
+* **Vice-chair**, BostonCHI, Boston-area chapter of ACM SIGCHI (2021 – 2023)
 * **Member**, ACM SIGCHI (2021 – present), Steering committee, BostonCHI (2018 – 2023)
 
 Presentations and Talks
