@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Aditya Ponnada"
   avatar           : "new_profile_pic_compressed.jpg"
-  bio              : "Sr. Researcher, MongoDB. ex-Research Scientist, Spotify"
+  bio              : "Staff Researcher, MongoDB. ex-Research Scientist, Spotify"
   location         : "Greater Boston"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Ponnada+A"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Ponnada+A"
   googlescholar    : "https://scholar.google.com/citations?user=qxE3FeUAAAAJ&hl=en"
   email            : "aditya1990.p@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "adityaponnada"
-  orcid            : "https://orcid.org/0000-0003-0072-1089"
+  orcid            : # "https://orcid.org/0000-0003-0072-1089"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AdityaPonnada"
+  twitter          : # "AdityaPonnada"
   vine             :
   weibo            :
   xing             :
