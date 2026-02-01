@@ -9,6 +9,20 @@ author_profile: true
 
 {% include base_path %}
 
+<div style="display: flex; flex-direction: column; gap: 50px;">
+ 
+  <div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/urma_ml_rnn" alt="Image 5" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        Context-aware model for experience sampling [WIP]
+      </p>
+      <p markdown="1" style="margin: 0;">
+        How can we reduce user burden in experience sampling? Experience sampling method is burdensome on end-users. Trained a neural network-based model to predict the most disruptive moments based on users' multimodal context. Model trained in two strategies (fewer users, more data per user (depth) vs. more users, fewer data per user(breadth)). Counterfactual analysis on real-world data showed that breadth-based model training outperforms a random baseline and depth-based model for longitudinal user engagement and lower burden.
+      </p>
+    </div>
+  </div>
+
 
 <div style="display: flex; flex-direction: column; gap: 50px;">
  
