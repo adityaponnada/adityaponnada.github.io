@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher working at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. I broadly explore problems related to better human data and feedback collection for AI, as well as personalizing user experiences at scale. My research has been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
+I am an interdisciplinary researcher working at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. My interests are in understanding how humans and models impact each other to drive new products, insights, and strategy. My research has been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
 
 
 I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences in the age of AI. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/) in the Human-in-the-AI (HAI) Lab, where I focused on human evaluation of recommender systems and modeling users' streaming behavior. 
@@ -16,10 +16,13 @@ I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User R
 
 I completed my PhD in Human-Computer Interaction from Northeastern University, Boston, MA, working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I was fortunate to collaborate closely with [Seth Cooper](https://www.khoury.northeastern.edu/home/scooper/), [Genevieve Dunton](https://keck.usc.edu/faculty-search/genevieve-dunton/), [Don Hedeker](https://stat.uchicago.edu/people/profile/donald-hedeker/), [Sam F Way](http://samfway.com/), [Jenn Thom](https://www.jennthom.com/), and Alice Wang. 
 
-For my [dissertation](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience-sampling method using smartwatches to collect large-scale, personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data to develop pattern recognition algorithms.
+During my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience-sampling method using smartwatches to collect large-scale, personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data to train pattern recognition algorithms.
 
+I regularly publish my work in highly competitive venues, including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, NeurIPS Workshops, Behavior Research Methods, JMIR, and Translational Behavior Medicine. 
 
-I regularly publish my work in highly competitive venues, including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, ACM WebSci, ACM CHI PLAY, NeurIPS Workshops, Behavior Research Methods, Journal of Medical Internet Research, and Translational Behavior Medicine. **I am always excited about new product-oriented research or applied science opportunities.**
+I live in the Greater Boston Area, enjoying the beautiful New England 🍁 with my wife, daughter, and our dog Sushi 🍣
+
+**I am always excited about new product-oriented research or applied science opportunities.**
 
 Updates
 ------
