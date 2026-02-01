@@ -19,7 +19,7 @@ author_profile: true
         Personalized surveys and experience sampling
       </p>
       <p markdown="1" style="margin: 0;">
-        How can we personalize survey question selection in real-time? Large user behavior models need high-quality human data, including surveys. Built ML-based methods to personalize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Conducted two large-scale studies: First, used mixed-effects models to predict non-response biases in experience sampling surveys; Second, used Bayesian Networks and ML to personalize survey question selection (based on information gain or reduction in entropy) in real-time for each user.
+        How can we personalize survey question selection in real-time? Large user behavior models need high-quality human data, including surveys. Built ML-based methods to personalize longitudinal survey data collection, enhancing accuracy while minimizing user burden. Conducted two large-scale studies: First, used mixed-effects models to predict non-response biases in experience sampling surveys; Second, used Bayesian Networks to personalize survey question selection (based on information gain or reduction in entropy) in real-time for each user.
       </p>
     </div>
   </div>
@@ -31,7 +31,7 @@ author_profile: true
         Modeling developer preferences
       </p>
       <p markdown="1" style="margin: 0;">
-        What do developers care about the most? Built discrete choice models to understand developer preferences for [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) via large-scale MaxDiff surveys. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the prioritization of A/B experiments for personalized developer experiences, resulting in a ~XX% improvement in KPIs.
+        What do developers care about the most? Built discrete choice models to understand developer preferences for [MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database) via large-scale MaxDiff surveys. These surveys captured trade-offs between cost and performance features, revealing distinct preferences between novice and experienced developers. Insights guided the launch of A/B experiments for personalized developer experiences, resulting in a ~XX% improvement in KPIs.
       </p>
     </div>
   </div>
@@ -43,7 +43,7 @@ author_profile: true
         UX metrics for developer experiences
       </p>
       <p markdown="1" style="margin: 0;">
-        How do we measure the success of design changes? Created original metrics to assess MongoDB Atlas experience at scale, including developer sentiment, engagement, and task success. These metrics evaluated design changes across [observability](https://www.mongodb.com/products/capabilities/observability), [identity & access management](https://www.mongodb.com/resources/products/capabilities/mongodb-atlas-security), and billing interfaces, establishing a scalable data-driven framework for cross-functional teams.
+        How do we measure the success of design changes? Created original UX metrics to assess MongoDB Atlas experience at scale, including developer sentiment, engagement, and task success. These metrics evaluated design changes across [observability](https://www.mongodb.com/products/capabilities/observability), [identity & access management](https://www.mongodb.com/resources/products/capabilities/mongodb-atlas-security), and billing interfaces, establishing a scalable data-driven framework for cross-functional teams.
       </p>
     </div>
   </div>
@@ -67,7 +67,7 @@ author_profile: true
         Trending topics for podcast growth
       </p>
       <p markdown="1" style="margin: 0;">
-        How can smaller podcasters grow their audience? Developed a novel algorithm identifying trending topics via user behavior logs from Spotify searches and Wikipedia page views to amplify long-tail [podcasts](https://podcastcharts.byspotify.com/us). Demonstrated LLM text-embeddings' superiority over zero-shot prompting in terms of speed, accuracy, and cost when finding the most relevant podcast episodes for trending topics. Observational analysis confirmed that trending topics drove podcaster growth and user engagement.
+        How can smaller podcasters grow their audience? First, developed a novel algorithm identifying trending topics via user behavior logs from Spotify searches and Wikipedia page views to amplify long-tail [podcasts](https://podcastcharts.byspotify.com/us). Second, built an AI-enabled method to map trending topics to long-tail podcasts. Demonstrated LLM text-embeddings' superiority over zero-shot prompting in terms of speed, accuracy, and cost to topic-relevant podcast episodes. Observational analysis confirmed that trending topics drove podcaster growth and user engagement.
       </p>
     </div>
   </div>
