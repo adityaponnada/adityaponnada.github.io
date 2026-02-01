@@ -12,7 +12,7 @@ author_profile: true
 <div style="display: flex; flex-direction: column; gap: 50px;">
  
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/uema_ml_rnn" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/uema_ml_rnn.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         Context-aware model for experience sampling [WIP]
