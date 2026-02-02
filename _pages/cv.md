@@ -13,10 +13,10 @@ You can download the PDF versions [here](https://drive.google.com/file/d/1o5UGvm
 
 Education
 ------
-**Ph.D. (Computer and Behavior Sciences)** , 2021  
+**Ph.D. (Human Computer Interaction)** , 2021  
 Khoury College of Computer Sciences and Bouve College of Health Sciences
 Northeastern University  
-Thesis: "Measuring subjective experiences using wearable microinteractions"   
+Thesis: "Measuring subjective experiences using wearable microinteractions."   
 Advisor: Prof. Stephen S Intille   
 
 
