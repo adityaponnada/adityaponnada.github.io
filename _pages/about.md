@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher working at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. My interests are in understanding how humans and models impact each other to drive new products, insights, and strategy. My research has been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
+I am an interdisciplinary researcher working at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. My interests lie in understanding how humans and models learn from each other to drive new products and insights. My research has been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
 
 
-I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences in the age of AI. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/) in the Human-in-the-AI (HAI) Lab, where I focused on human evaluation of recommender systems and modeling users' streaming behavior. 
+I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences in the age of AI. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/) in the Human-in-the-AI (HAI) Lab, where I focused on human evaluation of recommender systems and modeling users' interactions with the platform. 
 
 
-I completed my PhD in Human-Computer Interaction from Northeastern University, Boston, MA, working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I was fortunate to collaborate closely with [Seth Cooper](https://www.khoury.northeastern.edu/home/scooper/), [Genevieve Dunton](https://keck.usc.edu/faculty-search/genevieve-dunton/), [Don Hedeker](https://stat.uchicago.edu/people/profile/donald-hedeker/), [Sam F Way](http://samfway.com/), [Jenn Thom](https://www.jennthom.com/), and Alice Wang. 
-
-During my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283), I introduced a novel experience-sampling method using smartwatches to collect large-scale, personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal user behavior data to train pattern recognition algorithms.
+I completed my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283) in Human-Computer Interaction from Northeastern University, Boston, MA, working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I introduced a novel experience-sampling method using smartwatches (and multimodal sensor signals) to collect large-scale, personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal behavioral data (including self-report and multimodal sensors) to train pattern recognition algorithms.
 
 I regularly publish my work in highly competitive venues, including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, NeurIPS Workshops, Behavior Research Methods, JMIR, and Translational Behavior Medicine. 
 
