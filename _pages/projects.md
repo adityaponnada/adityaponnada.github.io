@@ -58,7 +58,7 @@ author_profile: true
         AI-enabled podcast content understanding
       </p>
       <p markdown="1" style="margin: 0;">
-        How can smaller podcasters grow their audience? Developed an LLM-enabled approach to help long-tail podcasters benefit from emerging trends. First, created an algorithm to detect trending topics using Spotify search queries and Wikipedia page views. Second, built an AI-based system that matches these trends to relevant long-tail podcasts. Showed that LLM text embeddings outperform zero-shot prompting in speed and accuracy when matching topics to podcast episodes. Observational analysis confirmed that surfacing trending topics increased podcaster growth and user engagement.
+        How can smaller podcasters grow their audience? Developed an LLM-enabled approach to help long-tail podcasters benefit from emerging trends. First, created an algorithm to detect trending topics using Spotify search queries and Wikipedia page views. Second, evaluated top-K search results from trending queries for long-tail content share. Third, built an AI-based system that matches these trends to relevant long-tail podcasts. Showed that LLM text embeddings outperform zero-shot prompting in speed and accuracy when matching topics to podcast episodes. Observational analysis confirmed that surfacing trending topics increased podcaster growth and user engagement.
       </p>
     </div>
   </div>
