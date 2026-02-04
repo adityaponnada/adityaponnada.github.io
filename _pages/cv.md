@@ -30,24 +30,24 @@ Experience
 Location: Boston, MA
 
 **Research Scientist**, Spotify, Jan 2022 - Mar 2024   
-Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/) Lab led by [Sam F Way](http://samfway.com/)      
+Group: Human-in-the-AI (HAI) at [Spotify Research](https://research.atspotify.com/)      
 Location: Boston, MA   
 
 **Researcher**, Northeastern University, Sep 2015 - Dec 2021   
-Group: [mHealth Research Group](https://www.mhealthgroup.org/) led by [Prof. Stephen Intille](https://www.khoury.northeastern.edu/home/intille/)    
+Group: [mHealth Research Group](https://www.mhealthgroup.org/)    
 Dept: Khoury College of Computer Science and Bouve College of Health Sciences        
 Location: Boston, MA    
  
 **Research Intern**, Philips, May 2019 - Aug 2019   
-Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html) led by Payaal Patel       
+Group: [Philips Design and Innovation](https://www.philips.com/a-w/about/innovation/experience-design.html)       
 Location: Cambridge, MA    
  
 **UX Researcher**, Samsung R&D Institute, Jul 2013 - Jul 2015    
-Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group led by Dr. Sarita Seshagiri     
+Group: [Next eXperiences with Technology (NXT)](https://research.samsung.com/sri-b) Group     
 Location: Bengaluru, India   
 
 **Visiting Researcher**, TU Eindhoven (TU/e), May 2012 - Jul 2012    
-Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction) Group led by [Prof. Jaap Ham](https://www.tue.nl/en/research/researchers/jaap-ham)       
+Group: [Human-Technology Interaction (HTI)](https://www.tue.nl/en/research/research-groups/innovation-sciences/human-technology-interaction)    
 Location: Eindhoven, The Netherlands     
   
 Open-source Contribution
@@ -57,12 +57,12 @@ Open-source Contribution
 
 Awards and Honors
 ------
-* Distinguished Research Paper Award, PACM IMWUT (vol 6.), 2023  
+* Distinguished Research Paper Award, PACM IMWUT (vol 6), 2023  
 * Special Recognition for Outstanding Reviews, PACM IMWUT 2017, 2022, ACM CHI 2024, and ACM CHI 2026
 * BostonCHI Lifetime Membership awarded by FutureWei Technologies, 2020.
 * NU-TECH + AWS Award by NEU Center for Entrepreneurship Education, 2018.
 * Best Presentation Award at Human Factors and Ergonomics Society (HFES), New England Chapter’s Research Symposium, 2018.
-* Amandus H. Lundqvist Scholarship (ALSP-silver) for masters studies in TU Eindhoven, The Netherlands, 2015.
+* Amandus H. Lundqvist Scholarship (ALSP-silver) for master's studies in TU Eindhoven, The Netherlands, 2015.
 * Young Achiever of the Year, Samsung Annual Awards, 2013-14
 * Best Research Paper Award, PERSUASIVE 2013
 
@@ -96,11 +96,7 @@ Presentations and Talks
 * PROVE Center, Brigham and Women’s Health, Harvard Medical – 2019. Host - Prof. Chris Sidey-Gibbons    
 * MITRE Corporation – 2018. Host – Harry Sleeper   
 * Human Factors and Ergonomic Society (HFES), New England Chapter, Draper Labs – 2018   
-* Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018   
-  
-[TALK] “The very basics of user research” at Indian School of Business — 2021. Host – Harmanpreet Singh
-
-[TALK] “Health behavior research – A design problem” at GoInvo — 2019. Host – Juhan Sonin
+* Data Science in Biomedical Research, Dana Farber Cancer Research Inst. – 2018
 
 Media Coverage
 ------
@@ -121,4 +117,4 @@ Skills
 * **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, supervised and unsupervised machine learning, discrete choice modeling, time series analysis, experience sampling, experiment design, qualitative interviews, focus groups, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
 * **Software/Tools/APIs:** OpenAI API, TensorFlow, Keras, Scikit-learn, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics
-* **AI tools:** Cursor, GitHub CoPilot (for programming), ChatGPT, and Gemini (Deep Research), NotebookLM (Synthesis and paper deep dives)
+* **AI tools:** Cursor, GitHub CoPilot (for programming), ChatGPT, and Gemini (Deep Research), NotebookLM (Synthesis and literature deep dives)
