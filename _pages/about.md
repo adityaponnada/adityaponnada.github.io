@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher working at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. My interests lie in understanding how humans and models learn from each other to drive new products and insights. My research has been applied across diverse fields, including recommendation systems, wearable health, crowdsourcing, and developer tools.
+I am an interdisciplinary researcher at the intersection of Human-Computer Interaction (HCI), Behavior Science, and AI/ML. My interests lie in understanding how humans and models learn from each other to drive new products and insights. In particular, my research has focused on advancing human data collection methods for user modeling, personalization, and pattern recognition, applied across diverse domains such as recommendation systems, wearable health, and crowdsourcing.
 
 
-I work at [MongoDB](https://www.mongodb.com/) as their first Quantitative User Researcher, personalizing developer experiences in the age of AI. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/) in the Human-in-the-AI (HAI) Lab, where I focused on human evaluation of recommender systems and modeling users' interactions with the platform. 
+I am currently a Staff Researcher at [MongoDB](https://www.mongodb.com/) focused on personalizing developer experiences in the age of AI. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/) in the Human-in-the-AI (HAI) Lab, where I focused on human evaluation of recommender systems and modeling users' interactions with the platform. 
 
 
-I completed my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283) in Human-Computer Interaction from Northeastern University, Boston, MA, working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I introduced a novel experience-sampling method using smartwatches (and multimodal sensor signals) to collect large-scale, personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal behavioral data (including self-report and multimodal sensors) to train pattern recognition algorithms.
+I completed my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283) in Human-Computer Interaction from Northeastern University (Boston, MA), working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I introduced a novel experience-sampling method using smartwatches (and multimodal sensor signals) to collect large-scale, personalized self-report data in real-world settings. In addition, I built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal behavioral data (e.g., self-report and multimodal sensors) to train pattern recognition algorithms.
 
 I regularly publish my work in highly competitive venues, including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, NeurIPS Workshops, Behavior Research Methods, JMIR, and Translational Behavior Medicine. 
 
