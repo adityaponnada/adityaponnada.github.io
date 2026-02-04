@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can download the PDF versions [here](https://drive.google.com/file/d/1o5UGvmepJyJsx_pwhq5cguQigfs0KoUB/view?usp=drive_link)
+You can download the PDF versions [here](https://drive.google.com/file/d/1oI4d1q8p2wp_JaFIxhladP7A5olHyEQ-/view?usp=drive_link)
 
 Education
 ------
