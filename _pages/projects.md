@@ -121,7 +121,7 @@ author_profile: true
         MixWILD: Interactive mixed-effects modeling
       </p>
       <p markdown="1" style="margin: 0;">
-        What if we could build statistical models without coding? MixWILD is an open-source, no-code tool for mixed-effects modeling of intensive longitudinal data, such as real-world experience sampling surveys. It lets researchers analyze complex, multilevel behavioral data without programming, making it easier to uncover patterns in human behavior. MixWILD is now used in conferences and workshops, helping bring advanced statistical modeling to a wider audience of behavioral and data scientists. [Try it here](https://reach-lab.github.io/MixWildGUI/)
+        What if we could build statistical models without coding? MixWILD is an open-source modeling tool for intensive longitudinal data that estimates individual differences in both mean levels and variability of time-varying processes (like change in stress levels), including random slopes. It uses mixed-effects location-scale models and second-stage analyses to examine how within-person variability and change relate to predictors and outcomes. [Try it here](https://reach-lab.github.io/MixWildGUI/)
       </p>
     </div>
   </div>
