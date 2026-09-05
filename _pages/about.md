@@ -23,7 +23,16 @@ I live in the Greater Boston Area, enjoying the beautiful New England 🍁 with 
 Updates
 ------
   
-**Jan, 2026** 💡 Our paper titled "Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places" is accepted at the [Journal of Location-based Services](https://www.tandfonline.com/doi/full/10.1080/17489725.2025.2609927#abstract).
+**Sep 2026** 🎓 Chairing ACM IUI doctoral consortium. Our call for proposals is now [live](https://iui.acm.org/2027/call-for-doctoral-consortium/). Deadline is Oct 19, 2026. Send in your best work in progress and get feedback from experts!
+
+
+**Aug 2026** ⌚ Presented microEMA research at a panel focused on reducing response burden in longitudinal data collection, as part of the Society for Ambulatory Assessment ([SAA](https://ambulatory-assessment.org/) 2026 conference in Vienna, Austria
+
+
+**April 2026** 📌 Gave a seminar talk at Georgia Tech on "Modeling User Preferences using Explicit and Implicit Signals," hosted by [Prof. Andrea Parker](https://faculty.cc.gatech.edu/~andrea/)
+
+
+**Jan, 2026** 💡 Our paper titled "Semantically Enriching Personal Mobility Data using OpenStreetMap: A Case Study using Smartphone Users’ Frequently Visited Places" has been accepted by the [Journal of Location-based Services](https://www.tandfonline.com/doi/full/10.1080/17489725.2025.2609927#abstract).
 
 
 **Nov, 2025** 🥇 Presented our personalized experience sampling approach at [QuantUXCOn 2025](https://www.quantuxcon.org/quant-ux-con/quant-ux-con-2025). Jixin Li led the presentation.
@@ -43,15 +52,6 @@ Updates
 **April, 2025** 🤗 TIME study data [codebook](https://timestudydocumentation.github.io/docs/build/html/index.html) is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
 
 
-**Jan, 2025** 🔎 Excited to be the Associate Chair of CHI 2025, [Late Breaking Work (LBW)](https://chi2025.acm.org/for-authors/late-breaking-work/) track. Send in your most exciting work!
-
-
-**Nov, 2024.** 🚀 Our PACM IMWUT paper on personalized adaptive experience sampling is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3699735).
-
-
-**Oct, 2024.** ⌚ Had a great time giving an invited talk at [BostonCHI](https://www.bostonchi.org/2024/09/scaling-experience-sampling-with-microinteractions/) on "Scaling Experience Sampling with Microinteractions"
-
-
 
 
 
@@ -62,6 +62,15 @@ Updates
 <summary>Past updates</summary>
 
 {% capture my_markdown_content %}
+
+
+**Jan, 2025** 🔎 Excited to be the Associate Chair of CHI 2025, [Late Breaking Work (LBW)](https://chi2025.acm.org/for-authors/late-breaking-work/) track. Send in your most exciting work!
+
+
+**Nov, 2024.** 🚀 Our PACM IMWUT paper on personalized adaptive experience sampling is now available on [ACM DL](https://dl.acm.org/doi/10.1145/3699735).
+
+
+**Oct, 2024.** ⌚ Had a great time giving an invited talk at [BostonCHI](https://www.bostonchi.org/2024/09/scaling-experience-sampling-with-microinteractions/) on "Scaling Experience Sampling with Microinteractions"
 
 
 **Jun, 2024.** 🙏 Thanks to everyone who attended my QuantUXCon talk on "Scaling Experience Sampling with Smartwatch Interactions." [Here](https://docs.google.com/presentation/d/1dGA-noJDE7PvFH22RcJ91Yp91XU00haEiQW0yLgDZKo/edit?usp=sharing) are the slides for those interested.
