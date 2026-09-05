@@ -77,13 +77,17 @@ Service and Leadership
 
 Presentations and Talks
 ------
+[PANEL] “Reducing participant burden in longitudinal data collection" at SAA 2026, Vienna, Austria
+
+[TALK] “Modeling user preferences using explicit and implicit signals" at Georgia Tech. Host - Andrea Parker, PhD
+
 [TALK] “Interfaces for human data collection in AI and pattern recognition" at Bentley University. Host - Darrell Penta, PhD
 
 [TALK] “Personalized experience sampling surveys: Maximizing insights per survey question with information gain modeling " at [QuantUXCon 2025](https://www.quantuxcon.org/quant-ux-con/quant-ux-con-2025) (with Jixin Li)
 
 * BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
 
-[TALK] “Scaling experience sampling with smartwatch microinteactions" at:
+[TALK] “Scaling experience sampling with smartwatch microinteractions" at:
 
 * BostonCHI (ACM SIGCHI Chapter of Greater Boston Area) - 2024
 * QuantUXCon (International Conf. on Quantitative User Experience) - 2024
@@ -114,7 +118,7 @@ Mentoring
 
 Skills
 ------
-* **Research and Data Analysis:** Univariate & multivariate statistics, multi-level modeling, supervised and unsupervised machine learning, discrete choice modeling, time series analysis, experience sampling, experiment design, qualitative interviews, focus groups, scientific writing, and communication
+* **Research and Data Analysis:** Univariate & multivariate statistics, multilevel modeling, causal inference, survival analysis, supervised and unsupervised machine learning, discrete choice modeling, MaxDiff / best-worst scaling, A/B testing, LLM evaluation and AI benchmark design, inter-rater reliability, behavioral instrumentation, time series analysis, experience sampling, experiment design, qualitative interviews, focus groups, scientific writing, and communication
 * **Programming:** Python, R, Java, C#, SQL, BigQuery, SAS, HTML, CSS, TypeScript, Processing, MongoDB
-* **Software/Tools/APIs:** OpenAI API, TensorFlow, Keras, Scikit-learn, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics
-* **AI tools:** Cursor, GitHub CoPilot (for programming), ChatGPT, and Gemini (Deep Research), NotebookLM (Synthesis and literature deep dives)
+* **Software/Tools/APIs:** OpenAI API, Anthropic API, TensorFlow, Keras, Scikit-learn, Android Studio, RStudio, PyCharm, Visual Studio Code, Unity, NetBeans, SPSS, P5.js, Qualtrics
+* **AI tools:** Claude Code, Cursor, GitHub CoPilot (for programming), ChatGPT, and Gemini (Deep Research), NotebookLM (Synthesis and literature deep dives)
