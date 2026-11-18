@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher at the intersection of Human-Computer Interaction (HCI), Behavior Science, and Applied AI. My research uses human behavioral data to address two distinct problems: measuring how users experience AI-powered products, and evaluating AI model behavior against human judgment. I develop methods and frameworks for behavioral measurement, human data collection, and AI evaluation — applied across recommendation systems, developer tools, agentic AI experiences, and wearable health.
+I am an interdisciplinary researcher at the intersection of Human-Computer Interaction (HCI), Behavior Science, and Applied AI. I use human behavioral data to address two distinct problems: measuring how users experience AI-powered products, and evaluating AI model behavior against human judgment. I develop methods and frameworks for behavioral measurement, human data collection, and AI evaluation — applied across recommendation systems, developer tools, agentic AI experiences, and wearable health.
 
-I am currently a Staff Researcher at [MongoDB](https://www.mongodb.com/), leading quantitative UX research and behavioral AI evaluation for developer-facing AI products — including benchmark design to assess how large language models handle real-world developer tasks. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/) in the Human-in-the-AI (HAI) Lab, where I focused on human evaluation of recommender systems and modeling users' interactions with the platform.
+I am a Staff Researcher at [MongoDB](https://www.mongodb.com/), where I lead behavioral AI evaluation and quantitative UX research for developer-focused AI tools. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/)'s Human-in-the-AI Lab, where I studied large-scale user behavior across music and podcast consumption and developed evaluation frameworks for recommendation systems and AI-generated content.
 
-I completed my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283) in Human-Computer Interaction from Northeastern University (Boston, MA), working with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/). I introduced a novel experience-sampling method using smartwatches (and multimodal sensor signals) to collect large-scale, personalized self-report data in real-world settings. I also built open-source tools for [multi-level modeling](https://reach-lab.github.io/MixWildGUI/) and [AI-assisted annotation](https://signaligner.org/) of longitudinal behavioral data—adopted in NIH-funded workshops and downloaded over 2,000 times—to support behavioral modeling and train pattern recognition algorithms.
+I did my [PhD](https://dl.acm.org/doi/book/10.5555/AAI28962283) in Human-Computer Interaction from Northeastern University, where I worked with [Stephen Intille](https://www.khoury.northeastern.edu/home/intille/) and introduced a novel experience sampling method using smartwatches and multimodal sensors for collecting personalized behavioral data in real-world contexts. I also built open-source tools for [longitudinal data analysis](https://reach-lab.github.io/MixWildGUI/) and [sensor data annotation](https://signaligner.org/) for AI training that researchers continue to use today.
 
-I regularly publish my work in highly competitive venues, including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, NeurIPS Workshops, Behavior Research Methods, JMIR, and Translational Behavior Medicine.
+I have published in venues including PACM IMWUT (UbiComp), PACM CSCW, ACM IUI, NeurIPS Workshop, JMIR mHealth, Behavior Research Methods, and other behavioral science journals.
 
-I live in the Greater Boston Area, enjoying the beautiful New England 🍁 with my wife, daughter, and our dog Sushi 🍣
-
-**I am always excited about new product-oriented research or applied science opportunities.**
+I live in the Greater Boston area with my wife, daughter, and dog. I am always excited about human-centered AI research and new opportunities at the intersection of human behavior and applied AI.
 
 Updates
 ------
   
+**Oct, 2026** 🎤 Presented a talk at QuantUXCon 2026 focused on "Intelligent survey timing: Using machine learning to optimize user burden in experience sampling"
+
+
 **Sep 2026** 🎓 Chairing ACM IUI doctoral consortium. Our call for proposals is now [live](https://iui.acm.org/2027/call-for-doctoral-consortium/). Deadline is Oct 19, 2026. Send in your best work in progress and get feedback from experts!
 
 
@@ -49,10 +50,6 @@ Updates
 **July, 2025** 🎉 Paper titled "Longitudinal User Engagement with Microinteraction Ecological Momentary Assessment (μEMA)" accepted at Proceedings of the ACM IMWUT!
 
 
-**April, 2025** 🤗 TIME study data [codebook](https://timestudydocumentation.github.io/docs/build/html/index.html) is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
-
-
-
 
 
 
@@ -62,6 +59,9 @@ Updates
 <summary>Past updates</summary>
 
 {% capture my_markdown_content %}
+
+
+**April, 2025** 🤗 TIME study data [codebook](https://timestudydocumentation.github.io/docs/build/html/index.html) is now public! This is one of the most intense multimodal behavior datasets. We can't wait to see what you build with it.
 
 
 **Jan, 2025** 🔎 Excited to be the Associate Chair of CHI 2025, [Late Breaking Work (LBW)](https://chi2025.acm.org/for-authors/late-breaking-work/) track. Send in your most exciting work!
