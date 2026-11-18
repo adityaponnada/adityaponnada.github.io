@@ -10,15 +10,51 @@ author_profile: true
 {% include base_path %}
 
 <div style="display: flex; flex-direction: column; gap: 50px;">
- 
+
+  <div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/mtrace_pipeline.png" alt="M-TRACE pipeline" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        M-TRACE: Human-grounded benchmark for evaluating frontier coding agent behavior
+      </p>
+      <p markdown="1" style="margin: 0;">
+        Built and validated M-TRACE (MongoDB Tasks for Real-world Agentic Capability Evaluation), a benchmark grounded in real developer problems to evaluate whether frontier coding agents make infrastructure decisions the way developers would. Validated prompt quality using LLM judges calibrated against domain expert ground truth — expert-grounded judges outperformed vanilla judges on failure detection across three criteria (realism, commonality, and neutrality), reaching >90% agreement; agentic experiments established the org's first real-world baseline for how agents consider and select technology on developers' behalf.
+      </p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/rank_iter2.png" alt="Project 2" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        LLM infrastructure bias: How frontier coding agents discover and select databases
+      </p>
+      <p markdown="1" style="margin: 0;">
+        Designed and executed a study with 8,000+ LLM simulations to test whether frontier coding models recommend databases the way real developers do — as LLMs increasingly mediate developer decisions, systematic bias in their recommendations has direct consequences for what gets built. Found that model architecture and assigned persona drive awareness, preference ranking, and selection outcomes across identical prompts. Research established the org-wide standard practice for human evaluation of coding agents at MongoDB and directly informed developer advocacy and model partnership strategy.
+      </p>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 5px;">
+    <img src="/images/project3.png" alt="Project 3" style="width: 40%; height: auto;">
+    <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
+      <p markdown="1" style="margin: 0; font-weight: bold;">
+        LLM-as-respondent: Can AI simulate developer preferences?
+      </p>
+      <p markdown="1" style="margin: 0;">
+        Ran the first empirical test of whether LLMs can substitute for real users in preference research — teams increasingly use synthetic respondents to inform AI product decisions, making validity of LLM-generated feedback a consequential open question. Compared AI-generated MaxDiff (best-worst scaling) survey responses (4 persona conditions × 3 temperature settings × 3 model versions) against real user data via KL divergence and Spearman correlation. Found weak to moderate rank correlation between LLM and real user responses, with AI systematically skewing toward cost over performance optimization across all models, persona conditions, and temperature settings; presented to senior leadership and directly influenced the org's AI evaluation governance.
+      </p>
+    </div>
+  </div>
+
   <div style="display: flex; align-items: flex-start; gap: 5px;">
     <img src="/images/uema_ml_rnn.png" alt="Image 5" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
-        Context-aware model for experience sampling [WIP]
+        Context-aware model for experience sampling
       </p>
       <p markdown="1" style="margin: 0;">
-        How can we reduce user burden in real-time experience sampling? Experience sampling becomes burdensome when users are prompted too frequently. Trained a neural network to predict moments when interruptions would be least disruptive, using users’ multimodal context, such as inertial sensor data. Compared two training strategies: depth (more data from fewer users) and breadth (less data from more users). Counterfactual analysis on real-world data showed that the breadth-based model outperformed both a random baseline and the depth-based model by over 40%, leading to higher long-term user engagement and lower user burden.
+        Developed neural network models predicting optimal survey timing in longitudinal experience sampling studies using multimodal wearable sensor data — addressing the fundamental tension between data quality and participant burden in real-world behavioral research. Training on multimodal user context outperforms random interruption by >40% in F1; for cold-start personalization, population breadth works better for engaged users while longitudinal depth works better for disengaged users. Counterfactual survival analysis shows the model would have improved long-term study retention; under review at ACM IMWUT.
       </p>
     </div>
   </div>
@@ -33,7 +69,7 @@ author_profile: true
         Personalized experience sampling surveys
       </p>
       <p markdown="1" style="margin: 0;">
-        How can we personalize survey question selection in real time? User behavior models rely on high-quality survey data, but frequent surveys increase user burden. Developed machine learning methods to personalize longitudinal survey collection, improving data quality while reducing burden. Conducted two large-scale studies: 1) used mixed-effects models to predict non-response bias in experience sampling surveys; 2) used Bayesian Networks to personalize survey question selection in real time, prioritizing questions with the highest expected information gain (i.e., greatest reduction in uncertainty).
+        Developed ML approaches for real-time survey question personalization in longitudinal studies — predicting non-response bias with mixed-effects models and maximizing information gain per question using Bayesian Networks. Motivated by redundant questions that burden participants without improving data quality in long-running studies; demonstrated >34% reduction in mean survey length and >15% reduction in imputation errors for missing data across multiple longitudinal studies without compromising data quality.
       </p>
     </div>
   </div>
@@ -46,7 +82,7 @@ author_profile: true
         User modeling of new music listening
       </p>
       <p markdown="1" style="margin: 0;">
-        How do users discover and stream new music? Built machine learning models to predict how users interact with new music recommendations, including genre success forecasting, taste classification, and user segmentation. Findings showed that genre popularity strongly influences repeat listens, users have different tastes for new versus older music, many follow a stable “new music” listening pattern, and some user segments are more receptive to new recommendations. These insights informed A/B tests on Spotify Home, leading to about a 14% increase in new music discovery. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
+        Built large-scale predictive models of new music listening behavior using 2M+ user-release interaction logs — finding that new music engagement is exploratory rather than confirmatory, but users have consistent individual listening diets ranging from highly exploratory to more confirmatory. Insights directly informed Spotify Home A/B tests, achieving a 14% increase in engagement with new music recommendations. [Read more](https://research.atspotify.com/2024/05/how-do-people-stream-newly-released-music/)
       </p>
     </div>
   </div>
@@ -58,7 +94,7 @@ author_profile: true
         AI-enabled podcast content understanding
       </p>
       <p markdown="1" style="margin: 0;">
-        How can smaller podcasters grow their audience? Developed an LLM-enabled approach to help long-tail podcasters benefit from emerging trends. First, created an algorithm to detect trending topics using Spotify search queries and Wikipedia page views. Second, evaluated top-K search results from trending queries for long-tail content share. Third, built an AI-based system that matches these trends to relevant long-tail podcasts. Showed that LLM text embeddings outperform zero-shot prompting in speed and accuracy when matching topics to podcast episodes. Observational analysis confirmed that surfacing trending topics increased podcaster growth and user engagement.
+        Built a trending topic detection system mining human behavioral signals — Spotify search queries and Wikipedia page views — to surface culturally relevant long-tail podcasts that standard recommendation algorithms miss. For topic-to-podcast matching, LLM embedding-based cosine similarity outperformed zero-shot prompting; causal analysis showed trending topic alignment increases long-tail podcast user engagement by ~10%; adopted by three product teams focused on music and podcast discovery on Spotify Home.
       </p>
     </div>
   </div>
@@ -84,7 +120,7 @@ author_profile: true
         Measuring search user frustration
       </p>
       <p markdown="1" style="margin: 0;">
-        Can we predict user frustration with search? Developed a novel UX metric for Spotify search frustration by collecting large-scale session-level labels via event-triggered surveys. Built an ML model predicting frustration using search interactions, revealing two key insights: frustration is session-dependent rather than user-history-based, and query edit distance is the strongest predictor. These findings enabled real-time frustration measurement in online experiments to improve the search experience.
+        Developed an ML model predicting search frustration from user behavioral signals — finding query edit distance as the strongest predictor — using event-triggered intercept surveys deployed at the moment of likely frustration as human-labeled ground truth. Revealed that standard search success metrics masked significantly worse experiences for international users; deployed in Spotify production A/B tests where the metric provided causal explanation for why 2-step search outperformed instant search.
       </p>
     </div>
   </div>
@@ -97,7 +133,7 @@ author_profile: true
         MicroEMA: Experience sampling via smartwatch microinteractions
       </p>
       <p markdown="1" style="margin: 0;">
-        How can we collect high-density training data without overburdening users? Designed a smartwatch-based experience sampling technique that presents surveys as lightweight, glanceable microinteractions—single-question with binary responses. This interaction design minimizes interruption and cognitive load. It aslso enables reliable, high-frequency labeling in naturalistic settings. In longitudinal field studies, this approach doubled response rates compared to traditional multi-question surveys while reducing user burden, making it effective for large-scale human data collection to train and evaluate pattern recognition models. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
+        Invented a smartwatch-based experience sampling method redesigning longitudinal surveys as binary microinteractions to optimize high-frequency self-report collection — addressing the burden and attrition that limit traditional EMA in real-world behavioral research. Achieved 2x response rates versus standard smartphone surveys while significantly lowering participant burden across year-long longitudinal studies; adopted in multiple NIH-funded studies and industry. [Read more](https://news.northeastern.edu/2019/09/05/northeastern-university-professor-combines-computer-science-with-health-and-measurement-with-self-reporting-to-improve-accuracy-of-fitness-tracking/)
       </p>
     </div>
   </div>
@@ -115,7 +151,7 @@ author_profile: true
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 5px;">
-    <img src="/images/mixwild.png" alt="Image 5" style="width: 40%; height: auto;">
+    <img src="/images/mixwild_img.png" alt="MixWILD" style="width: 40%; height: auto;">
     <div style="width: 60%; display: flex; flex-direction: column; gap: 5px;">
       <p markdown="1" style="margin: 0; font-weight: bold;">
         MixWILD: Interactive mixed-effects modeling
@@ -133,7 +169,7 @@ author_profile: true
         Video games for human data labeling
       </p>
       <p markdown="1" style="margin: 0;">
-        Can video games help train AI? Designed video games to crowdsource labeling of sensor data for activity-recognition models, turning tedious manual annotation into engaging gameplay. Experiments showed that casual players without AI expertise could produce high-quality labels, and that puzzle-based games led to higher label accuracy and engagement than endless runner-style games. [VentureBeat converage](https://web.archive.org/web/20221006042815/https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/))
+        Designed two video games for crowdsourced labeling of wearable sensor data — routing the expert annotation bottleneck in ML training data pipelines through human play behavior at scale. Found that puzzle-based game designs outperform endless runner designs for label accuracy; directly led to the development of Signaligner Pro. [VentureBeat coverage](https://web.archive.org/web/20221006042815/https://venturebeat.com/ai/how-video-games-could-be-used-to-generate-ai-training-data/)
       </p>
     </div>
   </div>
