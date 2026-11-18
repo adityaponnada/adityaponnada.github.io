@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an interdisciplinary researcher at the intersection of Human-Computer Interaction (HCI), Behavior Science, and Applied AI. I use human behavioral data to address two distinct problems: measuring how users experience AI-powered products, and evaluating AI model behavior against human judgment. I develop methods and frameworks for behavioral measurement, human data collection, and AI evaluation — applied across recommendation systems, developer tools, agentic AI experiences, and wearable health.
+I am an interdisciplinary researcher at the intersection of Human-Computer Interaction (HCI), Behavior Science, and Applied AI. I develop novel methods for collecting human behavioral data in real-world contexts — to help AI systems better understand people, and to evaluate AI experiences against actual user needs.
 
 I am a Staff Researcher at [MongoDB](https://www.mongodb.com/), where I lead behavioral AI evaluation and quantitative UX research for developer-focused AI tools. Previously, I was a Research Scientist at [Spotify](https://research.atspotify.com/)'s Human-in-the-AI Lab, where I studied large-scale user behavior across music and podcast consumption and developed evaluation frameworks for recommendation systems and AI-generated content.
 
